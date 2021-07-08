@@ -1,0 +1,2643 @@
+﻿---
+ANALYTICS_FIRST_TIME_PROMPT: "Активируйте {WEBSITE} — этим вы поможете нам усовершенствовать предлагаемые решения"
+# "Enable analytics to help us make your experience better". WEBSITE will be dynamically replaced with another string
+ANALYTICS_UPDATED_PROMPT: "Обновлены аналитические данные. {WEBSITE}. Продолжить? Соглашаясь, Вы поможете нам усовершенствовать предлагаемые решения."
+# "We've updated analytics. Click to review. Continue helping us improve your experience?".
+PRIVACY_POLICY_UPDATE: "Обновлена политика конфиденциальности. {WEBSITE}. Нажмите кнопку «ОК», чтобы завершить обновление."
+# "We've updated our privacy policy.  Click to review.  Click OK to finish update.
+ANALYTICS_FIRST_TIME_PROMPT_LINK_TEXT: аналитические данные
+ANALYTICS_NEW_USER_PROMPT: Поставьте оценку ПО G HUB.
+ANALYTICS_PROMPT_COMMENT: УКАЖИТЕ ДОПОЛНИТЕЛЬНУЮ ИНФОРМАЦИЮ
+ANALYTICS_PROMPT_SUBMIT: ОТПРАВИТЬ
+ANALYTICS_PROMPT_CANCEL: ОТМЕНА
+ANALYTICS_PROMPT_DISMISS: "НЕТ, СПАСИБО"
+ANALYTICS_PROMPT_OVERLAY_DONE: ГОТОВО
+ANALYTICS_PROMPT_OVERLAY_PLACEHOLDER: Расскажите о вашем опыте использования ПО G HUB и приведите конкретные примеры.
+ANALYTICS_OVERLAY_PROMPT_SUCCESS_TITLE: Спасибо!
+ANALYTICS_OVERLAY_PROMPT_SUCCESS_MESSAGE: "Мы упорно трудимся над усовершенствованием ПО G HUB, а вы, в свою очередь, помогаете нам в достижении этой цели."
+ANALYTICS_PROMPT_OVERLAY_TITLE: Укажите дополнительную информацию.
+ANALYTICS_UPDATED_PROMPT_LINK_TEXT: Нажмите для проверки
+APPLICATION_BAR_ACTIVE_PROFILE: АКТИВНЫЙ ПРОФИЛЬ
+APPLICATION_OVERLAY_APPLICATIONS_TITLE: Игры и приложения
+APPLICATION_OVERLAY_APPLICATIONS_RESCAN_IDLE: СКАНИРОВАТЬ СЕЙЧАС
+APPLICATION_OVERLAY_APPLICATIONS_RESCAN_IN_PROGRESS: СКАНИРОВАНИЕ…
+APPLICATION_OVERLAY_APPLICATIONS_ADD_NEW_APPLICATION: ДОБАВИТЬ ИГРУ ИЛИ ПРИЛОЖЕНИЕ
+APPLICATION_OVERLAY_APPLICATIONS_ADD_NEW_PROFILE: ДОБАВИТЬ ПРОФИЛЬ ДЛЯ ВЫБРАННОГО ПРИЛОЖЕНИЯ
+APPLICATION_OVERLAY_APPLICATIONS_ADD_NEW_MACRO: ДОБАВИТЬ МАКРОС ДЛЯ ВЫБРАННОГО ПРИЛОЖЕНИЯ
+APPLICATION_OVERLAY_APPLICATIONS_APPLICATION_DISABLED: ОТКЛЮЧЕНО
+APPLICATION_OVERLAY_APPLICATIONS_APPLICATION_UNINSTALLED: НЕ УСТАНОВЛЕНО
+APPLICATION_OVERLAY_TAB_PROFILES: ПРОФИЛИ
+APPLICATION_OVERLAY_TAB_MACROS: МАКРОСЫ
+APPLICATION_OVERLAY_TAB_INTEGRATIONS: СРЕДСТВА ИНТЕГРАЦИИ
+APPLICATION_OVERLAY_TAB_SETTINGS: НАСТРОЙКИ
+APPLICATION_OVERLAY_APPLICATION_NAME_LABEL: НАЗВАНИЕ
+APPLICATION_OVERLAY_APPLICATION_LINK_LABEL: ПУТЬ
+APPLICATION_OVERLAY_APPLICATION_LINK_UNKNOWN: НЕИЗВЕСТНО
+APPLICATION_OVERLAY_APPLICATION_LINK_ADD_BUTTON: + ДОБАВИТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ПУТЬ
+APPLICATION_OVERLAY_APPLICATION_STATUS_LABEL: СТАТУС
+APPLICATION_OVERLAY_APPLICATION_STATUS_INSTALLED: УСТАНОВЛЕНО
+APPLICATION_OVERLAY_APPLICATION_STATUS_UNINSTALLED: НЕ УСТАНОВЛЕНО
+APPLICATION_OVERLAY_APPLICATION_STATUS_CUSTOM: ПОЛЬЗОВАТЕЛЬСКОЕ ПРИЛОЖЕНИЕ
+APPLICATION_OVERLAY_APPLICATION_PROFILE_SWITCHING_LABEL: ПЕРЕКЛЮЧЕНИЕ ПРОФИЛЕЙ
+APPLICATION_OVERLAY_APPLICATION_STATUS_ENABLED: ВКЛЮЧИТЬ
+APPLICATION_OVERLAY_APPLICATION_STATUS_DISABLED: ОТКЛЮЧЕНО
+APPLICATION_OVERLAY_APPLICATION_STATUS_TEXT: "{INSTALLATION_STATUS} - {ENABLED_STATUS}"
+APPLICATION_OVERLAY_APPLICATION_STATUS_TEXT_DESKTOP: "Эти настройки используются, когда активные приложения отсутствуют."
+APPLICATION_OVERLAY_DELETE_CONFIRM_NOTIFICATION: Все профили и макросы для этого приложения также будут недоступны. Вы уверены?
+APPLICATION_OVERLAY_INTEGRATIONS_DESCRIPTION: ВКЛЮЧИТЬ ИЛИ ОТКЛЮЧИТЬ СРЕДСТВА ИНТЕГРАЦИИ
+APPLICATION_OVERLAY_DELETE_APPLICATION_BUTTON: ЗАБЫТЬ ПРИЛОЖЕНИЕ
+APPLICATION_OVERLAY_DISABLE_APPLICATION_BUTTON_ENABLE: ВКЛЮЧИТЬ ПРИЛОЖЕНИЕ
+APPLICATION_OVERLAY_DISABLE_APPLICATION_BUTTON_DISABLE: ОТКЛЮЧИТЬ ПРИЛОЖЕНИЕ
+APPLICATION_OVERLAY_PROFILE_NAME_PLACEHOLDER: Назовите профиль
+APPLICATION_OVERLAY_SET_PERSISTENT_PROFILE_BUTTON: УСТАНОВИТЬ В КАЧЕСТВЕ ПОСТОЯННОГО
+APPLICATION_OVERLAY_DELETE_PROFILE_BUTTON: УДАЛИТЬ
+APPLICATION_OVERLAY_PROFILE_DETAILS_BUTTON: ПОДРОБНОСТИ
+APPLICATION_OVERLAY_PROFILE_SCRIPTING_BUTTON_TOOLTIP: Создание сценария
+APPLICATION_OVERLAY_PROFILE_DUPLICATE_BUTTON_TOOLTIP: Дублировать
+APPLICATION_OVERLAY_PROFILE_SHARE_BUTTON_TOOLTIP: Поделиться
+APPLICATION_OVERLAY_DELETE_BUTTON_TOOLTIP: Удалить
+APPLICATION_OVERLAY_PROFILE_DUPLICATE_COPY_NAME: "Копия {PROFILE}"
+# "Default copy". PROFILE is replaced dynamically.
+NAME_ENTRY_OVERLAY_CREATE_NEW_PROFILE_PLACEHOLDER: Назовите профиль
+NAME_ENTRY_OVERLAY_CREATE_NEW_PROFILE_INSTRUCTIONS: "Нажмите ENTER, чтобы создать профиль."
+NAME_ENTRY_OVERLAY_CREATE_NEW_PROFILE_DESCRIPTION: Профиль позволит Вам настроить снаряжение для разных задач.
+APPLICATION_OVERLAY_PROFILE_DETAILS_PERSISTENT_PROFILE_HEADER: Данный профиль установлен в качестве постоянного.
+APPLICATION_SETTINGS_APPLICATION_NAME: "{BRAND} G HUB"
+# "Logitech G HUB"
+APPLICATION_SETTINGS_COPYRIGHT: "© {BRAND}, 2004 — {YEAR}.  Все права защищены."
+# "Copyright © 2004 - 2018 Logitech. All rights reserved.". YEAR will be dynamically replaced with the current year.
+APPLICATION_SETTINGS_SOFTWARE: "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ: {SOFTWARE}"
+# "SOFTWARE: CHECK FOR UPDATE". SOFTWARE will be dynamically replaced by an action or status.
+APPLICATION_SETTINGS_VERSION: "ВЕРСИЯ: {VERSION}"
+# "VERSION: 2018.1.9999". VERSION will be dynamically replaced by the current version.
+APPLICATION_SETTINGS_UPDATES_CHANNEL: "ОБНОВИТЬ КАНАЛ"
+APPLICATION_SETTINGS_UPDATES_CHANNEL_NAME_PLACEHOLDER: "необходимый канал"
+APPLICATION_SETTINGS_UPDATES_CHANNEL_PASSWORD_PLACEHOLDER: "пароль"
+APPLICATION_SETTINGS_UPDATES_ENABLE_AUTOMATIC_UPDATES: "ВКЛЮЧИТЬ АВТОМАТИЧЕСКОЕ ОБНОВЛЕНИЕ"
+APPLICATION_SETTINGS_LANGUAGE: ЯЗЫК
+APPLICATION_SETTINGS_GHUB_MANUAL_HEADER: ПОДДЕРЖКА
+APPLICATION_SETTINGS_GHUB_MANUAL: Руководство по G HUB
+APPLICATION_SETTINGS_GHUB_MANUAL_LINK: "https://www.logitech.com/assets/65550/ghub.pdf"
+APPLICATION_SETTINGS_EULA_LINK_TEXT: Лицензионное соглашение
+APPLICATION_SETTINGS_UPDATES_INITIALIZING: ПОКА НЕ ГОТОВО
+APPLICATION_SETTINGS_CHECK_FOR_UPDATE: "ПРОВЕРИТЬ, ЕСТЬ ЛИ ОБНОВЛЕНИЯ"
+APPLICATION_SETTINGS_CHECKING_FOR_UPDATES: ПРОВЕРЯЕМ…
+APPLICATION_SETTINGS_DOWNLOAD_UPDATE: ЗАГРУЗИТЬ ОБНОВЛЕНИЕ
+APPLICATION_SETTINGS_DOWNLOADING_UPDATE: ЗАГРУЖАЕМ…
+APPLICATION_SETTINGS_UNPACKING_UPDATE: ОБРАБОТКА ФАЙЛОВ…
+APPLICATION_SETTINGS_INSTALL_UPDATE: УСТАНОВИТЬ ОБНОВЛЕНИЕ
+APPLICATION_SETTINGS_UPDATE_ERROR: "ОШИБКА ОБНОВЛЕНИЯ. ЩЕЛКНИТЕ, ЧТОБЫ ПОПРОБОВАТЬ СНОВА"
+APPLICATION_SETTINGS_UNSUPPORTED_OS_ERROR: НОВАЯ ВЕРСИЯ ПО G HUB НЕ ПОДДЕРЖИВАЕТСЯ ТЕКУЩЕЙ ОПЕРАЦИОННОЙ СИСТЕМОЙ. ДЛЯ ПОЛУЧЕНИЯ БОЛЕЕ ПОДРОБНОЙ ИНФОРМАЦИИ ПРОЧТИТЕ О СОВМЕСТИМОСТИ G HUB С РАЗНЫМИ ОПЕРАЦИОННЫМИ СИСТЕМАМИ.
+APPLICATION_SETTINGS_ANALYTICS_HEADER: ХОЧУ ПОВЫСИТЬ КАЧЕСТВО РАБОТЫ
+APPLICATION_SETTINGS_ANALYTICS_TOGGLE: ПРЕДОСТАВЛЯТЬ ДАННЫЕ ОБ ИСПОЛЬЗОВАНИИ
+APPLICATION_SETTINGS_ANALYTICS_ERROR_TOGGLE: "АВТОМАТИЧЕСКИ ОТПРАВЛЯТЬ ФАЙЛ РЕГИСТРАЦИИ ОШИБОК, КОГДА С G HUB ВОЗНИКАЮТ ПРОБЛЕМЫ"
+APPLICATION_SETTINGS_LIGHTING_HEADER: ПОДСВЕТКА
+APPLICATION_SETTINGS_LIGHTING_TOGGLE: ОТКЛЮЧАТЬ ПОДСВЕТКУ ПРИ ОТСУТСТВИИ АКТИВНОСТИ
+APPLICATION_SETTINGS_LIGHTING_ALLOW_ILLUMINATION: РАЗРЕШИТЬ ИГРАМ И ПРИЛОЖЕНИЯМ УПРАВЛЯТЬ ПОДСВЕТКОЙ
+APPLICATION_SETTINGS_TAB_APPLICATION_SETTINGS: НАСТРОЙКИ ПРИЛОЖЕНИЯ
+APPLICATION_SETTINGS_TAB_MY_GEAR: МОЕ СНАРЯЖЕНИЕ
+APPLICATION_SETTINGS_MY_GEAR_DESCRIPTION: "Щелкните на снаряжении, чтобы просмотреть или изменить общие настройки."
+APPLICATION_SETTINGS_WRITE_ERROR_PERMISSIONS: "Чтобы сохранить настройки, необходимо обновить разрешения. Дополнительные сведения можно найти по адресу: {WEBSITE}."
+APPLICATION_SETTINGS_WRITE_ERROR_GENERIC: "Не удалось сохранить изменения. Произошла неизвестная ошибка. Дополнительные сведения можно найти по адресу: {WEBSITE}."
+APPLICATION_SETTINGS_WRITE_ERROR_SUPPORT_LINK_TEXT: здесь
+APPLICATION_SETTINGS_WRITE_ERROR_SUPPORT_LINK_URL: "https://support.logi.com/hc/articles/1500005396981"
+APPLICATION_SETTINGS_WRITE_ERROR_BUTTON_TRY_FIX: ПОПРОБОВАТЬ ИСПРАВЛЕНИЕ
+APPLICATION_SETTINGS_WRITE_ERROR_BUTTON_DISMISS: ЗАКРЫТЬ
+APPLICATION_SETTINGS_READ_ERROR_FROM_BACKUP: "Настройки для G HUB были загружены из файла с резервной копией. Возможно, некоторые настройки изменены."
+APPLICATION_SETTINGS_TAB_ARX_CONTROL: ARX CONTROL
+APPLICATION_SETTINGS_ARX_CONTROL_HEADER_CONNECTION: ПОДКЛЮЧЕНИЕ
+APPLICATION_SETTINGS_ARX_CONTROL_HEADER_ADVANCED: ДОПОЛНИТЕЛЬНO
+APPLICATION_SETTINGS_ARX_CONTROL_HEADER_DEVICES: УСТРОЙСТВА
+APPLICATION_SETTINGS_ARX_CONTROL_DEVICE_NO_NAME: Устройство без имени
+APPLICATION_SETTINGS_ARX_CONTROL_NO_DEVICES: Ни одно устройство не авторизовано. Для авторизации запустите приложение Arx Control на мобильном устройстве.
+APPLICATION_SETTINGS_ARX_CONTROL_HEADER_AUTHORIZED: АВТОРИЗОВАНО
+APPLICATION_SETTINGS_ARX_CONTROL_DEVICE_CONNECTED: Связь установлена
+APPLICATION_SETTINGS_ARX_CONTROL_DEVICE_AUTHORIZATION_PENDING: Ожидание авторизации
+APPLICATION_SETTINGS_ARX_CONTROL_CONNECTION_CHECKBOX: АКТИВИРОВАТЬ ПОДКЛЮЧЕНИЕ ARX CONTROL
+APPLICATION_SETTINGS_ARX_CONTROL_DISCOVERY_CHECKBOX: СДЕЛАТЬ G HUB ДОСТУПНЫМ ДЛЯ ОБНАРУЖЕНИЯ
+APPLICATION_SETTINGS_ARX_CONTROL_PAIRING_CHECKBOX: РАЗРЕШИТЬ СОПРЯЖЕНИЕ НОВЫХ УСТРОЙСТВ
+APPLICATION_SETTINGS_ARX_CONTROL_TRANSMIT_DELAYS_CHECKBOX: ДОБАВИТЬ ЗАДЕРЖКИ МЕЖДУ ПЕРЕДАЧЕЙ ФАЙЛОВ
+APPLICATION_SETTINGS_ARX_CONTROL_MANUAL_CONNECTION_HEADER: ПОДКЛЮЧЕНИЕ ВРУЧНУЮ
+APPLICATION_SETTINGS_ARX_CONTROL_MANUAL_CONNECTION_IP_ADDRESS_PLACEHOLDER: IP-адрес (XXX.XXX.XXX.XXX)
+APPLICATION_SETTINGS_ARX_CONTROL_IP_ADDRESS_INCORRECT_NOTIFICATION: "Неправильный формат IP-адреса. Введите IP-адрес в следующем формате: XXX.XXX.XXX.XXX."
+APPLICATION_SETTINGS_ARX_CONTROL_IP_ADDRESS_INCORRECT_NOTIFICATION_OK: ОК
+APPLICATION_SETTINGS_ARX_CONTROL_MANUAL_CONNECTION_CONNECT_BUTTON: ПОДКЛЮЧИТЬ
+APPLICATION_SETTINGS_ARX_CONTROL_MANUAL_CONNECTION_CONNECT_BUTTON_CONNECTING: ВЫПОЛНЯЕТСЯ ПОДКЛЮЧЕНИЕ…
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_ALLOW_DEVICE: "Хотите авторизовать подключение к {DEVICE}?"
+# Would you like to authorize a connection to Pixel?. DEVICE will be replaced with a device name.
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_ALLOW_DEVICE_ALLOW: ДА
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_ALLOW_DEVICE_DENY: НЕТ
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_REMOVE_DEVICE: "Вы действительно хотите удалить {DEVICE}?"
+# Are you sure you want to remove Pixel?. DEVICE will be replaced with a device name.
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_REMOVE_DEVICE_ALLOW: ДА
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_REMOVE_DEVICE_DENY: НЕТ
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_DEVICE_REMOVED: "Устройство {DEVICE} удалено."
+# Pixel has been removed. DEVICE will be replaced with a device name.
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_DEVICE_CONNECTION_FAILED: "Не удалось подключиться к {ADDRESS}. Повторите попытку."
+# Failed to connect with 100.0.118.123. Please try again.. ADDRESS will be replaced with an ip address.
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_DEVICE_CONNECTION_FAILED_DISMISS: ОК
+APPLICATION_SETTINGS_ARX_CONTROL_NOTIFICATION_DEVICE_CONNECTION_SUCCESSFUL: "Подключение к {ADDRESS} выполнено успешно!"
+# Connection to 10.0.0.118 successful! ADDRESS will be replaced with an ip address.
+APPLICATION_SETTINGS_PERSISTENT_PROFILE_HEADER: ПОСТОЯННЫЙ ПРОФИЛЬ
+APPLICATION_SETTINGS_PERSISTENT_PROFILE_NONE: НЕТ
+APPLICATION_SETTINGS_PERSISTENT_PROFILE_HELP: "ПОСТОЯННЫЙ ПРОФИЛЬ будет иметь приоритет перед другими профилями во всех играх и программах, пока Вы не активируете другой профиль."
+APPLICATION_SETTINGS_AUTOSTART_HEADER: ЗАПУСК
+APPLICATION_SETTINGS_NOTIFICATIONS_HEADER: УВЕДОМЛЕНИЯ НА РАБОЧЕМ СТОЛЕ
+APPLICATION_SETTINGS_NOTIFICATIONS_TOGGLE: ВКЛЮЧИТЬ
+APPLICATION_SETTINGS_AUTOSTART_TOGGLE: ВСЕГДА ЗАПУСКАТЬ ПОСЛЕ ВХОДА
+APPLICATION_SETTINGS_RESET_COACH_MARKS_HEADER: ОБУЧАЮЩИЙ ВИДЕОРОЛИК
+APPLICATION_SETTINGS_RESET_COACH_MARKS_BUTTON_TEXT: ПОКАЗАТЬ ОБУЧАЮЩИЙ ВИДЕОРОЛИК ПОВТОРНО
+APPLICATION_SETTINGS_MIGRATION_HEADER: "ПЕРЕНОС ИЗ {BRAND} GAMING SOFTWARE"
+# "MIGRATION FROM LOGITECH GAMING SOFTWARE"
+APPLICATION_SETTINGS_MIGRATION_BUTTON: ИМПОРТИРОВАТЬ ВСЕ ПРОФИЛИ
+APPLICATION_CONFIGURATION_DISKFULL: Не удалось сохранить изменения. Недостаточно свободного места на диске. Освободите часть диска.
+APPLICATION_ERROR_WEBSOCKET_CONNECTION_NOTIFICATION: Во время работы приложения произошла критическая ошибка. Нажмите кнопку «ОК» для перезапуска.
+COMMUNITY_BANNER_LIGHTING_TEXT_FULL: "ПРОСМОТРЕТЬ НОВЕЙШИЕ {EFFECTS}"
+# "SEE THE NEWEST LIGHTING EFFECTS". EFFECTS will be replaced by another string.
+COMMUNITY_BANNER_LIGHTING_TEXT_BOLD: ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_BANNER_PROFILE_TEXT_FULL: "ПРОСМОТРЕТЬ САМЫЕ ПОПУЛЯРНЫЕ {PROFILES}"
+# "EXPLORE THE MOST POPULAR PROFILES". PROFILES will be replaced by another string.
+COMMUNITY_BANNER_PROFILE_TEXT_BOLD: ИГРОВЫЕ ПРОФИЛИ
+COMMUNITY_BANNER_LOGITECH_G_TEXT_FULL: "ПОСЕТИТЕ НОВЫЙ {WEBSITE}"
+# "VIST THE NEW LOGITECHG.COM". WEBSITE will be replaced by another string.
+COMMUNITY_BANNER_LOGITECH_G_TEXT_BOLD: "ВЕБ-САЙТ {BRAND} G"
+# "LOGITECH G WEBSITE". BRAND will be replaced by dynamically.
+COMMUNITY_FOOTER_LINK_CODE_OF_CONDUCT: Кодекс поведения
+COMMUNITY_FOOTER_LINK_TERMS_OF_SERVICE: Условия обслуживания
+COMMUNITY_FOOTER_LINK_LOGITECH_G_WEBSITE: "Посетите {BRAND} G"
+# "VIST Logitech G". BRAND will be replaced by dynamically.
+COMMUNITY_HOME_CATEGORY_ALL: ВСЕ
+COMMUNITY_HOME_CATEGORY_LIGHTING: ПОДСВЕТКА
+COMMUNITY_HOME_CATEGORY_PROFILES: ПРОФИЛИ
+COMMUNITY_HOME_CATEGORY_AUDIO: ЗВУК
+COMMUNITY_HOME_VIEW_ALL_BUTTON: ПРОСМОТРЕТЬ ВСЕ
+COMMUNITY_HOME_SUGGESTED_TAGS_HEADER: ПРЕДЛОЖЕННЫЕ
+COMMUNITY_SEARCH_QUERY_OPTION_ALPHABETIC: В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_OPTION_MOST_POPULAR: САМЫЕ ПОПУЛЯРНЫЕ
+COMMUNITY_SEARCH_QUERY_OPTION_MOST_DOWNLOADED: САМЫЕ ЗАГРУЖАЕМЫЕ
+COMMUNITY_SEARCH_QUERY_OPTION_MOST_RECENT: САМЫЕ НОВЫЕ
+COMMUNITY_SEARCH_QUERY_OPTION_TRENDING: ТЕНДЕНЦИИ
+COMMUNITY_LOADING: ЗАГРУЗКА…
+COMMUNITY_HOME_VIEW_NO_RESULTS: НЕТ РЕЗУЛЬТАТОВ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_PROFILES: САМЫЕ ПОПУЛЯРНЫЕ ПРОФИЛИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_PROFILES: САМЫЕ НОВЫЕ ПРОФИЛИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_PROFILES: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ПРОФИЛИ
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_PROFILES: ПРОФИЛИ В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_PROFILES: АКТУАЛЬНЫЕ ПРОФИЛИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_LIGHTING_EFFECTS: САМЫЕ ПОПУЛЯРНЫЕ ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_LIGHTING_EFFECTS: САМЫЕ НОВЫЕ ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_LIGHTING_EFFECTS: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_LIGHTING_EFFECTS: ЭФФЕКТЫ ПОДСВЕТКИ В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_LIGHTING_EFFECTS: АКТУАЛЬНЫЕ ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_SEARCH_PROFILES: "САМЫЕ ПОПУЛЯРНЫЕ ПРОФИЛИ ДЛЯ {SEARCH}"
+# MOST POPULAR OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_SEARCH_PROFILES: "САМЫЕ НОВЫЕ {SEARCH} ПРОФИЛИ"
+# MOST RECENT OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_SEARCH_PROFILES: "НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ {SEARCH} ПРОФИЛИ"
+# MOST DOWNLOADED OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_SEARCH_PROFILES: "ПРОФИЛИ {SEARCH} В АЛФАВИТНОМ ПОРЯДКЕ"
+# ALPHABETICAL OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_SEARCH_PROFILES: "АКТУАЛЬНЫЕ {SEARCH} ПРОФИЛИ"
+# TRENDING OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_SEARCH_LIGHTING_EFFECTS: "САМЫЕ ПОПУЛЯРНЫЕ {SEARCH} ЭФФЕКТЫ ПОДСВЕТКИ"
+# MOST POPULAR OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_SEARCH_LIGHTING_EFFECTS: "САМЫЕ НОВЫЕ {SEARCH} ЭФФЕКТЫ ПОДСВЕТКИ"
+# MOST RECENT OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_SEARCH_LIGHTING_EFFECTS: "НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ {SEARCH} ЭФФЕКТЫ ПОДСВЕТКИ"
+# MOST DOWNLOADED OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_SEARCH_LIGHTING_EFFECTS: "ЭФФЕКТЫ ПОДСВЕТКИ {SEARCH} В АЛФАВИТНОМ ПОРЯДКЕ"
+# ALPHABETICAL OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_SEARCH_LIGHTING_EFFECTS: "АКТУАЛЬНЫЕ {SEARCH} ЭФФЕКТЫ ПОДСВЕТКИ"
+# TRENDING OVERWATCH PROFILES. SEARCH will be replaced by a predefined search string (most probably a name of a game)
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_AUDIO_EQS: САМЫЕ ПОПУЛЯРНЫЕ ЭКВАЛАЙЗЕРЫ PRO
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_AUDIO_EQS: САМЫЕ НОВЫЕ ЭКВАЛАЙЗЕРЫ PRO
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_AUDIO_EQS: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ЭКВАЛАЙЗЕРЫ PRO
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_AUDIO_EQS: ЭКВАЛАЙЗЕРЫ PRO В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_AUDIO_EQS: АКТУАЛЬНЫЕ ЭКВАЛАЙЗЕРЫ PRO
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_AUDIO_VOICES: САМЫЕ ПОПУЛЯРНЫЕ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_AUDIO_VOICES: САМЫЕ НОВЫЕ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_AUDIO_VOICES: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_AUDIO_VOICES: ПРЕДУСТАНОВКИ BLUE VOICE В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_AUDIO_VOICES: АКТУАЛЬНЫЕ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_BV2_PRESETS: САМЫЕ ПОПУЛЯРНЫЕ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_BV2_PRESETS: САМЫЕ НОВЫЕ ПРЕДУСТАНОВКИ BLUE VOICE 2
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_BV2_PRESETS: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ПРЕДУСТАНОВКИ BLUE VOICE 2
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_BV2_PRESETS: ПРЕДУСТАНОВКИ BLUE VOICE 2 В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_BV2_PRESETS: АКТУАЛЬНЫЕ ПРЕДУСТАНОВКИ BLUE VOICE 2
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_POPULAR_VOICE_FXS: САМЫЕ ПОПУЛЯРНЫЕ ГОЛОСОВЫЕ ЭФФЕКТЫ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_RECENT_VOICE_FXS: САМЫЕ НОВЫЕ ГОЛОСОВЫЕ ЭФФЕКТЫ
+COMMUNITY_SEARCH_QUERY_HEADER_MOST_DOWNLOADED_VOICE_FXS: НАИБОЛЕЕ ЧАСТО ЗАГРУЖАЕМЫЕ ГОЛОСОВЫЕ ЭФФЕКТЫ
+COMMUNITY_SEARCH_QUERY_HEADER_ALPHABETIC_VOICE_FXS: ГОЛОСОВЫЕ ЭФФЕКТЫ В АЛФАВИТНОМ ПОРЯДКЕ
+COMMUNITY_SEARCH_QUERY_HEADER_TRENDING_VOICE_FXS: АКТУАЛЬНЫЕ ГОЛОСОВЫЕ ЭФФЕКТЫ
+COMMUNITY_SEARCH_QUERY_LOAD_MORE: ЗАГРУЗИТЬ ЕЩЕ
+COMMUNITY_ITEM_DELETE_PROFILE: УДАЛИТЬ
+COMMUNITY_ITEM_VIEW_PROFILE: ПРОСМОТРЕТЬ
+COMMUNITY_ITEM_UNKNOWN_NICKNAME: Неизвестно
+COMMUNITY_ITEM_UNKNOWN_AUTHOR: Неизвестно
+COMMUNITY_ITEM_UNKNOWN_APPLICATION: НЕИЗВЕСТНОЕ ПРИЛОЖЕНИЕ
+COMMUNITY_ITEM_DOWNLOAD_BUTTON: ЗАГРУЗИТЬ
+COMMUNITY_ITEM_STATUS_PENDING: ОЖИДАЕТ УТВЕРЖДЕНИЯ
+COMMUNITY_ITEM_STATUS_BLOCKED: ОТКЛОНЕНО
+COMMUNITY_ITEM_STATUS_BLOCK_REASON_FULL: "Причина отклонения: {REASON}"
+# "Reason for rejecting this item: This profile already exists". REASON will be replaced dynamically.
+COMMUNITY_ITEM_STATUS_PRIVATE: КОНФИДЕНЦИАЛЬНО
+COMMUNITY_NOTIFICATION_PROFILE_DELETE_CONFIRM: На самом деле удалить переданные данные?
+COMMUNITY_NOTIFICATION_PROFILE_DELETE_FAILURE: Не получилось удалить профиль!
+COMMUNITY_NOTIFICATION_PROFILE_DELETE_COMPLETE: "Профиль «{PROFILE_NAME}» удален из сообщества."
+# "Deleted “My Awesome Profile” from the community.". PROFILE_NAME will be replaced dynamically.
+COMMUNITY_USER_UPLOADS_HEADER: ПЕРЕДАННЫЕ ФАЙЛЫ
+COMMUNITY_USER_LIKES_HEADER: ПОНРАВИВШЕЕСЯ
+COMMUNITY_USER_DOWNLOADS_HEADER: ЗАГРУЗКИ
+COMMUNITY_USER_MY_PROFILES_HEADER: МОИ ПЕРЕДАННЫЕ ПРОФИЛИ
+COMMUNITY_USER_MY_EFFECTS_HEADER: МОИ ЭФФЕКТЫ ПОДСВЕТКИ
+COMMUNITY_USER_MY_VOICE_PRESETS_HEADER: МОИ ПРЕДУСТАНОВКИ BLUE VOICE
+COMMUNITY_USER_MY_EQUALIZER_PRESETS_HEADER: МОИ ПРЕДУСТАНОВКИ ЭКВАЛАЙЗЕРА PRO
+COMMUNITY_USER_MY_BV2_PRESETS_HEADER: МОИ ПРЕДУСТАНОВКИ BLUE VOICE 2
+COMMUNITY_USER_MY_VOICE_FX_HEADER: МОИ ГОЛОСОВЫЕ ЭФФЕКТЫ
+COMMUNITY_USER_MY_GEAR_HEADER: МОЕ СНАРЯЖЕНИЕ
+COMMUNITY_USER_MY_GEAR_HIDE_BUTTON: СКРЫТЬ
+COMMUNITY_USER_MY_APPLICATIONS_HEADER: МОИ ПРИЛОЖЕНИЯ
+COMMUNITY_USER_MY_APPLICATIONS_HIDE_BUTTON: СКРЫТЬ
+COMMUNITY_USER_UNKNOWN_APPLICATION: НЕИЗВЕСТНОЕ ПРИЛОЖЕНИЕ
+COMMUNITY_USER_LOGOUT_BUTTON: ВЫЙТИ
+COMMUNITY_USER_DESCRIPTION_PLACEHOLDER: "Щелкните, чтобы добавить описание."
+COMMUNITY_USER_NAME_PLACEHOLDER: "Нажмите, чтобы добавить имя пользователя."
+COMMUNITY_USER_USER_IMAGE_UPLOAD: ОТПРАВИТЬ
+COMMUNITY_LOGIN_ERROR_DUPLICATE_USERNAME: Имя пользователя уже существует.
+COMMUNITY_LOGIN_ERROR_NOT_AUTHORIZED: Неправильный адрес электронной почты или пароль.
+COMMUNITY_LOGIN_ERROR_CONFLICT: Этот адрес электронной почты уже занят.
+COMMUNITY_LOGIN_ERROR_INVALID_ARG: Не удается подключиться к сообществу G HUB. Проверьте подключение к Интернету.
+COMMUNITY_LOGIN_ERROR_UNKNOWN_ERROR: "Ошибка: {ERROR}"
+# Error: Too many requests. This is a catch-all string for unknown, errors we haven't prepared for. The actual error string will come directly from the LIDS server
+COMMUNITY_LOGIN_RESET_PASSWORD_HEADER: Сбросить пароль
+COMMUNITY_LOGIN_RESET_PASSWORD_DESCRIPTION: Получить ссылку для сброса пароля учетной записи.
+COMMUNITY_LOGIN_RESET_PASSWORD_BACK_TO_LOGIN_BUTTON: Назад на страницу входа
+COMMUNITY_LOGIN_USERNAME_PLACEHOLDER: ИМЯ ПОЛЬЗОВАТЕЛЯ
+COMMUNITY_LOGIN_EMAIL_PLACEHOLDER: АДРЕС ЭЛ. ПОЧТЫ
+COMMUNITY_LOGIN_EMAIL_CONFIRM_PLACEHOLDER: ПОДТВЕРДИТЕ АДРЕС ЭЛ. ПОЧТЫ
+COMMUNITY_LOGIN_PASSWORD_PLACEHOLDER: ПАРОЛЬ
+COMMUNITY_LOGIN_FIRST_NAME_PLACEHOLDER: ИМЯ
+COMMUNITY_LOGIN_LAST_NAME_PLACEHOLDER: ФАМИЛИЯ
+COMMUNITY_LOGIN_RESET_PASSWORD_BUTTON: СБРОС
+COMMUNITY_LOGIN_LOGIN_BUTTON: ВОЙТИ
+COMMUNITY_LOGIN_CREATE_ACCOUNT_BUTTON: СОЗДАТЬ УЧЕТНУЮ ЗАПИСЬ
+COMMUNITY_LOGIN_ALREADY_HAVE_ACCOUNT: У меня уже есть учетная запись
+COMMUNITY_LOGIN_RESET_PASSWORD_EMAIL_SENT: "Мы отправили сообщение для сброса пароля на:"
+COMMUNITY_LOGIN_CREATE_ACCOUNT_HEADER: "Создать учетную запись {BRAND}"
+# "Create Logitech Account". BRAND will be replaced by another string.
+COMMUNITY_LOGIN_CREATE_ACCOUNT_DESCRIPTION: "С учетной записью {BRAND} Вы сможете сохранять свои профили в облачном хранилище и загружать новые из сообщества Logitech G."
+# "Your Logitech account will allow you to save profiles to the cloud and download new profiles from the Logitech G Community.". BRAND will be replaced by another string.
+COMMUNITY_LOGIN_WELCOME_HEADER: "{BRAND} G — добро пожаловать!"
+# "Welcome to Logitech". BRAND will be replaced by another string.
+COMMUNITY_LOGIN_WELCOME_DESCRIPTION: "С учетной записью {BRAND} Вы сможете сохранять свои профили в облачном хранилище и загружать новые из сообщества Logitech G."
+# "Your Logitech account will allow you to save profiles to the cloud and download new profiles from the Logitech G Community.". BRAND will be replaced by another string.
+COMMUNITY_LOGIN_WELCOME_LOGIN_BUTTON: ВОЙТИ
+COMMUNITY_LOGIN_WELCOME_FORGOT_PASSWORD: Забыли пароль?
+COMMUNITY_LOGIN_REGISTER_HEADER: "Добро пожаловать в сообщество {BRAND} G!"
+# "Welcome to Logitech G Community!". BRAND will be replaced by another string.
+COMMUNITY_LOGIN_REGISTER_DESCRIPTION: Придумайте себе уникальное имя пользователя.
+COMMUNITY_LOGIN_WELCOME_JOIN_LOGITECH_G_BUTTON: СОЗДАТЬ
+COMMUNITY_LOGIN_WELCOME_SIGN_OUT_BUTTON: Выйти
+COMMUNITY_LOGIN_INVALID_EMAIL_TOOLTIP: Неправильный адрес электронной почты.
+COMMUNITY_LOGIN_INVALID_PASSWORD_TOOLTIP: В пароле должно быть хотя бы 8 символов.
+COMMUNITY_LOGIN_EMAIL_VERIFY_HEADER: Подтвердить адрес электронной почты
+COMMUNITY_LOGIN_EMAIL_VERIFY_SENT: "Мы отправили сообщение для подтверждения на:"
+COMMUNITY_LOGIN_EMAIL_VERIFY_DESCRIPTION: "Щелкните ссылку в сообщении, чтобы подтвердить свой адрес электронной почты. Если Вы не получите сообщение в течение 5 минут, пожалуйста, проверьте папку «Спам» или нажмите кнопку «ОТПРАВИТЬ СНОВА»."
+COMMUNITY_LOGIN_EMAIL_VERIFY_RESEND_BUTTON: ОТПРАВИТЬ СНОВА
+COMMUNITY_LOGIN_EMAIL_VERIFY_SWITCH_ACCOUNT_BUTTON: СНАЧАЛА
+COMMUNITY_SHARING_PROFILE_NAME_PLACEHOLDER: Добавьте название профиля…
+COMMUNITY_SHARING_EFFECT_NAME_PLACEHOLDER: Добавьте название анимационного эффекта…
+COMMUNITY_SHARING_AUDIO_NAME_PLACEHOLDER: Добавьте название предустановки…
+COMMUNITY_SHARING_PROFILE_DESCRIPTION_PLACEHOLDER: Добавьте описание профиля…
+COMMUNITY_SHARING_EFFECT_DESCRIPTION_PLACEHOLDER: Добавьте описание анимационного эффекта подсветки…
+COMMUNITY_SHARING_AUDIO_DESCRIPTION_PLACEHOLDER: Добавьте описание предустановки…
+COMMUNITY_SHARING_PUBLISH_EFFECT_NAME_REQUIRED_NOTIFICATION: Название анимационного эффекта следует указывать обязательно
+COMMUNITY_SHARING_PUBLISH_PROFILE_NAME_REQUIRED_NOTIFICATION: Название профиля следует указывать обязательно
+COMMUNITY_SHARING_PUBLISH_AUDIO_NAME_REQUIRED_NOTIFICATION: Необходимо указать название предустановки
+COMMUNITY_SHARING_PUBLISH_BUTTON: ОПУБЛИКОВАТЬ
+COMMUNITY_SHARING_PUBLISH_CANCEL_BUTTON: ОТМЕНА
+COMMUNITY_SHARING_PUBLISH_BUTTON_PUBLISHING: ПЕРЕДАЧА ФАЙЛОВ
+COMMUNITY_SHARING_PUBLISH_BUTTON_DONE: ГОТОВО
+COMMUNITY_SHARING_GENERATING_GIF_LABEL: Создаем предпоказ анимационного эффекта…
+COMMUNITY_SHARING_UPLOADING_LABEL: "Передаем {ITEM}…"
+# "Uploading Cool Animation Effect". ITEM will be replaced dynamically.
+COMMUNITY_SHARING_DEVICE_EQ_MOOD: НАСТРОЕНИЕ
+COMMUNITY_SHARING_DEVICE_EQ_CAMERA: КАМЕРА
+COMMUNITY_SHARING_DEVICE_EQ_VIDEO: ФИЛЬТР
+COMMUNITY_SHARING_DEVICE_WHEEL_SENSITIVITY: ЧУВСТВИТЕЛЬНОСТЬ
+COMMUNITY_SHARING_DEVICE_WHEEL_OPERATING_RANGE: УГОЛ ПОВОРОТА
+COMMUNITY_SHARING_DEVICE_WHEEL_CENTERING_SPRING_STRENGTH: СОПРОТИВЛЕНИЕ ЦЕНТРИРУЮЩЕЙ ПРУЖИНЫ
+COMMUNITY_SHARING_DEVICE_WHEEL_CLUTCH: СЦЕПЛЕНИЕ
+COMMUNITY_SHARING_DEVICE_WHEEL_BRAKE: ТОРМОЗ
+COMMUNITY_SHARING_DEVICE_WHEEL_ACCELERATOR: УСКОРИТЕЛЬ
+COMMUNITY_SHARING_MACRO_TOGGLE: ВКЛЮЧИТЬ СЮДА ВСЕ МАКРОСЫ ДЛЯ ЭТОГО ПРИЛОЖЕНИЯ
+COMMUNITY_SHARING_PUBLIC_TOGGLE: СДЕЛАТЬ ЭТОТ ПРОФИЛЬ ОБЩЕДОСТУПНЫМ
+COMMUNITY_SHARING_PUBLIC_TOGGLE_HELP_TEXT: Общедоступный профиль подлежит проверке.
+COMMUNITY_SHARING_PUBLIC_TOGGLE_AUDIO: СДЕЛАТЬ ЭТУ ПРЕДУСТАНОВКУ ОБЩЕДОСТУПНОЙ
+COMMUNITY_SHARING_PUBLIC_TOGGLE_AUDIO_HELP_TEXT: Общедоступные предустановки требуют проверки.
+COMMUNITY_SHARING_PUBLIC_TOGGLE_LIGHTING: СДЕЛАТЬ ЭФФЕКТ ОБЩЕДОСТУПНЫМ
+COMMUNITY_SHARING_PUBLIC_TOGGLE_LIGHTING_HELP_TEXT: Общедоступный эффект требует проверки.
+COMMUNITY_SHARING_DEVICE_LIST_TOGGLE: ВКЛЮЧИТЬ СЮДА ЭТИ УСТРОЙСТВА
+COMMUNITY_SHARING_DEVICE_LIGHTING_CUSTOM: ДРУГОЕ
+COMMUNITY_LOGGING_IN: Выполняем вход…
+COMMUNITY_NUMBER_SUFFIX_MILLION: МЛН
+COMMUNITY_NUMBER_SUFFIX_THOUSAND: ТЫС.
+COMMUNITY_TEAM_NAME_OFFICIAL_LOGITECH_G: КОМАНДА G
+DEFAULT_SLOT_NAME_WHEEL_GEAR1: 1-я
+DEFAULT_SLOT_NAME_WHEEL_GEAR2: 2-я
+DEFAULT_SLOT_NAME_WHEEL_GEAR3: 3-я
+DEFAULT_SLOT_NAME_WHEEL_GEAR4: 4-я
+DEFAULT_SLOT_NAME_WHEEL_GEAR5: 5-я
+DEFAULT_SLOT_NAME_WHEEL_GEAR6: 6-я
+DEFAULT_SLOT_NAME_WHEEL_REVERSE: Задний ход
+DEFAULT_SLOT_NAME_DPAD_UP: D-Pad вверх
+DEFAULT_SLOT_NAME_DPAD_UP_RIGHT: D-Pad вверх/вправо
+DEFAULT_SLOT_NAME_DPAD_RIGHT: D-Pad вправо
+DEFAULT_SLOT_NAME_DPAD_DOWN_RIGHT: D-Pad вниз/вправо
+DEFAULT_SLOT_NAME_DPAD_DOWN: D-Pad вниз
+DEFAULT_SLOT_NAME_DPAD_DOWN_LEFT: D-Pad вниз/влево
+DEFAULT_SLOT_NAME_DPAD_LEFT: D-Pad влево
+DEFAULT_SLOT_NAME_DPAD_UP_LEFT: D-Pad вверх/влево
+DEFAULT_SLOT_NAME_CLOCKWISE: По часовой стрелке
+DEFAULT_SLOT_NAME_COUNTERCLOCKWISE: Против часовой стрелки
+DEFAULT_SLOT_NAME_SELECT: Выбрать
+DEFAULT_SLOT_NAME_GEAR_UP: Повышение передачи
+DEFAULT_SLOT_NAME_GEAR_DOWN: Понижение передачи
+DEFAULT_SLOT_NAME_PLUS_BUTTON: +
+DEFAULT_SLOT_NAME_MINUS_BUTTON: '-'
+DEFAULT_SLOT_NAME_PLAYSTATION_BUTTON: Кнопка PS
+DEFAULT_SLOT_NAME_PLAYSTATION_TRIANGLE_BUTTON: Треугольник
+DEFAULT_SLOT_NAME_PLAYSTATION_CIRCLE_BUTTON: Круг
+DEFAULT_SLOT_NAME_PLAYSTATION_CROSS_BUTTON: Крест
+DEFAULT_SLOT_NAME_PLAYSTATION_SQUARE_BUTTON: Квадрат
+DEFAULT_SLOT_NAME_PLAYSTATION_L2_BUTTON: L2
+DEFAULT_SLOT_NAME_PLAYSTATION_R2_BUTTON: R2
+DEFAULT_SLOT_NAME_PLAYSTATION_L3_BUTTON: L3
+DEFAULT_SLOT_NAME_PLAYSTATION_R3_BUTTON: R3
+DEFAULT_SLOT_NAME_PLAYSTATION_OPTION_BUTTON: Кнопка выбора
+DEFAULT_SLOT_NAME_PLAYSTATION_SHARE_BUTTON: Поделиться
+DEFAULT_SLOT_NAME_XBOX_BUTTON: Кнопка XBox
+DEFAULT_SLOT_NAME_XBOX_A_BUTTON: A
+DEFAULT_SLOT_NAME_XBOX_B_BUTTON: B
+DEFAULT_SLOT_NAME_XBOX_X_BUTTON: X
+DEFAULT_SLOT_NAME_XBOX_Y_BUTTON: Y
+DEFAULT_SLOT_NAME_XBOX_LSB_BUTTON: LSB
+DEFAULT_SLOT_NAME_XBOX_RSB_BUTTON: RSB
+DEFAULT_SLOT_NAME_XBOX_VIEW_BUTTON: Просмотреть
+DEFAULT_SLOT_NAME_XBOX_MENU_BUTTON: Меню
+DEVICE_BATTERY_STATUS: "{VALUE}%"
+# "100%". VALUE will be replaced by a percentage value between 0 and 100
+DEVICE_ACOUSTICS_PANEL_HEADER: Акустика
+DEVICE_ACOUSTICS_SOUND_DIRECTION_LEFT: Л
+DEVICE_ACOUSTICS_SOUND_DIRECTION_RIGHT: П
+DEVICE_ACOUSTICS_SOUND_DIRECTION_FRONT: Спереди
+DEVICE_ACOUSTICS_SOUND_DIRECTION_BACK: Сзади
+DEVICE_ACOUSTICS_SOUND_DIRECTION_BASS: Низкие частоты
+DEVICE_ACOUSTICS_SURROUND_MODE_DOLBY: DOLBY
+DEVICE_ACOUSTICS_SURROUND_MODE_DTS: DTS
+DEVICE_ACOUSTICS_SURROUND_MODE_DOLBY_HEADER: РЕЖИМ DOLBY
+DEVICE_ACOUSTICS_SURROUND_MODE_DTS_HEADER: РЕЖИМ СУПЕРСТЕРЕО DTS
+DEVICE_ACOUSTICS_SURROUND_MODE_ROOM_NAME_HEADER: Режим многоканального объемного звучания
+DEVICE_ACOUSTICS_SURROUND_MODE_HEADER: РЕЖИМЫ ОБЪЕМНОГО ЗВУЧАНИЯ
+DEVICE_ACOUSTICS_SURROUND_MODE_RESET: СБРОС
+DEVICE_ACOUSTICS_SURROUND_MODE_TOOLTIP: "Применение режимов объемного звучания зависит от типа контента. Для многоканального контента будет использоваться выбранный многоканальный режим, а для стереоконтента — выбранный режим «Суперстерео»."
+DEVICE_ACOUSTICS_SURROUND_SOUND_TOGGLE: ВКЛЮЧИТЬ ОБЪЕМНОЕ ЗВУЧАНИЕ
+DEVICE_ACOUSTICS_SURROUND_SOUND_LABEL: ОБЪЕМНОЕ ЗВУЧАНИЕ
+DEVICE_ACOUSTICS_SLIDER_VOLUME_LABEL: ГРОМКОСТЬ
+DEVICE_ACOUSTICS_SLIDER_MICROPHONE_LABEL: МИКР
+DEVICE_ACOUSTICS_SLIDER_SIDETONE_LABEL: МЕСТНЫЙ ЭФФЕКТ
+DEVICE_ACOUSTICS_SLIDER_BASS_LEVEL_LABEL: УРОВЕНЬ ЗВУЧАНИЯ САБВУФЕРА
+DEVICE_ACOUSTICS_SLIDER_SIDETONE_TOOLTIP: "Воспроизведение через наушники гарнитуры звуков, улавливаемых ее микрофоном, в режиме реального времени."
+DEVICE_ACOUSTICS_SLIDER_BASS_LEVEL_DISABLED_TOOLTIP: "Чтобы воспользоваться этой функцией, необходимо обновить микропрограммы устройства. Щелкните здесь, чтобы загрузить средство обновления."
+DEVICE_ACOUSTICS_SLIDER_MUTE_LABEL: ВЫКЛ. ЗВУК
+DEVICE_ACOUSTICS_TEST_SURROUND_BUTTON_START: ПРОВЕРКА ОБЪЕМНОГО ЗВУЧАНИЯ
+DEVICE_ACOUSTICS_TEST_SURROUND_BUTTON_STOP: ОСТАНОВИТЬ ПРОВЕРКУ
+DEVICE_ACOUSTICS_VOLUME_STEPPER: "ГРОМКОСТЬ {VOLUME}"
+DEVICE_ACOUSTICS_ROOM_GAMING: Игры
+DEVICE_ACOUSTICS_ROOM_MOVIE: Фильм
+# "VOL 10". VOLUME is replaced dynamically.
+DEVICE_ACOUSTICS_PANEL_RESTORE_DEFAULTS_BUTTON: ВОССТАНОВИТЬ НАСТРОЙКИ ПО УМОЛЧАНИЮ
+DEVICE_MICROPHONE_SETTINGS_PANEL_HEADER: Микрофон
+DEVICE_MICROPHONE_SETTINGS_PANEL_MICROPHONE_VOLUME_HEADER: УРОВЕНЬ МИКРОФОНА (УСИЛЕНИЕ ВХОДНОГО УРОВНЯ)
+DEVICE_MICROPHONE_SETTINGS_PANEL_MICROPHONE_VOLUME_HEADER_YETIX: РЕЖИМ УСИЛЕНИЯ МИКРОФОНА YETI X
+DEVICE_MICROPHONE_SETTINGS_PANEL_MICROPHONE_VOLUME_HEADER_SHORT: УСИЛЕНИЕ ВХОДНОГО УРОВНЯ
+DEVICE_MICROPHONE_SETTINGS_PANEL_MICROPHONE_OUTPUT_HEADER: УРОВЕНЬ ГЛАВНОГО ВЫХОДА
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_ENABLE_CHECKBOX: "АКТИВИРОВАТЬ {LOGO}"
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_FALLBACK: BLUE VO!CE
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_PRESET_HEADER_PRO: Предустановки станции вещания / Pro
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_PRESET_HEADER_BLUE: Предустановки Blue VO!CE
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_PRESET_HEADER_CUSTOM: Пользовательские предустановки
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_PRESET_HEADER_EFFECTS: Эффекты Blue VO!CE
+DEVICE_MICROPHONE_SETTINGS_PANEL_BLUE_VOICE_PRESET_HEADER_CUSTOM_EFFECTS: Пользовательские эффекты
+DEVICE_MICROPHONE_SETTINGS_PANEL_TAB_BLUE_VOICE: BLUE VO!CE
+DEVICE_MICROPHONE_SETTINGS_PANEL_TAB_EFFECTS: ЭФФЕКТЫ
+DEVICE_MICROPHONE_SETTINGS_PANEL_BV_HEADER: Технология BLUE VO!CE предоставляет вам полный контроль над звуком с микрофона.
+DEVICE_MICROPHONE_SETTINGS_PANEL_FX_HEADER: ЭФФЕКТЫ позволяют вам произвольно менять звучание вашего голоса.
+DEVICE_MICROPHONE_SETTINGS_PANEL_LOADING: Инициализация...
+DEVICE_MICROPHONE_SETTINGS_PANEL_WAIT: (Это может занять несколько секунд)
+DEVICE_MICROPHONE_SETTINGS_BROWSE_BUTTON_TEXT: ПОИСК
+DEVICE_MICROPHONE_SETTINGS_CREATE_BUTTON_TEXT: СОЗДАТЬ
+DEVICE_MICROPHONE_SETTINGS_EQUALIZER_TAB: ЭКВАЛАЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_SIGNAL_CLEANUP_TAB: ОЧИЩЕНИЕ СИГНАЛА
+DEVICE_MICROPHONE_SETTINGS_PITCH_TAB: ТОНАЛЬНОСТЬ
+DEVICE_MICROPHONE_SETTINGS_AMBIENCE_TAB: ОКРУЖЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_PRESET_INSTRUCTIONS: Предустановки можно использовать как основу для дальнейшей кастомизации звука.
+DEVICE_MICROPHONE_SETTINGS_SEARCH_PLACEHOLDER: Предустановки фильтра
+DEVICE_MICROPHONE_SETTINGS_SEARCH_PRESETS_PLACEHOLDER: Предустановки фильтра
+DEVICE_MICROPHONE_SETTINGS_SEARCH_EFFECTS_PLACEHOLDER: Эффекты фильтра
+DEVICE_MICROPHONE_SETTINGS_BROWSE_PRESETS_BUTTON_TEXT: ПОИСК ДРУГИХ ПРЕДУСТАНОВОК
+DEVICE_MICROPHONE_SETTINGS_ADD_NEW_PRESET_BUTTON_SYMBOL: +
+DEVICE_MICROPHONE_SETTINGS_ADD_NEW_PRESET_BUTTON_TEXT: СОЗДАТЬ ПРЕДУСТАНОВКУ
+DEVICE_MICROPHONE_SETTINGS_PRESET_NAME_PLACEHOLDER: Нет названия
+DEVICE_MICROPHONE_SETTINGS_DELETE_PRESET_NOTIFICATION_TEXT: "Действительно удалить {NAME}?"
+# "Are you sure you want to delete Broadcaster Preset?. NAME will be replaced by a preset name
+DEVICE_MICROPHONE_SETTINGS_DELETE_PRESET_NOTIFICATION_CONFIRM_BUTTON_TEXT: УДАЛИТЬ
+DEVICE_MICROPHONE_SETTINGS_DELETE_PRESET_NOTIFICATION_CANCEL_BUTTON_TEXT: ОТМЕНА
+DEVICE_MICROPHONE_SETTINGS_PRESET_LABEL_NEW: НОВЫЙ
+DEVICE_MICROPHONE_SETTINGS_PANEL_MIC_TEST_HEADER: ПРОВЕРКА МИКРОФОНА
+DEVICE_MICROPHONE_SETTINGS_PANEL_MIC_TEST_HELP_NO_RECORDING: "Запишите образец голоса, чтобы проверить, как он звучит."
+DEVICE_MICROPHONE_SETTINGS_PANEL_MIC_TEST_HELP_RECORDING: Рекомендуемая длительность записи голоса — не менее 5 секунд.
+DEVICE_MICROPHONE_SETTINGS_PANEL_MIC_TEST_HELP_HAS_RECORDING: "Нажмите \"Пуск\", чтобы прослушать запись своего голоса. Этот образец можно перезаписать."
+DEVICE_MICROPHONE_SETTINGS_PANEL_MIC_TEST_HELP_PLAYING: Вы прослушиваете запись своего голоса. Этот образец можно перезаписать.
+DEVICE_MICROPHONE_SETTINGS_PANEL_ADVANCED_CONTROLS_CHECKBOX: ДОПОЛНИТЕЛЬНЫЕ ЭЛЕМЕНТЫ УПРАВЛЕНИЯ
+DEVICE_MICROPHONE_SETTINGS_PANEL_ADVANCED_CONTROL_TITLE_VOICE_EQ: ГОЛОСОВОЙ ЭКВАЛАЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_PANEL_UNIT_DB: дБ
+DEVICE_MICROPHONE_SETTINGS_PANEL_UNIT_HZ: Гц
+DEVICE_MICROPHONE_SETTINGS_PANEL_UNIT_MS: мс
+DEVICE_MICROPHONE_SETTINGS_PANEL_DB_VALUE: "{VALUE}дБ"
+# "-60db". VALUE is replaced dynamically with a decibel value.
+DEVICE_MICROPHONE_SETTINGS_PANEL_HZ_VALUE: "{VALUE}Гц"
+# "200Hz". VALUE is replaced dynamically with a Hz value.
+DEVICE_MICROPHONE_SETTINGS_PANEL_VOICE_EQ_LOW: ТИХО
+DEVICE_MICROPHONE_SETTINGS_PANEL_VOICE_EQ_MID: СРЕДНЯЯ ГРОМКОСТЬ
+DEVICE_MICROPHONE_SETTINGS_PANEL_VOICE_EQ_HIGH: ГРОМКО
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_DE_POPPER: ФИЛЬТР ВЕРХНИХ ЧАСТОТ
+# Even though the key says "DE_POPPER", this control is indeed a high-pass filter, and should be translated as such.
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_DE_ESSER: ДЕЭССЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_NOISE_REDUCTION: ШУМОПОДАВИТЕЛЬ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_GATE: ГЕЙТ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_COMPRESSOR: КОМПРЕССОР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_EXPANDER: ЭКСПАНДЕР/ГЕЙТ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_LIMITER: ЛИМИТЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_VOICE_EQUALIZER: ГОЛОСОВОЙ ЭКВАЛАЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_HIGH_PASS: ВЕРХНИЕ ЧАСТОТЫ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_LOW_PASS: НИЖНИЕ ЧАСТОТЫ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_DE_POPPER_2: ДЕПОППЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_PRIMARY_VOICE: ОСНОВНОЙ ГОЛОС
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_SECONDARY_VOICE: ДОПОЛНИТЕЛЬНЫЙ ГОЛОС
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_FLANGER_PHASER: ФЛАНЖЕР/ФЕЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_DEPTH: ГЛУБИНА
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_ENABLE_CHORUS: ЭФФЕКТ ХОРА
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_REVERB: РЕВЕРБЕРАЦИЯ
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_TIME_DELAY: ЗАДЕРЖКА
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_HEADER_RING_MODULATOR: КОЛЬЦЕВОЙ МОДУЛЯТОР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_DE_POPPER: "Фильтр верхних частот пропускает высокочастотные составляющие сигнала (с частотой выше частоты среза) и подавляет составляющие сигнала с частотой ниже частоты среза. Применяется для устранения низкочастотных шумов, таких как рев двигателей машин, гул промышленного оборудования или жужжание вентилятора в комнате."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_DE_ESSER: "Деэссер очищает высокочастотные сигналы от избыточно свистящих или шипящих звуков, которые обычно неприятны для человеческого уха. Устройство срабатывает , когда уровень шипящего сигнала превышает заданный в настройках порог выбранной полосы частот (по умолчанию устройство настроено на частоту 8 кГц)."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_NOISE_REDUCTION: "Шумоподавитель устраняет из аудиосигнала нежелательный шум. Эффективнее всего он убирает привычный постоянный однородный шум: шум вентиляторов, дороги, дождя и т. д."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_COMPRESSOR: "Компрессор сужает динамический диапазон звука, \"смягчая\" выходной сигнал в соответствии с заданными пороговыми значениями и коэффициентом компрессии. Он стабилизирует громкость звука, делая разницу между шепотом и криком не такой огромной. В результате голос звучит более ровно и четко."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_EXPANDER: "Экспандер — это шумовой гейт с регулируемым диапазоном. Он устраняет посторонние звуки во время пауз (например, если на заднем плане лает собака, шумят дети или работает телевизор). Если установить пороговое значение чуть ниже частоты вашего голоса, гейт будет \"открыт\", то есть будет пропускать сигнал, только когда вы говорите в микрофон. Как только вы замолкаете, гейт \"закрывается\" и прекращает пропускать звуковые сигналы."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_LIMITER: "Лимитер поддерживает уровень звукового сигнала не выше заданного порога и позволяет обеспечить стабильный уровень громкости за счет усиления. Тем самым громкость звука поддерживается на достаточном уровне, но не выше указанного значения."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_VOICE_EQUALIZER: ГОЛОСОВОЙ ЭКВАЛАЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_GATE: "Шумовой гейт заглушает микрофон, если уровень его сигнала ниже заданного порога. Таким образом можно полностью устранить нежелательный шум окружения, уровень которого ниже уровня полезного сигнала."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_HIGH_PASS_FILTER: "Фильтр верхних частот пропускает высокочастотные составляющие сигнала (с частотой выше частоты среза) и подавляет составляющие сигнала с частотой ниже частоты среза. Позволяет устранить низкочастотные шумы, такие как рев двигателей машин, гул промышленного оборудования или жужжание вентилятора в комнате."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_DE_POPPER_2: "Депоппер очищает низкочастотные сигналы от звуков, напоминающих взрывы или хлопки, которые обычно неприятны для человеческого уха и могут заглушить микрофон. Фильтр компрессирует сигнал на заданной частоте при превышении указанного порога."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_REVERB: "Реверберация за счет эха позволяет создать ощущение, что звук записывается в другом помещении или пространстве."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_TIME_DELAY: Задержка позволяет управлять интервалом и частотой повторения сигнала.
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_RING_MODULATOR: "Кольцевая модуляция позволяет изменять частоту сигнала, создавая интересные эффекты."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_PRIMARY_VOICE: "Основной голос — первый из двух разных голосов, которые после применения одной из предустановок могут накладываться друг на друга с задержкой и создавать эффект полифонии."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_SECONDARY_VOICE: "Вспомогательный голос — второй из двух разных голосов, которые после применения одной из предустановок могут накладываться друг на друга с задержкой и создавать эффект полифонии."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_FLANGER_PHASER: "Фланжер/фейзер позволяет управлять фазовым сдвигом сигнала, создавая интересные эффекты, в частности ощущение движения."
+DEVICE_MICROPHONE_SETTINGS_ADVANCED_SETTING_TOOLTIP_CHORUS: "Эффект хора формирует необычное звучание за счет изменения синхронности и тональности сигнала. Для этого эффекта должны быть активны и основной, и вспомогательный голоса."
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DE_POPPER: Фильтр верхних частот
+# Even though the key says "DE_POPPER", this control is indeed a high-pass filter, and should be translated as such.
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DE_ESSER: Деэссер
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_NOISE_REDUCTION: Шумоподавитель
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_COMPRESSOR: Компрессор
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_GATE: Гейт
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_EXPANDER: Экспандер/гейт
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_LIMITER: Лимитер
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DE_POPPER_2: Депоппер
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_VOICE_EQUALIZER: Голосовой эквалайзер
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PRIMARY_VOICE: Голосовая связь
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FLANGER_PHASER: Фланжер/фейзер
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FLANGER_PHASER_SLIDER: ФЛАНЖЕР/ФЕЙЗЕР
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_CHORUS: Хор
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_REVERB: Реверберация
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_TIME_DELAY: Задержка
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RING_MODULATOR: Кольцевой модулятор
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_ATTACK: АТАКА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_AUTO_THRESHOLD_SENSITIVITY: АВТОРЕГУЛИРОВКА ПОРОГОВОЙ ЧУВСТВИТЕЛЬНОСТИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_BIAS: СМЕЩЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_BOOST: ПОВЫШЕНИЕ УРОВНЯ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FREQUENCY: ЧАСТОТА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_GAIN_REDUCTION: УМЕНЬШЕНИЕ УСИЛЕНИЯ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_HYSTERESIS: ГИСТЕРЕЗИС
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_MAKEUP: ПОВЫШЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_MAXIMUM_ATTENUATION: МАКСИМАЛЬНОЕ ПОДАВЛЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FREQUENCY_SMOOTHING: СГЛАЖИВАНИЕ ЧАСТОТ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RANGE: ДИАПАЗОН
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_OUTPUT: ВЫХОД
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_INPUT: ВХОД
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RATIO: СООТНОШЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RELEASE: ВОССТАНОВЛЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_SENSITIVITY: ЧУВСТВИТЕЛЬНОСТЬ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_THRESHOLD: ПОРОГ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_WIDTH: ШИРИНА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_WIDTH_Q: ШИРИНА (Q)
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_VOICE_EQ_WIDTH_NARROW: УЗКОЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_VOICE_EQ_WIDTH_WIDE: ШИРОКОЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_NOISE_GATE_THRESHOLD: ПОРОГ ШУМОВОГО ГЕЙТА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_COMPRESSION_THRESHOLD: ПОРОГ КОМПРЕССИИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PRE_GAIN: ПРЕДУСИЛЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_MAX_ATTENUATION: МАКС. ПОДАВЛЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_HOLD_TIME: ВРЕМЯ УДЕРЖАНИЯ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_COMPRESSION_RATIO: КОЭФФИЦИЕНТ КОМПРЕССИИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_POST_GAIN: ПОСТУСИЛЕНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PRIMARY_VOICE_2: ОСНОВНОЙ ГОЛОС
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_SECONDARY_VOICE: ДОПОЛНИТЕЛЬНЫЙ ГОЛОС
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PRIMARY_FACTOR: ФАКТОР
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_SECONDARY_FACTOR: ФАКТОР
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PRIMARY_GAIN: УСИЛЕНИЕ ОСНОВНОГО ГОЛОСА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_SECONDARY_GAIN: УСИЛЕНИЕ ВСПОМОГАТЕЛЬНОГО ГОЛОСА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_ENABLE_CHORUS: ЭФФЕКТ ХОРА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DELAY_MODULATION: МОДУЛЯЦИЯ ЗАДЕРЖКИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DELAY: ЗАДЕРЖКА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DELAY_MODULATION_RATE: КОЭФФИЦИЕНТ МОДУЛЯЦИИ ЗАДЕРЖКИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PITCH_MODULATION: МОДУЛЯЦИЯ ТОНА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_PITCH_MODULATION_RATE: КОЭФФИЦИЕНТ МОДУЛЯЦИИ ТОНА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_REVERB_MODE: РЕЖИМ РЕВЕРБЕРАЦИИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_REFLECTION_MODE: РЕЖИМ ОТРАЖЕНИЯ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_MIX: МИКШИРОВАНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_REFLECTION_LPF: НЧ-ФИЛЬТР ОТРАЖЕНИЙ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_EARLY_LATE_MIX: РАННЕЕ/ПОЗДНЕЕ МИКШИРОВАНИЕ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_ROOM_SIZE: РАЗМЕР КОМНАТЫ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_INPUT_MODE: РЕЖИМ ВВОДА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FEEDBACK: ОБРАТНАЯ СВЯЗЬ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_LEFT_DELAY: ЗАДЕРЖКА СЛЕВА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FEEDBACK_MODE: РЕЖИМ ОБРАТНОЙ СВЯЗИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RIGHT_DELAY: ЗАДЕРЖКА СПРАВА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_FEEDBACK_TIMBRE_MODE: ТЕМБР ОБРАТНОЙ СВЯЗИ
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_SHAPE: ФОРМА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_DEPTH: ГЛУБИНА
+DEVICE_MICROPHONE_SETTINGS_DEEP_SETTING_HEADER_RATE: ЧАСТОТА
+DEVICE_MICROPHONE_SETTINGS_NEW_PRESET_NAME_DEFAULT: Новая предустановка
+DEVICE_MICROPHONE_SETTINGS_NEW_VOICE_EFFECT_NAME_DEFAULT: Новый эффект
+DEVICE_MICROPHONE_SETTINGS_RESTORE_DEFAULT_BUTTON: ВОССТАНОВИТЬ НАСТРОЙКИ ПО УМОЛЧАНИЮ
+DEVICE_MICROPHONE_SETTINGS_BUTTON_RESET: СБРОС
+DEVICE_MICROPHONE_SETTINGS_BUTTON_SAVE: СОХРАНИТЬ
+DEVICE_MICROPHONE_SETTINGS_BUTTON_SAVE_AS: СОХРАНИТЬ КАК
+DEVICE_MICROPHONE_SETTINGS_BUTTON_DONE: ГОТОВО
+DEVICE_MICROPHONE_SETTINGS_MODAL_EDIT_PRESET: Редактировать предустановку
+DEVICE_MICROPHONE_SETTINGS_MODAL_EDIT_EFFECT: Редактировать эффект
+DEVICE_MICROPHONE_SETTINGS_MODAL_TITLE: ЗАГОЛОВОК
+DEVICE_MICROPHONE_SETTINGS_MODAL_BUTTON_CANCEL: ОТМЕНА
+DEVICE_MICROPHONE_SETTINGS_MODAL_BUTTON_EDIT: ИЗМЕНИТЬ
+DEVICE_MICROPHONE_SETTINGS_MODAL_PLACEHOLDER: Введите название
+DEVICE_MICROPHONE_SETTINGS_NAME_COPY: "Копия {NAME}"
+# "Broadcaster preset Copy". NAME will be replaced with the name of the original preset the user copied
+DEVICE_MICROPHONE_SETTINGS_UPLOAD_TITLE: ЗАГОЛОВОК
+DEVICE_MICROPHONE_SETTINGS_UPLOAD_DESCRIPTION: ОПИСАНИЕ
+DEVICE_MICROPHONE_SETTINGS_UPLOAD_TAGS: ТЕГИ
+DEVICE_MICROPHONE_SETTINGS_UPLOAD_OPTIONS: НАСТРОЙКИ
+DEVICE_MICROPHONE_SETTINGS_NO_INPUT_DETECTED_MICROPHONE: "Отсутствует входной сигнал. Убедитесь, что микрофон не отключен."
+DEVICE_MICROPHONE_SETTINGS_NO_INPUT_DETECTED_HEADSET: "Отсутствует входной сигнал. Убедитесь, что гарнитура правильно подключена и микрофон не отключен."
+DEVICE_MICROPHONE_SETTINGS_POLAR_PATTERN_HEADER: ДИАГРАММА НАПРАВЛЕННОСТИ
+DEVICE_PRESETS_TITLE: ПРЕДУСТАНОВКИ
+DEVICE_HEADPHONE_PANEL_HEADER: Наушники
+DEVICE_SPEAKER_PANEL_HEADER: Колонки
+VOCAL_MODE_OFF: ВЫКЛ
+VOCAL_MODE_FORMANT_WARP: ИСКАЖЕНИЕ
+VOCAL_MODE_PITCH_SHIFT: СДВИГ ТОНА
+VOCAL_MODE_FORMANT_SHIFT: СДВИГ ФОРМАНТЫ
+VOCAL_MODE_ROBOT: РОБОТ
+VOCAL_MODE_WHISPEZ: ШЕПОТ
+VOCAL_MODE_NOICE: ЗАМЕЧАНИЕ
+VOCAL_MODE_GROWL: РЫЧАНИЕ
+VOCAL_MODE_AIR: ВОЗДУХ
+VOCAL_MODE_ETHER: ЭФИР
+VOCAL_MODE_HOUSEOTRON: HOUSETRON
+VOCAL_MODE_FUNKBOT: FUNKBOT
+VOCAL_MODE_TALKBOX: ТОК-БОКС
+VOCAL_MODE_SUBBY: SUBBY
+VOCAL_MODE_NO_TREBLE: БЕЗ ВЕРХОВ
+PHASER_MODE_FLANGER_UP: ВВЕРХ
+PHASER_MODE_FLANGER_DOWN: ВНИЗ
+PHASER_MODE_FLANGER_OSCILLATE: КОЛЕБАНИЯ
+PHASER_MODE_PHASER_STUN: ОГЛУШЕНИЕ
+PHASER_MODE_PHASER_HEAVY: ТЯЖЕЛЫЙ
+PHASER_MODE_PHASER_KILL: ОТСЕЧЕНИЕ
+REVERB_MODE_OFF: ВЫКЛ
+REVERB_MODE_TBD: TBD
+REFLECTION_MODE_NONE: НЕТ
+REFLECTION_MODE_TIGHT: СЖАТЫЙ
+REFLECTION_MODE_MIDMIX: MIDMIX
+REFLECTION_MODE_LARGEDIFF: СИЛЬНАЯ ДИФФУЗИЯ
+REFLECTION_MODE_ECHO: ОДИНОЧНОЕ ЭХО
+REFLECTION_MODE_ECHO2: ДВОЙНОЕ ЭХО
+REFLECTION_MODE_ECHO3: ТРОЙНОЕ ЭХО
+REFLECTION_MODE_FLUTTER: ФЛАТТЕР
+REFLECTION_MODE_ST_FLUTTER: ФЛАТТЕР СТЕРЕО
+REFLECTION_MODE_ECHO_FLUTTER: ФЛАТТЕР ЭХО
+INPUT_MODE_NORMAL: СТАНДАРТНЫЙ
+INPUT_MODE_CROSSED: ПЕРЕКРЕСТНЫЙ
+INPUT_MODE_LEFT: ВЛЕВО
+INPUT_MODE_RIGHT: ВПРАВО
+FEEDBACK_MODE_NORMAL: СТАНДАРТНЫЙ
+FEEDBACK_MODE_CROSSED: ПЕРЕКРЕСТНЫЙ
+FEEDBACK_TIMBRE_FULL: ПОЛНЫЙ
+FEEDBACK_TIMBRE_DARK: ТЕМНЫЙ
+FEEDBACK_TIMBRE_BRIGHT: СВЕТЛЫЙ
+SHAPE_MODE_SINE: СИНУСОИДА
+SHAPE_MODE_TRIANGLE: ТРЕУГОЛЬНИК
+SHAPE_MODE_SAW_TOOTH: ПИЛООБРАЗНЫЙ
+SHAPE_MODE_SQUARE: КВАДРАТ
+SHAPE_MODE_HALFWAVERECTIFIER: ПОЛУВОЛНОВОЙ ВЫПРЯМИТЕЛЬ
+DEVICE_SAMPLER_PANEL_HEADER: Образцы
+DEVICE_SAMPLER_PANEL_INFORMATION: Создавайте пользовательские макросы на основе образцов или назначайте их непосредственно на клавиши.
+DEVICE_SAMPLER_PANEL_INFORMATION_WOW: Воспроизводите популярные HD-образцы из вселенной World of Warcaft. Записывайте или импортируйте собственные образцы. Прослушивайте образцы по нажатию горячих клавиш на совместимых устройствах Logitech G.
+DEVICE_SAMPLER_SEARCH_PRESETS_PLACEHOLDER: Фильтр образцов
+DEVICE_SAMPLER_NEW_SAMPLE_NAME_DEFAULT: Новый образец
+DEVICE_SAMPLER_PANEL_SAMPLES_HEADER_LOGI: Образцы Logi G
+DEVICE_SAMPLER_PANEL_SAMPLES_HEADER_CUSTOM: Пользовательские образцы
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_LOGI_G: Образцы Logi G
+DEVICE_SAMPLER_PANEL_CATEGORY_CUSTOM_PRESET: Пользовательские образцы
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_JAINA: Джайна
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_SYLVANAS: Сильвана
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_BOLVAR: Болвар
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_BURNING_CRUSADE: Burning Crusade
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_THRALL: Тралл
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_SPELLS: Заклинания
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_SPELLS_ICONIC: Популярные заклинания
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_SPELLS_SHADOWLANDS: Shadowlands — заклинания
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_MISC_SHADOWLANDS: Shadowlands — разное
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_AMBIENCE: Фон
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_ENVIRONMENT: Среда
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_CREATURES: Существа
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_INTERFACE: Интерфейс
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_ZH: Китайские голоса - ZH
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_IT: Итальянские голоса
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_MX: Испанские голоса - LAT
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_ES: Испанские голоса - SP
+DEVICE_SAMPLER_PANEL_CATEGORY_PRESET_WOW_RU: Русские голоса
+DEVICE_SAMPLER_PANEL_CREATE_BUTTON_SYMBOL: +
+DEVICE_SAMPLER_PANEL_CREATE_BUTTON_TEXT: СОЗДАТЬ
+DEVICE_SAMPLER_PANEL_IMPORT_BUTTON_SYMBOL: ⭳
+DEVICE_SAMPLER_PANEL_IMPORT_BUTTON_TEXT: ИМПОРТ
+DEVICE_SAMPLER_PANEL_NAME_COPY: "Копия {NAME}"
+DEVICE_SAMPLER_PANEL_DELETE_SAMPLE_NOTIFICATION_TEXT: "Действительно удалить {NAME}?"
+# "Are you sure you want to delete Broadcaster Preset?. NAME will be replaced by a sample name
+DEVICE_SAMPLER_PANEL_DELETE_SAMPLE_NOTIFICATION_CONFIRM_BUTTON_TEXT: УДАЛИТЬ
+DEVICE_SAMPLER_PANEL_DELETE_SAMPLE_NOTIFICATION_CANCEL_BUTTON_TEXT: ОТМЕНА
+DEVICE_SAMPLER_PANEL_MODAL_EDIT_SAMPLE: Редактировать образец
+DEVICE_SAMPLER_PANEL_MODAL_TITLE: ЗАГОЛОВОК
+DEVICE_SAMPLER_PANEL_MODAL_BUTTON_CANCEL: ОТМЕНА
+DEVICE_SAMPLER_PANEL_MODAL_BUTTON_EDIT: ИЗМЕНИТЬ
+DEVICE_SAMPLER_PANEL_MODAL_PLACEHOLDER: Введите название
+DEVICE_SAMPLER_PANEL_IMPORT_DIALOG_TITLE: Выбрать аудиофайл
+DEVICE_SAMPLER_PANEL_IMPORT_DIALOG_BUTTON_TITLE: Импорт
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HEADER: ЗАПИСЬ/ВОСПРОИЗВЕДЕНИЕ
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HELP_NO_RECORDING: "Нажмите кнопку записи, чтобы начать запись этого пользовательского образца."
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HELP_RECORDING: "Вы записываете пользовательский образец. Чтобы остановить запись, нажмите кнопку записи повторно."
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HELP_HAS_RECORDING: "Нажмите кнопку воспроизведения, чтобы прослушать образец."
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HELP_PLAYING: Вы прослушиваете образец.
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_PLAY_HELP_PLAY_OR_REC: "Нажмите кнопку воспроизведения, чтобы прослушать пользовательский образец, или кнопку записи, чтобы записать новую версию."
+DEVICE_SAMPLER_SETTINGS_PANEL_REC_SOURCE_HEADER: ИДЕТ ЗАПИСЬ С ВХОДНОГО ИСТОЧНИКА
+DEVICE_SAMPLER_SETTINGS_BUTTON_RESET: СБРОС
+DEVICE_HEADPHONE_JACK_PANEL_HEADER: "Выходной разъем 3,5 мм"
+DEVICE_HEADPHONE_JACK_PANEL_INFORMATION: "Если наушники подключены к разъему 3,5 мм на микрофоне Yeti X, задать настройки можно здесь."
+DEVICE_HEADPHONE_JACK_PANEL_VOLUME_SLIDER_HEADER: ВЫХОД ДЛЯ НАУШНИКОВ YETI X
+DEVICE_HEADPHONE_JACK_PANEL_BLEND_SLIDER_HEADER: ПРЯМОЕ ОТСЛЕЖИВАНИЕ
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_INFORMATION: "Выберите предустановку в качестве основы, чтобы задать параметры звука."
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_HEADER_DEFAULTS: Предустановки по умолчанию
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_HEADER_CUSTOM: Пользовательские предустановки
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_DEFAULT: По умолчанию
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_FLAT: Нейтральный
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_FPS: Шутер от первого лица (FPS)
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_MOBA: Многопользовательская сетевая боевая арена (MOBA)
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_BASS_BOOST: Усиление низких частот
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_CINEMATIC: Кинофильм
+DEVICE_HEADPHONE_JACK_PANEL_EQUALIZER_PRESET_EQUALIZER_COMMUNICATIONS: Общение
+DEVICE_ASSIGNMENTS_PANEL_HEADER: Назначения
+DEVICE_ASSIGNMENT_GSHIFT_REASSIGN_WARNING: При назначении G-Shift другому слоту текущее расположение будет отключено. Продолжить?
+DEVICE_ASSIGNMENTS_TOGGLE_G_SHIFT_DEFAULT: ПО УМОЛЧАНИЮ
+DEVICE_ASSIGNMENTS_TOGGLE_G_SHIFT: G-SHIFT
+DEVICE_ASSIGNMENTS_GAME_MODE_USAGE: "Нажмите клавиши, которые нужно отключить в игровом режиме."
+DEVICE_ASSIGNMENTS_TOOLTIP_ASSIGN: Выбрать назначение
+DEVICE_ASSIGNMENTS_TOOLTIP_EMPTY: ПУСТО
+DEVICE_ASSIGNMENTS_BUTTON_SET_TO_DEFAULT: ИСПОЛЬЗОВАТЬ ПО УМОЛЧАНИЮ
+DEVICE_ASSIGNMENTS_BUTTON_DISABLE: ОТКЛЮЧИТЬ
+DEVICE_ASSIGNMENTS_MENU_OPTIONS_HEADER: Параметры
+DEVICE_ASSIGNMENTS_MENU_OPTION_TOGGLE: ПЕРЕКЛЮЧЕНИЕ
+DEVICE_ASSIGNMENTS_MENU_OPTION_MOMENTARY: КРАТКОВРЕМЕННО
+DEVICE_ASSIGNMENTS_MENU_OPTION_ONE_SHOT: ОДИН РАЗ
+DEVICE_ASSIGNMENTS_MENU_OPTION_LOOP_ON_HOLD: ПОВТОР ПРИ УДЕРЖАНИИ
+DEVICE_ASSIGNMENTS_MENU_OPTION_CONTINUOUS_LOOP: НЕПРЕРЫВНЫЙ ПОВТОР
+DEVICE_ASSIGNMENTS_VIEW_ALL_COMMANDS_TOGGLE: ПРОСМОТРЕТЬ ВСЕ КОМАНДЫ
+DEVICE_ASSIGNMENTS_TAB_LABEL_AUDIO: ЗВУК
+DEVICE_ASSIGNMENTS_TAB_LABEL_COMMANDS: КОМАНДЫ
+DEVICE_ASSIGNMENTS_TAB_LABEL_KEYS: КЛАВИШИ
+DEVICE_ASSIGNMENTS_TAB_LABEL_MACROS: МАКРОСЫ
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM: СИСТЕМА
+DEVICE_ASSIGNMENTS_TAB_LABEL_ACTIONS: ДЕЙСТВИЯ
+DEVICE_ASSIGNMENTS_TAB_LABEL_PRESETS: ПРЕДУСТАНОВКИ
+DEVICE_ASSIGNMENTS_TAB_LABEL_EFFECTS: ЭФФЕКТЫ
+DEVICE_ASSIGNMENTS_TAB_LABEL_SAMPLES: ОБРАЗЦЫ
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_AUDIO: Аудио
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_MEDIA: Мультимедиа
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_MOUSE: Мышь
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_EDITING: Изменение
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_GHUB: G HUB
+DEVICE_ASSIGNMENTS_TAB_LABEL_SYSTEM_SUBMENU_LAUNCH_APPLICATION: Запустить приложение
+DEVICE_ASSIGNMENTS_AUDIO_COMMAND_SEARCH: Поиск аудиокоманд
+DEVICE_ASSIGNMENTS_COMMAND_INSTRUCTIONS: "Чтобы назначить команду, перетащите ее на нужное устройство."
+DEVICE_ASSIGNMENTS_COMMAND_TOGGLE_DEFAULT: ОТОБРАЖАТЬ КОМАНДЫ ПО УМОЛЧАНИЮ
+DEVICE_ASSIGNMENTS_COMMAND_TOGGLE_LIGHTING: ОТОБРАЖАТЬ ПОДСВЕТКУ ДЛЯ КОМАНД
+DEVICE_ASSIGNMENTS_COMMAND_SEARCH: Поиск команд
+DEVICE_ASSIGNMENTS_MACROS_INSTRUCTIONS: "Чтобы назначить макрос, перетащите его на нужное устройство."
+DEVICE_ASSIGNMENTS_MACROS_SEARCH: Поиск макросов
+DEVICE_ASSIGNMENTS_MACROS_CREATE_NEW_BUTTON: СОЗДАТЬ НОВЫЙ МАКРОС
+DEVICE_ASSIGNMENTS_SYSTEM_INSTRUCTIONS: "Чтобы назначить элемент управления системой, перетащите его на нужное устройство."
+DEVICE_ASSIGNMENTS_SYSTEM_SEARCH: Поиск элемента управления системой
+DEVICE_ASSIGNMENTS_REMOVE_COLOR: БЕЗ ЦВЕТА
+DEVICE_ASSIGNMENTS_ACTIONS_INSTRUCTIONS: "Чтобы назначить действия в этом профиле, перетаскивайте их на соответствующие кнопки."
+DEVICE_ASSIGNMENTS_ACTIONS_SEARCH: Найти действие
+DEVICE_ASSIGNMENTS_ACTIONS_ADD_NEW_ACTION_SYMBOL: +
+DEVICE_ASSIGNMENTS_ADD_APPLICATION: ДОБАВИТЬ ПРИЛОЖЕНИЕ
+DEVICE_ASSIGNMENTS_PRESETS_INSTRUCTIONS: "Чтобы назначить предустановки в этом профиле, перетаскивайте их на соответствующие кнопки."
+DEVICE_ASSIGNMENTS_PRESETS_SEARCH: Поиск предустановки
+DEVICE_ASSIGNMENTS_PRESETS_NAME_BV2_PRESET: Предустановки Blue VO!CE
+DEVICE_ASSIGNMENTS_PRESETS_NAME_BV2_CUSTOM_PRESET: Пользовательские предустановки
+DEVICE_ASSIGNMENTS_EFFECTS_INSTRUCTIONS: "Чтобы назначить эффекты в этом профиле, перетаскивайте их на соответствующие кнопки."
+DEVICE_ASSIGNMENTS_EFFECTS_SEARCH: Поиск эффекта
+DEVICE_ASSIGNMENTS_PRESETS_NAME_EFFECTS_PRESET: Эффекты Blue VO!CE
+DEVICE_ASSIGNMENTS_PRESETS_NAME_EFFECTS_CUSTOM_PRESET: Пользовательские эффекты
+DEVICE_ASSIGNMENTS_PRESETS_NAME_SAMPLES_PRESET: Образцы Logi G
+DEVICE_ASSIGNMENTS_PRESETS_NAME_SAMPLES_CUSTOM_PRESET: Пользовательские образцы
+DEVICE_ASSIGNMENTS_SAMPLES_INSTRUCTIONS: "Чтобы назначить образцы в этом профиле, перетаскивайте их на соответствующие кнопки."
+DEVICE_ASSIGNMENTS_SAMPLES_SEARCH: Поиск образца
+APPLICATION_LAUNCH_EDITOR_HEADER: ЗАПУСТИТЬ ПРИЛОЖЕНИЕ
+DEVICE_ASSIGNMENTS_ACTIONS_ADD_NEW_DEFAULT: СОЗДАТЬ ДЕЙСТВИЕ
+DEVICE_ASSIGNMENTS_ACTIONS_ADD_NEW: "СОЗДАТЬ ДЕЙСТВИЕ ДЛЯ {ACTION_TYPE}"
+# "CREATE NEW OBS ACTION" ACTION_TYPE will be replaced dynamically
+DEVICE_ASSIGNMENTS_ACTIONS_OPEN_APP: "Откройте, пожалуйста, приложение {APP_NAME}"
+# "Please open OBS" APP_NAME will be replaced dynamically
+DEVICE_ASSIGNMENTS_ACTIONS_INTEGRATION_DISABLED: "{APP_NAME} отключено"
+# "OBS disabled" APP_NAME will be replaced dynamically
+DEVICE_ASSIGNMENTS_ACTIONS_APP_NOT_INSTALLED: "Установите {APP_NAME}"
+# "Please install OBS" APP_NAME will be replaced dynamically
+DEVICE_ASSIGNMENTS_ACTIONS_MANAGE_INTEGRATION: УПРАВЛЕНИЕ ИНТЕГРАЦИЕЙ
+APPLICATION_LAUNCH_ARGUMENTS_HELP_TEXT: "G HUB не будет фиксировать ошибки, вызванные неправильными аргументами приложений. Тщательно проверяйте аргументы и используйте для них соответствующие суффиксы (--, -, / и т. д.), в зависимости от ОС и требований приложения."
+APPLICATION_LAUNCH_EDITOR_NAME: НАЗВАНИЕ
+APPLICATION_LAUNCH_EDITOR_NAME_PLACEHOLDER: Название приложения
+APPLICATION_LAUNCH_EDITOR_PATH: ПУТЬ К ФАЙЛУ
+APPLICATION_LAUNCH_EDITOR_PATH_EDIT: ИЗМЕНИТЬ
+APPLICATION_LAUNCH_EDITOR_PATH_PLACEHOLDER: Путь приложения не задан
+APPLICATION_LAUNCH_EDITOR_ADD_ARGUMENTS_BUTTON: ДОБАВИТЬ АРГУМЕНТЫ
+APPLICATION_LAUNCH_EDITOR_ARGUMENTS: АРГУМЕНТЫ
+APPLICATION_LAUNCH_EDITOR_ARGUMENTS_PLACEHOLDER: Нет аргументов
+APPLICATION_LAUNCH_EDITOR_ARGUMENT_PLACEHOLDER: Новый аргумент
+APPLICATION_LAUNCH_EDITOR_ADD_ARGUMENT_BUTTON: ДОБАВИТЬ АРГУМЕНТЫ
+APPLICATION_LAUNCH_EDITOR_SAVE_BUTTON: СОХРАНИТЬ
+APPLICATION_LAUNCH_EDITOR_DELETE_BUTTON: УДАЛИТЬ
+APPLICATION_LAUNCH_EDITOR_DELETE_CONFIRMATION: Вы действительно хотите удалить ярлык этого приложения?
+DEVICE_DPI_PANEL_HEADER: Чувствительность (DPI)
+DEVICE_DPI_LEVELS_HEADER: СКОРОСТИ DPI
+DEVICE_DPI_LEVELS_EDIT_BUTTON: ИЗМЕНИТЬ
+DEVICE_DPI_PANEL_INTRODUCTION: DPI — это скорость курсора мыши на экране. Ее можно быстро менять с помощью кнопок DPI на мыши.
+DEVICE_DPI_PANEL_USAGE_DPI_SPEED: "Ваша {CURRENT_DPI_SPEED} подчеркнута."
+# "Your CURRENT DPI SPEED is underlined". CURRENT_DPI_SPEED is replaced with another string.
+DEVICE_DPI_PANEL_CURRENT_DPI_SPEED: СКОРОСТЬ DPI В ДАННЫЙ МОМЕНТ
+DEVICE_DPI_PANEL_USAGE_DPI_SHIFT: "Зажмите кнопку {DPI_SHIFT}, чтобы быстро переключить скорость во время игры."
+# "Hold down a DPI SHIFT button to quickly toggle to another speed while gaming.". DPI_SHIFT is replaced with another string.
+DEVICE_DPI_PANEL_DPI_SHIFT: ПЕРЕКЛЮЧАТЕЛЬ DPI
+DEVICE_DPI_PANEL_ASSIGNMENTS_LINK_TEXT: НАЗНАЧИТЬ ДЛЯ МЫШИ
+DEVICE_DPI_REPORT_RATE_HEADER: ЧАСТОТА ОПРОСА (В СЕКУНДУ)
+DEVICE_DPI_REPORT_RATE_INTRODUCTION: "Выберите, как часто мышь будет передавать информацию компьютеру."
+DEVICE_DPI_REPORT_RATE_DISABLED_BY_BLUETOOTH: "В режиме подключения по Bluetooth недоступен выбор частоты опроса. Чтобы воспользоваться этой функцией, смените режим подключения."
+DEVICE_DPI_REPORT_RATE_DISABLED_BY_ENDURANCE: "В режиме низкой производительности недоступен выбор частоты опроса. Чтобы воспользоваться этой функцией, переведите устройство в режим высокой производительности."
+DEVICE_DPI_PANEL_RESTORE_DEFAULT_BUTTON: ВОССТАНОВИТЬ НАСТРОЙКИ ПО УМОЛЧАНИЮ
+DEVICE_CHARGEPAD_PANEL_HEADER: Подключение
+DEVICE_CHARGEPAD_PANEL_INTRODUCTION: "Приемник LIGHTSPEED можно подключать к беспроводным игровым мышам, совместимым с POWERPLAY."
+DEVICE_CHARGEPAD_PANEL_USAGE: "Сначала убедитесь, что беспроводной наноприемник LIGHTSPEED, который шел в комплекте с мышью, не подключен. Затем отключите питание мыши и включите его снова."
+DEVICE_CHARGEPAD_DISCONNECT: ОТКЛЮЧИТЬСЯ
+DEVICE_CHARGEPAD_SEARCHING: ПОИСК…
+DEVICE_CHARGEPAD_CHARGE_CONTROL: БЕСПРОВОДНАЯ ЗАРЯДКА POWERPLAY
+DEVICE_CHARGEPAD_TOGGLE: ВКЛЮЧИТЬ
+DEVICE_EQUALIZER_PANEL_HEADER: Эквалайзер
+DEVICE_EQUALIZER_INSTRUCTIONS: "Чтобы настроить эквалайзер, выберите в раскрывающемся списке пункт «Новый эквалайзер»."
+DEVICE_EQUALIZER_HERTZ: ГЦ
+DEVICE_EQUALIZER_ADVANCED_TITLE: РАСШИРЕННЫЙ ЭКВАЛАЙЗЕР
+DEVICE_EQUALIZER_RESET_BAND_BUTTON: СБРОС
+DEVICE_EQUALIZER_SAVE_TO_ONBOARD_MEMORY_BUTTON: СОХРАНИТЬ ЭКВАЛАЙЗЕР НА ВСТРОЕННОМ ЗУ (ЦАП)
+DEVICE_EQUALIZER_SAVE_TO_ONBOARD_MEMORY_BUTTON_SAVED: СОХРАНЕНО НА ВСТРОЕННОМ ЗУ (ЦАП)
+DEVICE_EQUALIZER_SAVE_TO_ONBOARD_MEMORY_BUTTON_UPDATE: ОБНОВЛЕНИЕ ВСТРОЕННОЙ ПАМЯТИ (ЦАП)
+DEVICE_EQUALIZER_SLIDER_BASS_LABEL: НИЗКИЕ ЧАСТОТЫ
+DEVICE_EQUALIZER_SLIDER_TREBLE_LABEL: ВЫСОКИЕ ЧАСТОТЫ
+DEVICE_EQUALIZER_MOODS: НАСТРОЕНИЕ
+DEVICE_EQUALIZER_SPEAKER_MOODS: Тональности колонок
+DEVICE_EQUALIZER_ADD_NEW_EQUALIZER: + ДОБАВИТЬ НОВЫЙ ЭКВАЛАЙЗЕР
+DEVICE_EQUALIZER_TOGGLE_ENABLE_ADVANCED: Включить расширенный эквалайзер
+DEVICE_EQUALIZER_PRO_INSTRUCTIONS: Предустановки можно использовать как основу для дальнейшей кастомизации звука.
+DEVICE_EQUALIZER_PRO_PRESET_SEARCH_PLACEHOLDER: Предустановки фильтра
+DEVICE_EQUALIZER_PRO_SETTINGS_PANEL_EQUALIZER_PRESET_HEADER_PRO: ПРЕДУСТАНОВКИ PRO ДЛЯ КИБЕРСПОРТСМЕНОВ
+DEVICE_EQUALIZER_PRO_SETTINGS_PANEL_EQUALIZER_PRESET_HEADER_DEFAULTS: ПО УМОЛЧАНИЮ
+DEVICE_EQUALIZER_PRO_SETTINGS_PANEL_EQUALIZER_PRESET_HEADER_CUSTOM: ДРУГОЕ
+DEVICE_EQUALIZER_PRO_SETTINGS_DELETE_PRESET_NOTIFICATION_TEXT: "Действительно удалить {NAME}?"
+# "Are you sure you want to delete Broadcaster Preset?. NAME will be replaced by a preset name
+DEVICE_EQUALIZER_PRO_SETTINGS_DELETE_PRESET_NOTIFICATION_CONFIRM_BUTTON_TEXT: УДАЛИТЬ
+DEVICE_EQUALIZER_PRO_SETTINGS_DELETE_PRESET_NOTIFICATION_CANCEL_BUTTON_TEXT: ОТМЕНА
+DEVICE_EQUALIZER_PRO_CREATE_NEW_EQUALIZER_BUTTON_TEXT: СОЗДАТЬ ПРЕДУСТАНОВКУ ЭКВАЛАЙЗЕРА
+DEVICE_EQUALIZER_PRO_CREATE_NEW_EQUALIZER_BUTTON_SYMBOL: +
+DEVICE_EQUALIZER_PRO_BROWSE_PRESETS_BUTTON_TEXT: ПОИСК ДРУГИХ ПРЕДУСТАНОВОК
+DEVICE_EQUALIZER_NAME_COPY: "Копия {NAME}"
+# "Default Copy". NAME will be replaced with the name of the original preset the user copied
+DEVICE_MICROPHONE_LIGHTING_PANEL_HEADER: Подсветка
+DEVICE_MICROPHONE_LIGHTING_PANEL_LIVE_MUTE_INFO: "Выберите эффект светодиодной подсветки для ручки регулировки, а также оттенок для индикации активного режима/режима включения и беззвучного режима."
+DEVICE_MICROPHONE_LIGHTING_PANEL_METERING_INFO: "Выберите оттенки для обозначения измерений, когда ручка регулировки находится в положении, соответствующем режиму усиления микрофона."
+DEVICE_MICROPHONE_LIGHTING_PANEL_MODES_INFO: "Выберите оттенки и эффекты светодиодной подсветки для разных режимов, которые можно задать с помощью ручки регулировки."
+DEVICE_MICROPHONE_LIGHTING_PANEL_POLAR_INFO: Выберите оттенки и эффекты светодиодной подсветки для индикаторов диаграммы направленности на задней панели устройства.
+DEVICE_MICROPHONE_LIGHTING_PANEL_COLOR_WARNING_MODE: "Рекомендуется выбрать оттенок, который не используется для других режимов."
+DEVICE_MICROPHONE_LIGHTING_PANEL_COLOR_WARNING_METERING: "Рекомендуется выбрать оттенок, не повторяющийся для других этапов измерения."
+DEVICE_MICROPHONE_LIGHTING_PANEL_COLOR_BLOCKED: "Выбирайте разные оттенки для режимов, чтобы было проще различить работу в активном и беззвучном режимах."
+DEVICE_MICROPHONE_LIGHTING_CANVAS_LIVE_MUTE_INFO: "Нажмите ручку регулировки, чтобы переключиться из режима записи в режим отключения звука."
+DEVICE_MICROPHONE_LIGHTING_CANVAS_MODE_INFO: "Нажмите регулятор и удерживайте его нажатым 2 секунды, чтобы переключаться между 3 элементами управления для режимов."
+DEVICE_MICROPHONE_LIGHTING_CANVAS_GAIN_METERING_INFO: "Индикаторы измерения загораются только тогда, когда микрофон находится в режиме усиления. Они отображают уровень заданного усиления, а через 2 секунды переходят в режим измерения."
+DEVICE_MICROPHONE_LIGHTING_CANVAS_POLAR_PATTERN_INFO: "Нажмите кнопку на задней панели, чтобы выбрать диаграмму направленности."
+DEVICE_MICROPHONE_LIGHTING_CANVAS_BUTTON_RESET: СБРОС
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_LIVE: АКТИВНЫЙ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_MUTE: ВЫКЛ. ЗВУК
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_MICROHPONE_GAIN: МИКРОФОН
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_HEADPHONE_VOLUME: НАУШНИКИ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_SIDETONE_BLEND: ПРЯМОЕ ОТСЛЕЖИВАНИЕ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_CARDIOID_STEREO: СТЕРЕО
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_OMNIDIRECTIONAL: ВСЕНАПРАВЛЕННЫЙ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_CARDIOID_MONO: КАРДИОИДНЫЙ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_BIDIRECTIONAL: ДВУНАПРАВЛЕННЫЙ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_NORMAL: СТАНДАРТНЫЙ
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_HIGH: ГРОМКО
+DEVICE_MICROPHONE_LIGHTING_PANEL_ZONE_PEAK: ПИКОВЫЙ
+DEVICE_LIGHTING_PANEL_HEADER: LIGHTSYNC
+DEVICE_LIGHTING_BLUETOOTH_WARNING_TOOLTIP: "Не все эффекты доступны в режиме Bluetooth. Чтобы получить доступ ко всем эффектам, выберите другой способ подключения."
+DEVICE_LIGHTING_ONBOARD_WARNING_TOOLTIP: "Выберите один из готовых эффектов подсветки Logitech G или пользовательских эффектов, сохраненных в памяти устройства. Используйте меню настроек устройства, чтобы сохранять эффекты подсветки на устройстве."
+# Do not translate LIGHTSYNC
+DEVICE_LIGHTING_CANVAS_PREVIEW_UNAVAILABLE: "При использовании эффектов подсветки, сохраненных в памяти устройства, предварительный просмотр подсветки недоступен"
+DEVICE_LIGHTING_ZONE_NAME_PRIMARY: ОСНОВНАЯ
+DEVICE_LIGHTING_ZONE_NAME_BRANDING: ЛОГОТИП
+DEVICE_LIGHTING_ZONE_NAME_FRONT: ПЕРЕДНЯЯ
+DEVICE_LIGHTING_ZONE_NAME_BACK: ЗАДНЯЯ
+DEVICE_LIGHTING_ZONE_NAME_LIVE_MUTE: АКТИВНЫЙ/БЕЗЗВУЧНЫЙ
+DEVICE_LIGHTING_ZONE_NAME_GAIN_METERING: ИЗМЕРЕНИЕ
+DEVICE_LIGHTING_ZONE_NAME_MODE: РЕЖИМ
+DEVICE_LIGHTING_ZONE_NAME_POLAR_PATTERN: ДИАГРАММА
+DEVICE_LIGHTING_ZONE_NAME_TOP: ВЕРХ
+DEVICE_LIGHTING_ZONE_NAME_BOTTOM: НИЗ
+DEVICE_LIGHTING_EFFECT_DELETE_CONFIRM_LABEL: "Действительно удалить {EFFECT}?"
+# "Are you sure you want to delete My Awesome Lighting Effect?. EFFECT is replaced dynamically.
+DEVICE_LIGHTING_EFFECT_STOP_EDITING_CONFIRM_LABEL: Хотите сохранить внесенные изменения?
+DEVICE_LIGHTING_ADD_NEW_EFFECT: + ДОБАВИТЬ НОВЫЙ АНИМАЦИОННЫЙ ЭФФЕКТ
+DEVICE_LIGHTING_ADD_NEW_FREESTYLE_EFFECT: + ДОБАВИТЬ НОВЫЙ ЭФФЕКТ В СВОБОДНОМ СТИЛЕ
+DEVICE_LIGHTING_EFFECT_COPY_NAME: "Копия {EFFECT}"
+# "My awesome lighting animation copy". EFFECT is replaced dynamically.
+DEVICE_LIGHTING_EFFECT_NEW_EFFECT_NAME: Новый анимационный эффект
+DEVICE_LIGHTING_EFFECT_NEW_FREESTYLE_EFFECT_NAME: Новый эффект в свободном стиле
+DEVICE_LIGHTING_EFFECT_DEFAULT_NAME: По умолчанию
+DEVICE_LIGHTING_EFFECT_FREESTYLE_DEFAULT_NAME: "По умолчанию: свободный стиль"
+DEVICE_LIGHTING_COLOR_PICKER_HEADER: ЦВЕТ
+DEVICE_LIGHTING_BGND_COLOR_PICKER_HEADER: ЦВЕТ ФОНА
+DEVICE_LIGHTING_COLOR_PICKER_BRUSH_HEADER: ЦВЕТНАЯ КИСТЬ
+DEVICE_LIGHTING_EFFECT_DROPDOWN_HEADER: ЭФФЕКТ
+DEVICE_LIGHTING_EFFECT_DROPDOWN_TITLE: ЭФФЕКТЫ
+DEVICE_LIGHTING_EFFECT_EDIT_BUTTON: ИЗМЕНИТЬ
+DEVICE_LIGHTING_EFFECT_SAVE_BUTTON: СОХРАНИТЬ
+DEVICE_LIGHTING_EFFECT_EDITOR_ZOOM_LEVEL: "{VALUE}%"
+# "100%". VALUE will be replaced with a percentage (25, 50 or 100)
+DEVICE_LIGHTING_EFFECT_CANCEL_BUTTON: ОТМЕНА
+DEVICE_LIGHTING_EFFECT_TRANSITION_HEADER: ПЕРЕХОД
+DEVICE_LIGHTING_EFFECT_NAME_HEADER: НАЗВАНИЕ
+DEVICE_LIGHTING_EFFECT_SPEED_DEFAULT_HEADER: СКОРОСТЬ ПО УМОЛЧАНИЮ
+DEVICE_LIGHTING_EFFECT_SPEED_HEADER: СКОРОСТЬ
+DEVICE_LIGHTING_EFFECT_SPEED_UNIT_MILLISECONDS: мс
+DEVICE_LIGHTING_EFFECT_DIRECTION_HEADER: ЦИКЛ
+DEVICE_LIGHTING_EFFECT_RATE_HEADER: ЧАСТОТА
+DEVICE_LIGHTING_EFFECT_RATE_UNIT: мс
+DEVICE_LIGHTING_EFFECT_BRIGHTNESS_HEADER: ЯРКОСТЬ
+DEVICE_LIGHTING_EFFECT_BRIGHTNESS_UNIT_PERCENT: "%"
+DEVICE_LIGHTING_EFFECT_OVERLAP_HEADER: НАЛОЖЕНИЕ
+DEVICE_LIGHTING_EFFECT_OVERLAP_UNIT_PERCENT: "%"
+DEVICE_LIGHTING_EFFECT_BACKGROUND_COLOR: ЦВЕТ ФОНА
+DEVICE_LIGHTING_EFFECT_ECHO_COLOR: ЦВЕТОВОЕ ЭХО
+DEVICE_LIGHTING_EFFECT_STARLIGHT_SKY: НЕБО
+DEVICE_LIGHTING_EFFECT_STARLIGHT_STARS: ЗВЕЗДЫ
+DEVICE_LIGHTING_EFFECT_ONBOARD_SLOT_HEADER: СЛОТ ЭФФЕКТА
+DEVICE_LIGHTING_EFFECT_FRAME_RATE_HEADER: ЧАСТОТА КАДРОВ
+DEVICE_LIGHTING_EFFECT_FRAME_RATE_UNIT: мс
+DEVICE_LIGHTING_EFFECT_NAME_SCREEN_SAMPLER: ДИСКРЕТИЗАТОР
+DEVICE_LIGHTING_EFFECT_ADVANCED_SETTINGS: РАСШИРЕННЫЕ НАСТРОЙКИ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_KEYBOARDS: "Выберите образец ниже, а затем — клавиши, чтобы сопоставить их с образцом на клавиатуре."
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_ZONAL: "Выберите образец ниже, а затем щелкните зоны подсветки на изображении устройства, чтобы сопоставить их с образцом."
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_SELECTED_KEYBOARD: "Клавиши для текущего образца"
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_OTHER_KEYBOARD: "Клавиши для других образцов"
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_SELECTED_ZONAL: "Подсветка для текущего образца"
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_INFO_TEXT_OTHER_ZONAL: "Подсветка для других образцов"
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_RESTORE_DEFAULTS: ВОССТАНОВИТЬ ЗНАЧЕНИЯ ПО УМОЛЧАНИЮ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_HEADER: ОБРАЗЕЦ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_EDIT_BUTTON: ИЗМЕНИТЬ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_STOP_EDITING_BUTTON: ПРЕКРАТИТЬ ИЗМЕНЕНИЕ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_ADD_NEW_REGION_BUTTON: ДОБАВИТЬ НОВЫЙ ОБРАЗЕЦ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_NAME_PLACEHOLDER: Нет названия
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_SAMPLE_DEFAULT_NAME: "Произвольный образец {SAMPLE_NUMBER}"
+# "Custom sample 1". SAMPLE_NUMBER will be replaced dynamically with a number
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_DEFAULT_SAMPLE_NAME: "(По умолчанию) {SAMPLE_NAME}"
+# "(Default) Top Right". SAMPLE_NAME will be replaced dynamically
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_DELETE_HELP: "Чтобы удалить образец, выберите его и нажмите клавишу DELETE."
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_TAKE_SCREENSHOT: ОБНОВИТЬ ЭКРАН
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SAMPLE_EDITOR_CUSTOM_BACKGROUND: ВЫБЕРИТЕ ЭТАЛОННОЕ ИЗОБРАЖЕНИЕ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_TOP_RIGHT: ВВЕРХУ СПРАВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_TOP_LEFT: ВВЕРХУ СЛЕВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_MID_RIGHT: СРЕДНЯЯ СПРАВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_MID_LEFT: СРЕДНЯЯ СЛЕВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_BOTTOM_RIGHT: ВНИЗУ СПРАВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_BOTTOM_LEFT: ВНИЗУ СЛЕВА
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_BOTTOM_CENTER: ВНИЗУ ПО ЦЕНТРУ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_CENTER: ЦЕНТР
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_REFRESH_RATE: ЧАСТОТА ОБНОВЛЕНИЯ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_COLOR_BOOST: УСИЛЕНИЕ ЦВЕТОВ
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_COLOR_BOOST_UNIT_PERCENTAGE: "%"
+DEVICE_LIGHTING_EFFECT_SCREEN_SAMPLER_SMOOTHING: СГЛАЖИВАНИЕ
+DEVICE_LIGHTING_EFFECT_NAME_AUDIO_VISUALIZER: ВИЗУАЛИЗАТОР ЗВУКА
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR: ЦВЕТ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_HEADER: ЦВЕТОВОЙ РЕЖИМ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_FIXED: ПОСТОЯННЫЙ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_GRADIENT: ГРАДИЕНТНЫЙ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_REACTIVE: РЕАКТИВНЫЙ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_REACTIVE_LOW_COLOR: НИЗКИЕ ЧАСТОТЫ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_COLOR_MODE_REACTIVE_HIGH_COLOR: ВЫСОКИЕ ЧАСТОТЫ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_CLIPPING_ZONE: ЗОНА КАДРИРОВАНИЯ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_CLIPPING_ZONE_ON: ВКЛ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_CLIPPING_ZONE_OFF: ВЫКЛ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_CLIPPING_ZONE_THRESHOLD: ПОРОГ ЗОНЫ КАДРИРОВАНИЯ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_BASS_NOISE_THRESHOLD: Шумовой порог для низких частот
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_MID_HIGH_NOISE_THRESHOLD: Шумовой порог для средних и высоких частот
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_THRESHOLD_UNIT_PERCENTAGE: "%"
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_AUDIO_BOOST: УСИЛЕНИЕ ЗВУКА
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_SMOOTH_ANIMATION: СГЛАЖИВАНИЕ АНИМАЦИОННОГО ЭФФЕКТА
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_PULSE_ON_BASS_ONLY: ПУЛЬСАЦИЯ ТОЛЬКО НА НИЗКИХ ЧАСТОТАХ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_USE_ADAPTIVE_MAX_AMPLITUDE: ИСПОЛЬЗОВАТЬ АДАПТИВНУЮ МАКСИМАЛЬНУЮ АМПЛИТУДУ
+DEVICE_LIGHTING_EFFECT_AUDIO_VISUALIZER_CUSTOM_MAX_AMPLITUDE: МАКСИМАЛЬНАЯ АМПЛИТУДА
+DEVICE_LIGHTING_TAB_LABEL_PRESETS: ПРЕДУСТАНОВКИ
+DEVICE_LIGHTING_TAB_LABEL_FREESTYLE: СВОБОДНЫЙ СТИЛЬ
+DEVICE_LIGHTING_TAB_LABEL_CUSTOM: АНИМАЦИОННЫЕ ЭФФЕКТЫ
+DEVICE_LIGHTING_SYNC_LIGHTING_ZONES_BUTTON: СИНХРОНИЗИРОВАТЬ ЗОНЫ ПОДСВЕТКИ
+DEVICE_LIGHTING_SYNC_LIGHTING_BUTTON: ПАРАМЕТРЫ СИНХРОНИЗАЦИИ ПОДСВЕТКИ
+DEVICE_LIGHTING_SYNC_LIGHTING_REMOVE_FROM_SYNC_BUTTON: ОТМЕНИТЬ СИНХРОНИЗАЦИЮ
+DEVICE_LIGHTING_SYNC_LIGHTING_CURRENTLY_SYNCED: "Синхронизировано с {DEVICE_LIST}"
+# "Currently synced with G910, PRO MOUSE". DEVICE_LIST will be replaced dynamically
+DEVICE_LIGHTING_SYNC_LIGHTING_INFO_TEXT: Выберите устройства для синхронизации с текущим режимом подсветки.
+DEVICE_LIGHTING_DIRECTION_DEFAULT_HEADER: ЦИКЛ ПО УМОЛЧАНИЮ
+DEVICE_LIGHTING_DIRECTION_HEADER: ЦИКЛ
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_HEADER: БЫСТРАЯ СМЕНА ЦВЕТА
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_WASD: ЦФЫВ
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_NUMBERS: НОМЕРА
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_ARROW_KEYS: КЛАВИШИ СО СТРЕЛКАМИ
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_G_KEYS: G-КЛАВИШИ
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_F_KEYS: F-КЛАВИШИ
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_LOGO: ЛОГОТИП
+DEVICE_LIGHTING_FREESTYLE_QUICK_COLOR_BUTTON_MODIFIER: МОДИФИКАТОР
+DEVICE_MOUSE_MODE_STATUS_POWER_MODE: РЕЖИМ ПИТАНИЯ
+DEVICE_MOUSE_MODE_STATUS_HIGH: ВЫСОКАЯ ПРОИЗВОДИТЕЛЬНОСТЬ (HI)
+DEVICE_MOUSE_MODE_STATUS_LOW: НИЗКАЯ ПРОИЗВОДИТЕЛЬНОСТЬ (LO)
+DEVICE_HOMESCREEN_MOUSE_MODE_STATUS_LOW: Режим низкой производительности
+DEVICE_HOMESCREEN_MOUSE_MODE_STATUS_HIGH: Режим высокой производительности
+DEVICE_HOMESCREEN_MOUSE_MODE_STATUS_CHANGED_LOW_NOTIFICATION: "{DEVICE} переключено в режим низкой производительности"
+# G603 has been switched to Endurance Mode. DEVICE will be replaced dynamically
+DEVICE_HOMESCREEN_MOUSE_MODE_STATUS_CHANGED_HIGH_NOTIFICATION: "{DEVICE} переключено в режим высокой производительности"
+# G603 has been switched to Performance Mode. DEVICE will be replaced dynamically
+DEVICE_MOUSE_UNASSIGNMENT_WARNING_PRIMARY: Внимание! Вы только что отменили функцию основной кнопки! Сохранить изменения?
+DEVICE_MOUSE_UNASSIGNMENT_KEEP: СОХРАНИТЬ
+DEVICE_SETTINGS_DEVICE_STARTUP_EFFECT_HEADER: ЭФФЕКТ ПРИ ЗАПУСКЕ УСТРОЙСТВА
+DEVICE_SETTINGS_DEVICE_STARTUP_SHUTDOWN_EFFECT_HEADER: ЭФФЕКТ ПРИ ЗАПУСКЕ ИЛИ ОТКЛЮЧЕНИИ УСТРОЙСТВА
+DEVICE_SETTINGS_DEVICE_STARTUP_EFFECT_TOGGLE: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_HARDWARE_NOISE_REDUCTION: ШУМОПОДАВИТЕЛЬ
+DEVICE_SETTINGS_HARDWARE_NOISE_REDUCTION_TOGGLE: ВКЛЮЧИТЬ ПОДАВЛЕНИЕ ШУМА ОБОРУДОВАНИЯ
+DEVICE_SETTINGS_ONBOARD_SET_LIGHTING_EFFECT: ВЫБЕРИТЕ ЭФФЕКТ ПОДСВЕТКИ
+DEVICE_SETTINGS_BATTERY_LEVEL_HEADER: УРОВЕНЬ ЗАРЯДА БАТАРЕИ
+DEVICE_SETTINGS_BATTERY_CHARGING: ИДЕТ ЗАРЯДКА
+DEVICE_SETTINGS_BATTERY_CHARGE_LEVEL_WARNING: СИСТЕМА БЕСПРОВОДНОЙ ЗАРЯДКИ POWERPLAY ВЛИЯЕТ НА МАКС. УРОВЕНЬ ЗАРЯДА
+DEVICE_SETTINGS_BATTERY_ESTIMATE: " ПРИБЛ. {ESTIMATE} ЧАСА(-ОВ)"
+# "≈24 HOUR(S)". ESTIMATE is replaced dynamically.
+DEVICE_SETTINGS_BATTERY_MAX_CHARGE_HEADER: МАКСИМАЛЬНЫЙ УРОВЕНЬ ЗАРЯДА
+DEVICE_SETTINGS_BATTERY_VOLUME_HEADER: ГРОМКОСТЬ
+DEVICE_SETTINGS_BATTERY_SYSTEM_HEADER: СИСТЕМА
+DEVICE_SETTINGS_BATTERY_REPORT_RATE_HEADER: ЧАСТОТА ОПРОСА
+DEVICE_SETTINGS_BATTERY_LIGHTING_HEADER: ПОДСВЕТКА
+DEVICE_SETTINGS_BATTERY_LEVEL_TOOLTIP: Время работы батареи зависит от выбранных эффектов подсветки
+DEVICE_SETTINGS_BATTERY_MAX_CHARGE: " ПРИБЛ. {ESTIMATE} ЧАСА(-ОВ)"
+# "≈48 HOUR(S)." ESTIMATE is replaced dynamically.
+DEVICE_SETTINGS_BATTERY_USAGE_MILLIWATTS: "{USAGE} мВт"
+DEVICE_SETTINGS_BATTERY_USAGE_AMPS: "{USAGE} мА"
+# "42mA". USAGE is replaced dynamically.
+DEVICE_SETTINGS_BATTERY_POWER_CONSUMPTION_HEADER: ПОТРЕБЛЕНИЕ ЭНЕРГИИ
+DEVICE_SETTINGS_FIRMWARE_HEADER: ВЕРСИЯ ПРОШИВКИ
+DEVICE_SETTINGS_FIRMWARE_DEVICE_VERSION: "УСТРОЙСТВО: {VERSION}"
+DEVICE_SETTINGS_FIRMWARE_RECEIVER_VERSION: "ПРИЕМНИК: {VERSION}"
+DEVICE_SETTINGS_NEW_FIRMWARE_AVAILABLE_HEADER: ДОСТУПНА НОВАЯ ВЕРСИЯ ПРОШИВКИ
+DEVICE_SETTINGS_FIRMWARE_VERSION: "ВЕРСИЯ: {VERSION}"
+# "VERSION: 2018.0.1". VERSION is replaced dynamically.
+DEVICE_SETTINGS_FIRMWARE_UPDATE: ОБНОВИТЬ
+DEVICE_SETTINGS_FIRMWARE_BRIGHTNESS: МАКСИМАЛЬНАЯ ЯРКОСТЬ
+DEVICE_SETTINGS_BUTTON_LAYOUT_HEADER: РАСКЛАДКА КНОПОК
+DEVICE_SETTINGS_BUTTON_LAYOUT_DESCRIPTION: "Выберите кнопки мыши, которыми Вы будете пользоваться"
+DEVICE_SETTINGS_SLEEP_TIMER_HEADER: УПРАВЛЕНИЕ ПИТАНИЕМ
+DEVICE_SETTINGS_SLEEP_TIMER: ТАЙМЕР АВТОМАТИЧЕСКОГО ОТКЛЮЧЕНИЯ
+DEVICE_SETTINGS_POWER_OFF_TIMER: Отключать через
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES: ЕСЛИ ЗВУК НЕ ВОСПРОИЗВОДИТСЯ В ТЕЧЕНИЕ
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_ACTION: ВКЛЮЧАТЬ СПЯЩИЙ РЕЖИМ
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_ACTION_TOOLTIP: "Когда устройство переходит в спящий режим, включается эффект пульсирующей подсветки. Вернуть его в рабочий режим не составляет труда: для этого достаточно нажать на гарнитуре любую кнопку или возобновить воспроизведение звука."
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_HARD_SLEEP: И ЕСЛИ УСТРОЙСТВО НАХОДИТСЯ В СПЯЩЕМ РЕЖИМЕ 30 МИН.
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_HARD_SLEEP_ACTION: ПОЛНОСТЬЮ ОТКЛЮЧАТЬ ПИТАНИЕ
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_HARD_SLEEP_ACTION_TOOLTIP: "Автоматическое отключение питания — это функция, которая позволяет максимально продлить время работы батареи. Поскольку устройство отключается автоматически, после этого вам будет необходимо отключить его вручную с помощью выключателя питания, а затем включить снова."
+DEVICE_SETTINGS_SLEEP_TIMER_AUDIO_DEVICES_POWER_OFF_ACTION_TOOLTIP: "Если гарнитура не используется, по истечении заданного времени она автоматически отключается."
+DEVICE_SETTINGS_SLEEP_TIMER_OPTIONS_NEVER: Никогда
+DEVICE_SETTINGS_SLEEP_TIMER_OPTIONS_MINUTE_SINGULAR: "{VALUE} мин."
+DEVICE_SETTINGS_SLEEP_TIMER_OPTIONS_MINUTES_PLURAL: "{VALUE} мин."
+DEVICE_SETTINGS_SLEEP_TIMER_OPTIONS_SECOND_PLURAL: "{VALUE} сек."
+DEVICE_SETTINGS_POWER_SAVING_TIMER_LABEL: Начало через
+DEVICE_SETTINGS_CONFIRM_LOW_POWER_WARNING: "Перейти в энергосберегающий режим"
+DEVICE_SETTINGS_POWER_SAVING_BUTTON_TEXT: "СОХРАНИТЬ КАК ЭНЕРГОСБЕРЕГАЮЩИЙ ЭФФЕКТ"
+DEVICE_SETTINGS_POWER_SAVING_DISPLAY_TEXT: "Текущий энергосберегающий эффект: "
+DEVICE_SETTINGS_LOW_BATTERY_MODE_HEADER: ЭНЕРГОСБЕРЕГАЮЩИЙ РЕЖИМ
+DEVICE_SETTINGS_LOW_BATTERY_MODE_BUTTON_AUTO: АВТО
+DEVICE_SETTINGS_LOW_BATTERY_MODE_BUTTON_OFF: ВЫКЛ
+DEVICE_SETTINGS_LOW_BATTERY_LOGO_ONLY: ТОЛЬКО ЭМБЛЕМА
+DEVICE_SETTINGS_LOW_BATTERY_DESCRIPTION: "Устройство автоматически перейдет в энергосберегающий режим после того, как уровень заряда батареи снизится до 15 %."
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_DESCRIPTION: "Выберите желаемый эффект подсветки, который активируется после перехода устройство в режим низкого уровня заряда батареи."
+DEVICE_SETTINGS_LOW_BATTERY_STOP_EFFECT_BUTTON_TEXT: ПРЕКРАТИТЬ ВОСПРОИЗВЕДЕНИЕ ЭФФЕКТА
+DEVICE_SETTINGS_LOW_BATTERY_DROPDOWN: "ЭФФЕКТ ПОДСВЕТКИ ПРИ НИЗКОМ УРОВНЕ ЗАРЯДА БАТАРЕИ:"
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_BREATHING: ПУЛЬСИРУЮЩАЯ КРАСНАЯ ПОДСВЕТКА
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_FIXED: НЕПРЕРЫВНАЯ КРАСНАЯ ПОДСВЕТКА
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_OFF: ВЫКЛ
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_BRANDING_BREATHING: ПУЛЬСИРУЮЩАЯ КРАСНАЯ ПОДСВЕТКА (ТОЛЬКО ЛОГОТИП)
+# This effect will make the "logo" lighting zone on the device breathe red
+DEVICE_SETTINGS_LOW_BATTERY_EFFECT_PRIMARY_BREATHING: ПУЛЬСИРУЮЩИЙ КРАСНЫЙ (ТОЛЬКО ОСНОВНАЯ)
+# This effect will make the "primary" lighting zone on the device breathe red
+DEVICE_SETTINGS_LOW_BATTERY_TOAST_MESSAGE: "Критически низкий заряд батареи {DEVICE}. Выполняется автоматический переход в режим экономии заряда."
+# "Battery critical on G900. Automatically switching to Low Battery Mode." DEVICE will be replaced with a device model number.
+DEVICE_SETTINGS_LOW_BATTERY_LIGHTING_STOP_MESSAGE: "Чтобы активировать LIGHTSYNC, зарядите устройство или выйдите из режима экономии заряда, нажав {STOP_BUTTON}."
+# "Charge device or Stop low battery mode to enable LIGHTSYNC." STOP_BUTTON will be replaced by another string (DEVICE_SETTINGS_LOW_BATTERY_LIGHTING_STOP_MESSAGE_STOP_BUTTON)
+DEVICE_SETTINGS_LOW_BATTERY_LIGHTING_STOP_MESSAGE_STOP_BUTTON: Стоп
+DEVICE_SETTINGS_STOP_EFFECT: ПРЕКРАТИТЬ ВОСПРОИЗВЕДЕНИЕ ЭФФЕКТА
+DEVICE_SETTINGS_POWER_SAVING_EFFECT_HEADER: ПОДСВЕТКА В РЕЖИМЕ ПРОСТОЯ
+DEVICE_SETTINGS_POWER_SAVING_EFFECT_50_PERCENT_BRIGHTNESS: УМЕНЬШЕНИЕ ЯРКОСТИ НА 50 %
+DEVICE_SETTINGS_POWER_SAVING_EFFECT_BREATHING: ДЫХАНИЕ
+DEVICE_SETTINGS_LIGHTS_OFF_TIMER: Полное отключение подсветки через
+DEVICE_SETTINGS_ANGLE_SNAPPING: СГЛАЖИВАНИЕ ОТКЛОНЕНИЙ ОТ ОСЕЙ
+DEVICE_SETTINGS_ANGLE_SNAPPING_TOGGLE: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_DPI_LIGHTING: ПОДСВЕТКА DPI
+DEVICE_SETTINGS_DPI_LIGHTING_TOGGLE: ВСЕГДА ВКЛЮЧЕНО
+DEVICE_SETTINGS_ONBOARD_LIGHTING: ВСТРОЕННАЯ ПОДСВЕТКА
+DEVICE_SETTINGS_ONBOARD_LIGHTING_TOGGLE: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_FUNCTION_KEY_INVERSION: ИНВЕРСИЯ КЛАВИШИ FN
+DEVICE_SETTINGS_FUNCTION_KEY_INVERSION_TOGGLE: ВКЛЮЧИТЬ ИНВЕРСИЮ КЛАВИШИ FN
+DEVICE_SETTINGS_AUTOMATIC_NOISE_REDUCTION: УСТРАНЕНИЕ ШУМОВ
+DEVICE_SETTINGS_WIRELESS_REPORT_RATE_HEADER: ЧАСТОТА ОПРОСА ПО БЕСПРОВОДНОЙ СВЯЗИ
+DEVICE_SETTINGS_ONBOARD_MEMORY_HEADER: РЕЖИМ ВСТРОЕННОЙ ПАМЯТИ
+DEVICE_SETTINGS_ONBOARD_MEMORY_MODE_ON: ВКЛ
+DEVICE_SETTINGS_ONBOARD_MEMORY_MODE_OFF: ВЫКЛ
+DEVICE_SETTINGS_ONBOARD_MEMORY_MODE_ON_TOOLTIP: "Чтобы настроить профили G HUB, отключите режим встроенной памяти."
+DEVICE_SETTINGS_ONBOARD_MEMORY_MODE_OFF_TOOLTIP: "Чтобы воспользоваться профилями, сохраненными в памяти устройства, включите режим встроенной памяти."
+DEVICE_SETTINGS_ONBOARD_LIGHTING_HEADER: ЭФФЕКТЫ НА УСТРОЙСТВЕ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_SLOT: Слот для эффекта подсветки
+DEVICE_SETTINGS_ONBOARD_LIGHTING_OFF: ВЫКЛ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_SELECT: ВЫБЕРИТЕ НОВЫЙ ВСТРОЕННЫЙ ЭФФЕКТ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_TURN_OFF: ОТКЛЮЧИТЬ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_ON: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_BRIGHTNESS: ЯРКОСТЬ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_EFFECT: ЭФФЕКТ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_TOOLTIP: "Пользовательские эффекты подсветки можно сохранять в памяти устройства, чтобы потом использовать их вместе с профилями во встроенной памяти или по отдельности."
+DEVICE_SETTINGS_ONBOARD_PRIMARY_CLICK: ЩЕЛЧОК ОСНОВНОЙ КНОПКОЙ МЫШИ
+DEVICE_SETTINGS_ONBOARD_G_KEYS_ASSIGNED: G-КЛАВИШИ НАЗНАЧЕНЫ
+DEVICE_SETTINGS_ONBOARD_G_KEYS_UNASSIGNED: G-КЛАВИШИ НЕ НАЗНАЧЕНЫ
+DEVICE_SETTINGS_ONBOARD_MACROS: МАКРОСЫ
+DEVICE_SETTINGS_ONBOARD_DELETE_FROM_MEMORY_BUTTON: УДАЛИТЬ ИЗ ПАМЯТИ
+DEVICE_SETTINGS_ONBOARD_DISABLE_PROFILE: БЛОКИРОВАТЬ В ПАМЯТИ
+DEVICE_SETTINGS_ONBOARD_RESTORE_DEFAULTS_BUTTON_TEXT: ВОССТАНОВИТЬ НАСТРОЙКИ ПО УМОЛЧАНИЮ ДЛЯ СОХРАНЕННЫХ ПРОФИЛЕЙ ВО ВСЕХ СЛОТАХ
+DEVICE_SETTINGS_ONBOARD_ENABLE: Включить
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_MENU_DETAILS: ПОДРОБНОСТИ
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_MENU_DISABLE: ОТКЛЮЧИТЬ
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_MENU_ENABLE: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_RESTORE_DEFAULT: ВОССТАНОВИТЬ ПРОФИЛЬ ПО УМОЛЧАНИЮ
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_MENU_ENABLE_WITH_NEW: АКТИВИРОВАТЬ С НОВЫМ
+DEVICE_SETTINGS_ONBOARD_DROPDOWN_MENU_REPLACE_WITH: ЗАМЕНИТЬ НА
+DEVICE_SETTINGS_ONBOARD_ADD_NEW_PROFILE: + ДОБАВИТЬ НОВЫЙ ПРОФИЛЬ
+DEVICE_SETTINGS_ONBOARD_ADD_NEW_EFFECT: + ДОБАВИТЬ НОВЫЙ ЭФФЕКТ
+DEVICE_SETTINGS_ONBOARD_SLOT: "СЛОТ {ITEM}"
+# "SLOT 1". ITEM is replaced dynamically with a number.
+DEVICE_SETTINGS_ONBOARD_M_SLOT: "СЛОТ M{ITEM}"
+# "M1 SLOT". ITEM is replaced dynamically with a number.
+DEVICE_SETTINGS_ONBOARD_NOT_AVAILABLE: Недоступно в режиме встроенной памяти
+DEVICE_SETTINGS_ONBOARD_NOT_CONFIGURABLE: Не настраивается в режиме встроенной памяти
+DEVICE_SETTINGS_BLUETOOTH_NOT_CONFIGURABLE: Настройка невозможна в режиме Bluetooth
+DEVICE_SETTINGS_ONBOARD_G600_WARNING: "G600 не поддерживает сложные макросы в режиме встроенной памяти. Обратите внимание, что все сложные макросы будут изменены на одноклавишные."
+DEVICE_SETTINGS_ONBOARD_EFFECT_SLOT: "КЛАВИША {ITEM}"
+# "KEY 8". ITEM is replaced dynamically with a number. "Key" means a key on the keyboard.
+DEVICE_SETTINGS_ONBOARD_EFFECT_SLOT_WITH_NAME: "СЛОТ {ITEM}: {NAME}"
+# "KEY 8: Colorwave". ITEM is replaced dynamically with a number. "Key" means a key on the keyboard.
+DEVICE_SETTINGS_ONBOARD_EFFECT_SLOT_WITH_EMPTY: "СЛОТ {ITEM}: пусто"
+# "KEY 8: Empty". ITEM is replaced dynamically with a number. "Key" means a key on the keyboard.
+DEVICE_SETTINGS_ONBOARD_SLOT_EMPTY: "ПРОФИЛЬ {INDEX}"
+# "PROFILE 1". INDEX is replaced dynamically.
+DEVICE_SETTINGS_ONBOARD_LIGHTING_LABEL: Подсветка
+DEVICE_SETTINGS_ONBOARD_ASSIGN_STORED_LIGHTING: НАЗНАЧИТЬ СОХРАНЕННЫЕ ПРОФИЛИ ПОДСВЕТКИ
+DEVICE_SETTINGS_ONBOARD_DEFAULT_DPI: DPI ПО УМОЛЧАНИЮ
+DEVICE_SETTINGS_ONBOARD_REPORT_RATE: ЧАСТОТА ОПРОСА
+DEVICE_SETTINGS_ONBOARD_SHIFT_DPI: ПЕРЕКЛЮЧЕНИЕ DPI
+DEVICE_SETTINGS_ONBOARD_DPI_LEVELS: СКОРОСТИ DPI
+DEVICE_SETTINGS_ONBOARD_HEADSET_MEMORY: ВСТРОЕННЫЙ ЭКВАЛАЙЗЕР
+DEVICE_SETTINGS_ONBOARD_SET_EQUALIZER: ВЫБЕРИТЕ ЭКВАЛАЙЗЕР
+DEVICE_SETTINGS_ONBOARD_LEFT_CLICK: ЩЕЛЧОК ЛЕВОЙ КНОПКОЙ
+DEVICE_SETTINGS_ONBOARD_RIGHT_CLICK: ЩЕЛЧОК ПРАВОЙ КНОПКОЙ
+DEVICE_SETTINGS_ONBOARD_LIGHTING_SAVED: "{EFFECT} сохранен как встроенный эффект подсветки"
+# "My Effect saved as the on-board lighting effect". EFFECT is replaced dynamically.
+DEVICE_SETTINGS_ONBOARD_PROFILE_SAVED: "{PROFILE} сохранен как встроенный профиль"
+# "My Profile saved as the on-board profile". PROFILE is replaced dynamically.
+DEVICE_SETTINGS_ONBOARD_EQUALIZER_SAVED: "{EQUALIZER} сохранен как встроенный эквалайзер"
+# "My Equalizer saved as the on-board equalizer". EQUALIZER is replaced dynamically.
+DEVICE_SETTINGS_ONBOARD_MODE_NOTIFICATION_TEXT: Для устройства выбран режим встроенной памяти. Активировать программное управление для его настройки и обеспечения доступа ко всем функциям?
+DEVICE_SETTINGS_ONBOARD_MODE_NOTIFICATION_TURN_ONBOARD_MODE_OFF_BUTTON: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_DTS_X_LEGAL: "Патенты DTS можно просмотреть на странице http://patents.dts.com. Изготовлено по лицензии DTS, Inc. DTS и символ DTS, а также DTS и символ в совокупности, DTS:X, логотип DTS:X и DTS:X Ultra являются зарегистрированными товарными знаками или товарными знаками корпорации DTS, Inc. в США и (или) других странах. © DTS, Inc. Все права защищены."
+DEVICE_SETTINGS_DTS_HEADPHONE_LEGAL: "Патенты DTS можно просмотреть на странице http://patents.dts.com. Изготовлено по лицензии DTS Licensing Limited. HEADPHONE:X® и логотип DTS HEADPHONE:X являются зарегистрированными товарными знаками или товарными знаками DTS, Inc. в США и других странах. © DTS, Inc. Все права защищены."
+DEVICE_SETTINGS_DOLBY_LEGAL: "Изготовлено по лицензии Dolby Laboratories. Dolby, Pro Logic, а также символ в виде двойной буквы D, являются зарегистрированными товарными знаками Dolby Laboratories. Конфиденциальные неопубликованные материалы. © Dolby Laboratories, 2004. Все права защищены."
+DEVICE_SETTINGS_FUSION_ENGINE: ФУНКЦИЯ FUSION ENGINE
+DEVICE_SETTINGS_FUSION_ENGINE_TOGGLE: ВКЛЮЧИТЬ
+DEVICE_SETTINGS_BLUETOOTH_PAIRING_HEADER: СОПРЯЖЕНИЕ ПО BLUETOOTH
+DEVICE_SETTINGS_FORGET_BLUETOOTH_PAIRING_BUTTON: УДАЛИТЬ ПОДКЛЮЧЕНИЕ ПО BLUETOOTH
+DEVICE_SETTINGS_BLUETOOTH_UNPAIRED: Это устройство не сопряжено с каким-либо другим.
+DEVICE_SETTINGS_UNABLE_TO_FORGET_BLUETOOTH_TOOLTIP: "Невозможно удалить подключение, пока устройство подключено по Bluetooth."
+DEVICE_SETTINGS_FORGET_BLUETOOTH_PAIRING_DIALOG_TITLE: УДАЛИТЬ ПОДКЛЮЧЕНИЕ ПО BLUETOOTH
+DEVICE_SETTINGS_BLUETOOTH_FORGET_DIALOG_BUTTON: УДАЛИТЬ
+DEVICE_SETTINGS_BLUETOOTH_FORGET_CANCEL_DIALOG_BUTTON: ОТМЕНА
+DEVICE_SETTINGS_BLUETOOTH_FORGET_DIALOG_WARNING: "ВАЖНО! Вы собираетесь удалить подключение по Bluetooth из встроенной памяти {DEVICE}."
+# IMPORTANT: You are about to Remove the Bluetooth connnection from your G604 internal memory. DEVICE will be replaced dynamically
+DEVICE_SETTINGS_BLUETOOTH_FORGET_DIALOG_DESCRIPTION: "Чтобы завершить отмену сопряжения, удалите {DEVICE} из списка подключенных устройств в соответствующем меню настроек ОС Windows/Mac/Android."
+DEVICE_SETTINGS_MASKED_ZONE_WARNING_DESCRIPTION: "После отключения зоны для всех назначений, связанных с ней, будут восстановлены параметры по умолчанию. Продолжить?"
+# To finalize the unpairing, please go to your Windows/Mac/Android and forget G604 from the list of connected devices. DEVICE will be replaced dynamically
+DEVICE_SETTINGS_VOICE_PROMPTS_LANGUAGE_DROPDOWN_SECTION_TITLE: ОПОВЕЩЕНИЯ
+DEVICE_SETTINGS_VOICE_PROMPTS_LANGUAGE_CHECKBOX_TITLE: ГОЛОСОВЫЕ ОПОВЕЩЕНИЯ О СОСТОЯНИИ ЗАРЯДА БАТАРЕИ
+DEVICE_SETTINGS_VOICE_PROMPTS_LANGUAGE_DROPDOWN_TITLE: язык
+DEVICE_SETTINGS_EQUALIZER_CYCLE_NOTIFICATION_ENABLE_CHECKBOX_TITLE: НАСТРОЙКИ ЭКВАЛАЙЗЕРА
+DEVICE_SETTINGS_SURROUND_SOUND_NOTIFICATION_ENABLE_CHECKBOX_TITLE: ПЕРЕКЛЮЧАТЕЛЬ ОБЪЕМНОГО ЗВУЧАНИЯ
+DPI_EDITOR_SHIFT_SPEED: СКОРОСТЬ ПЕРЕКЛЮЧЕНИЯ DPI
+DPI_EDITOR_SHIFT_DESCRIPTION: Для быстрого доступа к скорости переключения DPI эту функцию необходимо назначить кнопками мыши.
+DPI_EDITOR_MARKER_INSTRUCTIONS: "Щелкните показатель скорости DPI, чтобы изменить его вручную."
+DPI_EDITOR_NEW_MARKER_INSTRUCTIONS: "Чтобы создать новую скорость DPI, щелкните произвольную точку на ползунке."
+DPI_EDITOR_DELETE_MARKER_INSTRUCTIONS: "Чтобы удалить значение скорости DPI, перетащите его в сторону от ползунка."
+DPI_EDITOR_SWITCH_INSTRUCTIONS: "Чтобы изменить текущую скорость на скорость переключения DPI, щелкните:"
+DPI_EDITOR_LEVEL_LIMIT_REACHED: "Максимально допустимое число значений скорости: {DPI_LEVELS_COUNT}."
+# "You can only have a maximum of 5 speeds.". DPI_LEVELS_COUNT is replaced dynamically.
+DPI_EDITOR_DPI_SAVE_NOTIFICATION: Вы хотите сохранить изменения чувствительности DPI?
+DPI_EDITOR_SAVE_BUTTON: СОХРАНИТЬ
+COLOR_PICKER_LABEL_RED: R
+COLOR_PICKER_LABEL_GREEN: G
+COLOR_PICKER_LABEL_BLUE: B
+COLOR_PICKER_REMOVE_COLOR_BUTTON: БЕЗ ЦВЕТА
+COLOR_PICKER_ERASER_BUTTON: ЛАСТИК
+COLOR_PICKER_REPLACE_COLOR_BUTTON: ЗАПОЛНИТЕ ГРУППУ
+COLOR_PICKER_COLORS_USED_HEADER: ЦВЕТА НА УСТРОЙСТВЕ
+COLOR_PICKER_LED: ПОДСВЕТКА
+COLOR_PICKER_LED_LEFT: ПОДСВЕТКА СЛЕВА
+COLOR_PICKER_LED_CENTER: ПОДСВЕТКА ПО ЦЕНТРУ
+COLOR_PICKER_LED_RIGHT: ПОДСВЕТКА СПРАВА
+COLOR_PICKER_COLORS_USED_KEY_LIST_ELEMENT_SINGULAR: "КЛАВИША {VALUE}"
+# 1 KEY. VALUE will be replaced with a singular numeric value. The key is a key on a keyboard.
+COLOR_PICKER_COLORS_USED_KEY_LIST_ELEMENT_PLURAL: "{VALUE} КЛАВИШИ"
+# 99 KEYS. VALUE will be replaced with a plural (>1) value. The keys are keys on a keyboard.
+COLOR_PICKER_COLORS_USED_ZONE_LIST_ELEMENT_SINGULAR: "ЗОНА {VALUE}"
+# 1 ZONE. VALUE will be replaced with a singular numeric value. Zone means a predefined hardware lighting zone on a keyboard (a bunch of keys in a rectangular formation). A keyboard typically has no more than 5 lighting zones.
+COLOR_PICKER_COLORS_USED_ZONE_LIST_ELEMENT_PLURAL: "ЗОНЫ {VALUE}"
+# 5 ZONES. VALUE will be replaced with a plural (>1) value. Zone means a predefined hardware lighting zone on a keyboard (a bunch of keys in a rectangular formation). A keyboard typically has no more than 5 lighting zones.
+TIMER_BUTTON_SAVE_TEXT: СОХРАНИТЬ
+TAGGER_PLACEHOLDER_TAG: НАЗВАНИЕ МЕТКИ
+TAGGER_ADD_NEW_TAG: ДОБАВИТЬ ТЕГ
+NO_DEVICES_DETECTED: "ПОДКЛЮЧИТЕ СНАРЯЖЕНИЕ {BRAND} G"
+# "CONNECT YOUR LOGITECH G GEAR"
+HOME_DEVICE_DFU_AVAILABLE: ДОСТУПНО ОБНОВЛЕНИЕ ПРОШИВКИ
+HOME_DEVICE_DFU_REQUIRED: НЕОБХОДИМО ОБНОВИТЬ ПРОШИВКУ
+HOME_DEVICE_DFU_IN_SESSION: ИДЕТ ОБНОВЛЕНИЕ ПРОШИВКИ...
+HOME_DEVICE_PRESENT: ВЫПОЛНЯЕТСЯ ПОДКЛЮЧЕНИЕ
+HOME_DEVICE_DISABLED: ОТКЛЮЧЕНО
+HOME_DEVICE_NOT_CONNECTED: НЕАКТИВНО
+HOME_DEVICE_PENDING: ВЫПОЛНЯЕТСЯ НАСТРОЙКА
+HOME_DEVICE_LOADING_RESOURCES: ВЫПОЛНЯЕТСЯ ЗАГРУЗКА РЕСУРСОВ
+HOME_DEVICE_INITIALIZING: ВЫПОЛНЯЕТСЯ ИНИЦИАЛИЗАЦИЯ
+HOME_DEVICE_INTIALIZING_PROFILE: ИНИЦИАЛИЗАЦИЯ ПРОФИЛЯ
+HOME_DEVICE_DRIVER_BLOCKED: ДРАЙВЕР ЗАБЛОКИРОВАН
+HOME_DEVICE_UNBLOCK_DRIVER: Разблокировать драйвер
+HOME_DEVICE_RESTART_DEVICE: "Отключите устройство, а затем подключите его опять"
+HOME_DEVICE_NOT_CONNECTED_TOOLTIP: Выведите устройство из спящего режима или включите его питание.
+HOME_DEVICE_NOT_READY_HEADSET_OFF: "Устройство не выходит из спящего режима? Возможно, оно отключилось автоматически, чтобы сохранить заряд батареи! Передвиньте выключатель питания в положение «Выкл.», а затем верните его в положение «Вкл.»."
+HOME_DEVICE_NOT_READY_HEADSET_OFF_BUTTON: "Устройство не выходит из спящего режима? Возможно, оно отключилось автоматически, чтобы сохранить заряд батареи!"
+HOME_DEVICE_AUDIO_DISABLED_TOOLTIP: "Устройство {DEVICE} отключено на панели управления звуком. Включите его, чтобы выполнить настройку в приложении G HUB."
+NOTIFICATION_DFU_STARTED: "Идет подготовка к обновлению прошивки... Не отключайте питание {DEVICE}."
+NOTIFICATION_DFU_AVAILABLE: "Доступно обновление прошивки для {DEVICE}"
+NOTIFICATION_DFU_REQUIRED: "Необходимо обновить прошивку для {DEVICE}"
+NOTIFICATION_UNPLUG_REPLUG_DEVICE: "Чтобы начать обновление прошивки, отключите питание {DEVICE}, а затем снова включите его"
+NOTIFICATION_DFU_PROGRESS: "Идет обновление прошивки… Не отключайте питание {DEVICE}."
+NOTIFICATION_DFU_DISCONNECTED: Не удалось обновить прошивку. Подключите устройство повторно.
+NOTIFICATION_DFU_DISCONNECTED_WIRELESS: "Не удалось обновить прошивку. Подключите устройство повторно, а затем включите и выключите его."
+NOTIFICATION_DFU_FAILED: "Не удалось обновить прошивку. Отключите устройство, а затем подключите его опять."
+NOTIFICATION_DFU_SUCCESS: Прошивка успешно обновлена.
+NOTIFICATION_DEVICE_CONNECTION_PROBLEM_WIRELESS_DEVICE: "Устройство {DEVICE} отключено. Отключите питание устройства, а затем включите его вновь."
+# G903 has disconnected, please power the device off and on again. DEVICE will be replaced by a device model name
+NOTIFICATION_DEVICE_CONNECTION_PROBLEM_WIRELESS_AUDIO_DEVICE: "Устройство {DEVICE} отключено. Отсоедините USB-штекер, а затем подсоедините его вновь."
+# G935 has disconnected, please unplug and replug the USB connector. DEVICE will be replaced by a device model name
+NOTIFICATION_DEVICE_CONNECTION_PROBLEM_WIRED_DEVICE: "Устройство {DEVICE} отключено. Отсоедините USB-кабель, а затем подсоедините его вновь."
+# G935 has disconnected, please unplug and replug the USB cable. DEVICE will be replaced by a device model name
+INTEGRATION_BUTTON_ENABLE: ВКЛЮЧИТЬ
+INTEGRATION_BUTTON_DISABLE: ОТКЛЮЧИТЬ
+INTEGRATION_BUTTON_DELETE: УДАЛИТЬ
+INTEGRATION_BUTTON_DISABLE_INTEGRATION: "ОТКЛЮЧИТЬ {INTEGRATION_NAME}"
+INTEGRATION_BUTTON_ENABLE_INTEGRATION: "ВКЛЮЧИТЬ {INTEGRATION_NAME}"
+INTEGRATION_BUTTON_DISABLE_SDK: "ОТКЛЮЧИТЬ {SDK_NAME}"
+INTEGRATION_BUTTON_ENABLE_SDK: "ВКЛЮЧИТЬ {SDK_NAME}"
+INTEGRATION_NO_OPTIONS: В ЭТОМ СРЕДСТВЕ ИНТЕГРАЦИИ НЕТ ПАРАМЕТРОВ ДЛЯ НАСТРОЙКИ
+INTEGRATION_UNGROUPED_OPTIONS: РАЗНОЕ
+INTEGRATION_STATUS_ACTIVE: АКТИВНОЕ
+INTEGRATION_STATUS_INACTIVE: НЕАКТИВНО
+INTEGRATION_LAUNCH_OPTIONS_HEADER: ПАРАМЕТРЫ ЗАПУСКА
+INTEGRATION_LAUNCH_OPTION_MANUAL: ВРУЧНУЮ
+# "MANUAL". INTEGRATION_LAUNCH_OPTION_XXX is dynamically generated in code, be aware
+INTEGRATION_LAUNCH_OPTION_ON_STARTUP: ПРИ ЗАПУСКЕ G HUB
+# "ON G HUB START". INTEGRATION_LAUNCH_OPTION_XXX is dynamically generated in code, be aware
+INTEGRATION_LAUNCH_OPTION_ON_FOCUS: КОНЦЕНТРАЦИЯ НА ПРИЛОЖЕНИИ
+# "ON APP FOCUS". INTEGRATION_LAUNCH_OPTION_XXX is dynamically generated in code, be aware
+INTEGRATION_MANAGE: УПРАВЛЕНИЕ ИНТЕГРАЦИЕЙ
+INTEGRATION_SDK_PRIORITY_LIGHTING: "Подсветкой устройства управляет {INTEGRATION_NAME}."
+INTEGRATION_SDK_PRIORITY_WHEEL: "Рабочий диапазон вашего устройства регулируется с помощью {INTEGRATION_NAME}."
+INTEGRATION_SDK_NAME_LED: СВЕТОДИОДНАЯ ПОДСВЕТКА
+INTEGRATION_SDK_NAME_ACTIONS: ДЕЙСТВИЕ
+INTEGRATION_SDK_NAME_WHEEL: РУЛЬ
+INTEGRATION_SDK_NAME_ARX: ARX CONTROL
+INTEGRATION_TAB_NAME_GENERAL: ОБЩИЕ
+INTEGRATION_TAB_NAME_LIGHTING: СВЕТОДИОДНАЯ ПОДСВЕТКА
+INTEGRATION_TAB_NAME_ACTIONS: ДЕЙСТВИЕ
+INTEGRATION_SDK: ПАКЕТ SDK
+INTEGRATION_SDK_STATUS: СТАТУС
+INTEGRATION_SDK_ENABLED: ВКЛЮЧИТЬ
+INTEGRATION_STATUS_HEADER: СОСТОЯНИЯ ПАКЕТА СРЕДСТВ РАЗРАБОТКИ
+INTEGRATION_INSTALLATION_HEADER: УСТАНОВКА ПОДКЛЮЧАЕМОГО МОДУЛЯ
+INTEGRATION_AUTOMATIC_INSTALL_BUTTON: АВТОМАТИЧЕСКАЯ УСТАНОВКА
+INTEGRATION_INSTALL_BUTTON_SEPARATOR: или
+INTEGRATION_MANUAL_INSTALL_BUTTON: УСТАНОВКА ВРУЧНУЮ
+INTEGRATION_MANUAL_INSTALL_DIALOG_TITLE: "Выберите каталог для установки {APP_NAME}"
+# Choose OBS install directory. APP_NAME will be replaced by the app name
+INTEGRATION_MANUAL_INSTALL_DIALOG_BUTTON_TITLE: Выбрать
+INTEGRATION_INSTALLATION_SUCCESSFUL: Установка подключаемого модуля выполнена успешно.
+INTEGRATION_INSTALLATION_FAILED: Во время установки подключаемого модуля произошла ошибка. Попробуйте выполнить установку вручную.
+INTEGRATION_APP_INSTALL_HEADER: "УСТАНОВКА {APP_NAME}"
+# OBS INSTALLATION. APP_NAME will be replaced by the app name
+INTEGRATION_APP_INSTALL_LINK: "ЗАГРУЗИТЬ {APP_NAME}"
+# DOWNLOAD OBS. APP_NAME will be replaced by the app name
+INTEGRATION_OVERWOLF_EXTENSIONS_HEADER: РАСШИРЕНИЯ
+INTEGRATION_OVERWOLF_EXTENSION_INSTALLED: УСТАНОВЛЕНО
+INTEGRATION_OVERWOLF_EXTENSION_NOT_INSTALLED: НЕ УСТАНОВЛЕНО
+INTEGRATION_OVERWOLF_EXTENSION_INSTALL: УСТАНОВИТЬ СЕЙЧАС
+INTEGRATION_OVERWOLF_EXTENSION_INSTALLATION_SUCCESS: Установка расширения запущена.
+INTEGRATION_OVERWOLF_EXTENSION_INSTALLATION_FAILED: Сбой установки расширения.
+INTEGRATION_OVERWOLF_CONNECTION_ERROR: При подключении к Overwolf произошла ошибка.
+INTEGRATION_OVERWOLF_CONNECTION_ERROR_TROUBLESHOOTING: "Попробуйте решить проблему следующим образом. Закройте Overwolf и G HUB, а затем перезапустите оба приложения, начав с Overwolf."
+INTEGRATION_ACTIONS_LIST_HEADER: "Доступные действия для данной интеграции:"
+MACRO_EDITOR_MACRO_TYPE_SELECTION_HEADER: "ВЫБЕРИТЕ ТИП МАКРОСА, КОТОРЫЙ ТРЕБУЕТСЯ СОЗДАТЬ"
+MACRO_EDITOR_MACRO_TYPES: Типы макросов
+MACRO_EDITOR_MACRO_TYPE_NO_REPEAT: НЕ ПОВТОРЯТЬ
+MACRO_EDITOR_MACRO_TYPE_REPEAT: ПОВТОРЯТЬ ПРИ УДЕРЖАНИИ
+MACRO_EDITOR_MACRO_TYPE_TOGGLE: ПЕРЕКЛЮЧЕНИЕ
+MACRO_EDITOR_MACRO_TYPE_SEQUENCE: ПОСЛЕДОВАТЕЛЬНОСТЬ
+MACRO_EDITOR_MACRO_TYPE_TOOLTIP_NO_REPEAT: Не повторять
+MACRO_EDITOR_MACRO_TYPE_TOOLTIP_REPEAT: Повторять при удержании
+MACRO_EDITOR_MACRO_TYPE_TOOLTIP_TOGGLE: Переключение
+MACRO_EDITOR_MACRO_TYPE_TOOLTIP_SEQUENCE: Последовательность
+MACRO_EDITOR_MACRO_TYPE_HELP_NO_REPEAT: Макрос будет выполняться однократно после нажатия соответствующей клавиши.
+MACRO_EDITOR_MACRO_TYPE_HELP_REPEAT: "Макрос будет повторяться циклически все время, пока нажата клавиша."
+MACRO_EDITOR_MACRO_TYPE_HELP_TOGGLE: "Макрос будет повторяться циклически, пока не будет выполнено повторное нажатие."
+MACRO_EDITOR_MACRO_TYPE_HELP_SEQUENCE: "Нажмите, чтобы воспроизвести макрос. Зажмите клавишу, чтобы повторить фрагмент «при удерживании»."
+MACRO_EDITOR_RECORD: ЗАПИСЬ СОЧЕТАНИЙ КЛАВИШ
+MACRO_EDITOR_ADD_NEW_TEXT: ТЕКСТ И ЭМОДЗИ
+MACRO_EDITOR_ACTION: ДЕЙСТВИЕ
+MACRO_EDITOR_LAUNCH_APPLICATION: ЗАПУСТИТЬ ПРИЛОЖЕНИЕ
+MACRO_EDITOR_SYSTEM: СИСТЕМА
+MACRO_EDITOR_DELAY: ЗАДЕРЖКА
+MACRO_EDITOR_PRESET: ПРЕДУСТАНОВКА
+MACRO_EDITOR_EFFECT: ЭФФЕКТ
+MACRO_EDITOR_SAMPLE: ОБРАЗЕЦ
+MACRO_EDITOR_DONE: ГОТОВО
+MACRO_EDITOR_START_NOW_HELP: НАЧАТЬ СЕЙЧАС
+MACRO_EDITOR_CANCEL: ОТМЕНА
+MACRO_EDITOR_STOP_RECORDING: ОСТАНОВИТЬ ЗАПИСЬ
+MACRO_EDITOR_HEADER_ON_PRESS: ПРИ НАЖАТИИ
+MACRO_EDITOR_HEADER_ON_HOLD: ПРИ УДЕРЖАНИИ
+MACRO_EDITOR_HEADER_ON_RELEASE: ПРИ ОТПУСКАНИИ
+MACRO_EDITOR_DEFAULT_DELAY_TEXT: ИСПОЛЬЗОВАТЬ СТАНДАРТНЫЕ ЗНАЧЕНИЯ ЗАДЕРЖЕК
+MACRO_EDITOR_DEFAULT_DELAY_VALUE: "{DELAY} {UNITS}"
+# "50 ms". UNITS is replaced with another string. DELAY is replaced manually.
+MACRO_EDITOR_DELAY_UNITS: мс
+MACRO_EDITOR_DELAY_UNITS_SECOND: с
+MACRO_EDITOR_DELAY_UNITS_MINUTE: мин.
+MACRO_EDITOR_DELAY_UNITS_HOURS: ч.
+MACRO_EDITOR_DEFAULT_DELAY_HELP_TEXT: В настоящее время используется стандартное значение задержки между действиями
+MACRO_EDITOR_CUSTOM_DELAYS_HELP_TEXT: В настоящее время используются записанные значения задержек ввода
+MACRO_EDITOR_TEXT_PLACEHOLDER: Введите текст
+MACRO_EDITOR_EDIT_TEXT_BUTTON: ИЗМЕНИТЬ
+MACRO_EDITOR_NAME_PLACEHOLDER: Назовите макрос
+MACRO_EDITOR_NAME_INSTRUCTIONS: "Нажмите ENTER, чтобы создать макрос"
+MACRO_EDITOR_SYSTEM_PLACEHOLDER: Выберите системную команду
+MACRO_EDITOR_SYSTEM_PLACEHOLDER_CATEGORY: "Выберите команду {CATEGORY}"
+MACRO_EDITOR_PRESET_PLACEHOLDER: Выберите категорию предустановок
+MACRO_EDITOR_PRESET_PLACEHOLDER_CATEGORY: "Выберите категорию {CATEGORY}"
+MACRO_EDITOR_EFFECT_PLACEHOLDER: Выберите категорию эффектов
+MACRO_EDITOR_EFFECT_PLACEHOLDER_CATEGORY: "Выберите категорию {CATEGORY}"
+MACRO_EDITOR_SAMPLE_PLACEHOLDER: Выберите категорию образцов
+MACRO_EDITOR_SAMPLE_PLACEHOLDER_CATEGORY: "Выберите категорию {CATEGORY}"
+# "Select Media command". CATEGORY is replaced with a system command category.
+MACRO_EDITOR_LAUNCH_APPLICATION_PLACEHOLDER: Запустить приложение
+MACRO_EDITOR_LAUNCH_APPLICATION_NAME: "Запустить {APP_NAME}"
+# "Launch Fortnite". APP_NAME is replaced with an application name.
+MACRO_EDITOR_LAUNCH_APPLICATION_ADD_NEW: СОЗДАТЬ
+MACRO_EDITOR_ACTION_INTEGRATION_PLACEHOLDER: Выбрать средство интеграции
+MACRO_EDITOR_ACTION_PLACEHOLDER: Выбрать действие
+MACRO_EDITOR_ACTION_ADD_NEW: СОЗДАТЬ ДЕЙСТВИЕ
+MACRO_EDITOR_ERROR_KEY_UP_BEFORE_DOWN: "В этом макросе нажатием считается сначала отпускание, а затем нажатие клавиши. Вы уверены, что хотите его сохранить?"
+MACRO_EDITOR_ERROR_KEY_DOWN_NO_UP: "ВНИМАНИЕ! В этом макросе нажатием считается нажатие клавиши без последующего отпускания. Вы уверены, что хотите его сохранить?"
+MACRO_EDITOR_ERROR_MOUSE_BUTTON_DOWN_NO_UP: "ВНИМАНИЕ! В этом макросе щелчком считается нажатие кнопки мыши без последующего отпускания. Вы уверены, что хотите его сохранить?"
+MACRO_EDITOR_ERROR_MOUSE_BUTTON_UP_BEFORE_DOWN: "В этом макросе щелчком считается сначала отпускание, а затем нажатие кнопки мыши. Вы уверены, что хотите его сохранить?"
+MACRO_EDITOR_ERROR_USER_CANCELED: Сохранить изменения в макросе?
+MACRO_EDITOR_ERROR_USER_DELETED: На самом деле удалить этот макрос?
+MACRO_EDITOR_ERROR_USER_DELETED_MULTI: Вы действительно хотите удалить выбранный макрос?
+MACRO_EDITOR_SEQUENCE_MACRO_TOGGLE: МАКРОС ПОСЛЕДОВАТЕЛЬНОСТИ
+MACRO_EDITOR_REPEATING_MACRO_TOGGLE: МАКРОС ПЕРЕКЛЮЧЕНИЯ
+MACRO_EDITOR_SEQUENCE_DESCRIPTION: МАКРОС ПОСЛЕДОВАТЕЛЬНОСТИ воспроизводится лишь один раз.
+MACRO_EDITOR_SEQUENCE_INSTRUCTIONS: "Нажмите, чтобы воспроизвести макрос. Зажмите клавишу, чтобы повторить фрагмент «при удерживании»."
+MACRO_EDITOR_TOGGLE_DESCRIPTION: "МАКРОС ПЕРЕКЛЮЧЕНИЯ воспроизводится циклически, пока Вы его не отключите."
+MACRO_EDITOR_TOGGLE_INSTRUCTIONS: "Нажмите, чтобы запустить макрос, и еще раз для его остановки."
+MACRO_EDITOR_MACRO_OPTIONS: ПАРАМЕТРЫ МАКРОСА
+MACRO_EDITOR_MACRO_OPTIONS_SHOW_UP_DOWN_KEYPRESS: ПОКАЗЫВАТЬ НАЖАТИЕ/ОТПУСКАНИЕ КЛАВИШИ
+MACRO_EDITOR_MACRO_OPTIONS_COLOR_TITLE: ЦВЕТ МАКРОСА
+MACRO_EDITOR_MACRO_OPTIONS_COLOR_CHANGE_BUTTON: ВЫБРАТЬ
+MACRO_EDITOR_MACRO_OPTIONS_COLOR_CHANGE_DONE_BUTTON: ГОТОВО
+MACRO_EDITOR_MACRO_OPTIONS_COLOR_RESET_BUTTON: БЕЗ ЦВЕТА
+MACRO_EDITOR_SAVE_BUTTON: СОХРАНИТЬ
+MACRO_EDITOR_RESET_BUTTON: СБРОС
+MACRO_EDITOR_DELETE_BUTTON: УДАЛИТЬ ЭТОТ МАКРОС
+MACRO_EDITOR_CURRENTLY_RECORDING_HELP_TEXT: Запись сочетаний клавиш и щелчков мышью
+MACRO_EDITOR_RECORDING_HELP_TEXT: "Нажмите кнопку записи {RECORD_BUTTON}, чтобы добавить команды или сочетания клавиш."
+# RECORD_BUTTON will be replaced by an image of the record button
+MACRO_EDITOR_RECORDING_STOP_HELP_TEXT: "По окончании записи не забудьте нажать кнопку остановки {STOP_BUTTON}."
+# STOP_BUTTON will be replaced by an image of the stop recording button
+MACRO_EDITOR_ADVANCED_MODE_BUTTON: РАСШИРЕННЫЙ РЕЖИМ
+MACRO_EDITOR_SIMPLE_MODE_BUTTON: ВЕРНУТЬСЯ К УПРОЩЕННОМУ РЕЖИМУ
+MACRO_EDITOR_SIMPLE_MODE_DESTRUCTIVE_NOTIFICATION_INFO: При возврате к упрощенному режиму внесенные изменения могут быть потеряны. Вы действительно хотите вернуться?
+MACRO_EDITOR_DEVICE_SELECTION_HEADING: Выберите соответствующие устройства
+MACRO_EDITOR_DEVICE_SELECTION_NONE_AVAILABLE: Нет доступных устройств
+ACTION_EDITOR_HEADER: "СОЗДАТЬ ДЕЙСТВИЕ ДЛЯ {ACTION_TYPE}"
+# "CREATE OBS ACTION" ACTION_TYPE will be replaced dynamically
+ACTION_EDITOR_TIPS: "Подсказка: действия работают, когда это приложение открыто."
+ACTION_EDITOR_HEADER_ACTION_NAME: НАЗВАНИЕ
+ACTION_EDITOR_NEW_ACTION_DEFAULT_NAME: Новое действие
+ACTION_EDITOR_HEADER_ACTION_TYPE_PLACEHOLDER: НЕ ВЫБРАНО
+ACTION_EDITOR_HEADER_ACTION_TYPES: ТИПЫ ДЕЙСТВИЙ
+ACTION_EDITOR_HEADER_SELECT_SCENE: ВЫБРАТЬ СЦЕНУ
+ACTION_EDITOR_HEADER_ACTION_NO_PARAMETERS: НЕТ ДОСТУПНЫХ ПАРАМЕТРОВ
+ACTION_EDITOR_DELETE_BUTTON: УДАЛИТЬ
+ACTION_EDITOR_SAVE_BUTTON: СОХРАНИТЬ
+ACTION_EDITOR_DELETE_CONFIRMATION: Вы действительно хотите удалить это действие?
+SEND_FEEDBACK_BUTTON_LABEL: ОТПРАВИТЬ ОТЗЫВ
+SEND_FEEDBACK_BUTTON_DISABLED_TOOLTIP: "Прежде чем отправлять отзыв, выполните обновление до последней версии."
+PERSISTENT_PROFILE_DESCRIPTION: "Этот профиль установлен как постоянный для всех приложений. Если Вы выберете другой профиль, постоянный отключится."
+PROFILE_SELECTOR_PERSISTENT_PROFILE_HEADER: ПОСТОЯННЫЙ ПРОФИЛЬ
+PROFILE_SELECTOR_PER_PROFILE_HEADER: НАСТРОЙКА ДЛЯ КАЖДОГО ПРОФИЛЯ
+PROFILE_SELECTOR_LOCKED_HEADER: НАСТРОЙКА ДЛЯ ВСЕХ ПРОФИЛЕЙ
+PROFILE_ACTIVATED_NOTIFICATION_TEXT: "В настоящее время активен профиль {APPLICATION_NAME} {PROFILE_NAME}."
+# "Overwatch Default is now active.". APPLICATION_NAME and PROFILE_NAME are replaced dynamically.
+PROFILE_ACTIVATED_CONFIRM_SWITCH_NOTIFICATION_TEXT: "Продолжить процедуру настройки {PROFILE_NAME} {APPLICATION_NAME}?"
+# "Would you like to keep configuring Overwatch Default.". APPLICATION_NAME and PROFILE_NAME are replaced dynamically.
+PROFILE_ACTIVATED_CONFIRM_SWITCH_NOTIFICATION_TEXT_COMBINED: "В настоящее время активен профиль {NEW_APPLICATION_NAME} {NEW_PROFILE_NAME}. Продолжить процедуру настройки {OLD_PROFILE_NAME} {OLD_APPLICATION_NAME}?"
+PROFILE_ACTIVATION_DISABLE_PERSISTENT_PROFILE_NOTIFICATION_TEXT: "Включить автоматическое переключение профилей и отключить постоянный профиль?"
+PROFILE_ACTIVATION_DISABLE_PERSISTENT_PROFILE_NOTIFICATION_CANCEL: ОТМЕНА
+PROFILE_ACTIVATION_ENABLE_PERSISTENT_PROFILE_NOTIFICATION_TEXT: "Отключить настройки для каждого профиля и функцию переключения профилей и установить данный профиль в качестве постоянного?"
+PROFILE_ACTIVATION_ENABLE_PERSISTENT_PROFILE_NOTIFICATION_CANCEL: ОТМЕНА
+PROFILE_NOTIFICATION_DELETE: "Действительно удалить этот профиль?"
+SETTINGS_SPROCKET_DEVICE: "НАСТРОЙКИ {DEVICE}"
+SETTINGS_SPROCKET_APPLICATION: НАСТРОЙКИ G HUB
+RELEASE_NOTES_NO_NOTES: Для этой версии нет заметок о выпуске.
+RELEASE_NOTES_LEARN_MORE_BUTTON: УЗНАТЬ БОЛЬШЕ
+RELEASE_NOTES_GOT_IT_BUTTON: ЯСНО
+RELEASE_NOTES_DFU_LOW_BATTERY: "Батарея {DEVICE} почти разряжена. Замените либо зарядите ее, прежде чем продолжить обновление прошивки"
+SURFACE_TUNING_HEADER: НАСТРОЙКА ПОВЕРХНОСТИ
+SURFACE_TUNING_KEEP_THIS_TUNING_BUTTON: СОХРАНИТЬ ЭТУ НАСТРОЙКУ
+SURFACE_TUNING_KEEP_THIS_TUNING_INSTRUCTIONS: "Нажмите, чтобы сохранить эту настройку. В противном случае изменения не сохранятся."
+SURFACE_TUNING_FACTORY_DEFAULT: Поверхность по умолчанию
+SURFACE_TUNING_ADD_NEW_SURFACE: + ДОБАВИТЬ НОВУЮ ПОВЕРХНОСТЬ
+SURFACE_TUNING_INSTRUCTIONS_NOT_MOVING: "Двигая мышь, обведите фигуру. Для наилучшего результата водите мышью по всей поверхности."
+SURFACE_TUNING_INSTRUCTIONS_FASTER: Двигайтесь побыстрее.
+SURFACE_TUNING_INSTRUCTIONS_GOOD: Отлично. Продолжайте!
+SURFACE_TUNING_INSTRUCTIONS_SLOWER: Слишком быстро. Чуть помедленнее.
+SURFACE_TUNING_INSTRUCTIONS_COMPLETE: ОТЛИЧНО! Все готово.
+SURFACE_TUNING_SUGGESTION_SLOWER: МЕДЛЕННЕЕ
+SURFACE_TUNING_SUGGESTION_GOOD: ХОРОШО
+SURFACE_TUNING_SUGGESTION_FASTER: БЫСТРЕЕ
+SURFACE_TUNING_NAME_PLACEHOLDER: Назовите поверхность
+SURFACE_TUNING_NAME_INSTRUCTIONS: "Нажмите ENTER, чтобы создать поверхность"
+SURFACE_TUNING_FAILURE: Ой! Произошла ошибка. Щелкните «Отмена» и попробуйте снова.
+SPLASH_SELECT_DEVICE_COLOR: ВЫБЕРИТЕ ЦВЕТ УСТРОЙСТВА
+SPLASH_GO_BUTTON: ГОТОВО
+NOTIFICATION_DEFAULT_DENY: НЕТ
+NOTIFICATION_DEFAULT_CONFIRM: ДА
+NOTIFICATION_CONFIRM_OK: ОК
+NOTIFICATION_DEFAULT_CANCEL: ОТМЕНА
+LIGHTING_EDITOR_TIMELINE_BLOCKER_RANDOM_DIRECTION_TEXT: "НЕЛЬЗЯ ОТОБРАЗИТЬ ХОД ВОСПРОИЗВЕДЕНИЯ, ЕСЛИ ЗАДАНА НАСТРОЙКА «СЛУЧАЙНЫЙ ВЫБОР»"
+LIGHTING_EDITOR_HELP_TEXT: "Выберите эффект подсветки клавиш в свободном стиле для каждого кадра, чтобы создать анимацию для клавиатуры."
+LIGHTING_EDITOR_TIMELINE_HELP_TEXT: Выберите нужный кадр для редактирования.
+PERSISTENT_LIGHTING_ON: "Настройки подсветки являются одинаковыми для всех профилей (подсветка может зависеть от конкретной игры). Разблокируйте, чтобы включить подсветку для каждого профиля."
+PERSISTENT_LIGHTING_OFF: "Подсветка для каждого профиля включена. Щелкните, чтобы сделать подсветку одинаковой для всех профилей."
+PERSISTENT_DPI_ON: "Настройки DPI одинаковы для всех профилей. Разблокируйте, чтобы активировать настройку DPI для каждого профиля отдельно."
+PERSISTENT_DPI_OFF: "Настройки DPI для каждого профиля активированы. Нажмите, чтобы сделать их одинаковыми для всех профилей."
+PERSISTENT_PEDALS_ON: "Для всех профилей используются одинаковые настройки педалей. Снимите блокировку, чтобы активировать настройки педалей для каждого профиля."
+PERSISTENT_PEDALS_OFF: "Настройки педалей для каждого профиля активированы. Щелкните, чтобы сделать настройки педалей одинаковыми для всех профилей."
+PERSISTENT_WHEEL_ON: "Для всех профилей используются одинаковые настройки руля. Снимите блокировку, чтобы активировать настройки руля для каждого профиля."
+PERSISTENT_WHEEL_OFF: "Настройки руля для каждого профиля активированы. Щелкните, чтобы сделать настройки руля одинаковыми для всех профилей."
+PERSISTENT_ASSIGNMENTS_ON: "Назначения одинаковы для всех профилей. Разблокируйте, чтобы активировать их для каждого профиля отдельно."
+PERSISTENT_ASSIGNMENTS_OFF: "Назначения для каждого профиля активированы. Нажмите, чтобы сделать их одинаковыми для всех профилей."
+PERSISTENT_ACOUSTICS_ON: "Настройки звука одинаковы для всех профилей. Разблокируйте, чтобы активировать их для каждого профиля отдельно."
+PERSISTENT_ACOUSTICS_OFF: "Настройки звука для каждого профиля активированы. Нажмите, чтобы сделать их одинаковыми для всех профилей."
+PERSISTENT_EQUALIZER_ON: "Настройки эквалайзера одинаковы для всех профилей. Разблокируйте, чтобы активировать их для каждого профиля отдельно."
+PERSISTENT_EQUALIZER_OFF: "Настройки эквалайзера для каждого профиля активированы. Нажмите, чтобы сделать их одинаковыми для всех профилей."
+PERSISTENT_DISABLED_KEYS_ON: "Настройки отключения клавиш в игровом режиме одинаковы для всех профилей. Выполните разблокировку, чтобы активировать отключение клавиш для каждого профиля отдельно."
+PERSISTENT_DISABLED_KEYS_OFF: "Отключение клавиш в игровом режиме для каждого профиля активировано. Нажмите, чтобы сделать настройки отключения клавиш одинаковыми для всех профилей."
+PERSISTENT_WEBCAM_ON: "Для всех профилей используются одинаковые настройки веб-камеры. Снимите блокировку, чтобы задать параметры отдельно для каждого профиля."
+PERSISTENT_WEBCAM_OFF: "Режим выбора настроек веб-камеры по профилям активирован. Нажмите, чтобы применить одни и те же настройки камеры для всех профилей."
+PERSISTENT_MICROPHONE_ON: "Для всех профилей установлены одинаковые настройки микрофона. Снимите блокировку, чтобы отрегулировать настройки микрофона отдельно для каждого профиля."
+PERSISTENT_MICROPHONE_OFF: "Активирована функция регулировки настроек микрофона отдельно для каждого профиля. Нажмите здесь, чтобы установить для всех профилей одинаковые настройки микрофона."
+COMMUNITY_DOWNLOADING_EFFECT_NAME: 'Загружаем анимационный эффект подсветки «{EFFECT}»…'
+# "Downloading “My awesome effect” lighting animation…". EFFECT is replaced dynamically.
+COMMUNITY_DOWNLOADING_PROFILE_NAME: 'Загружаем профиль «{PROFILE}»…'
+# "Downloading “My awesome profile” profile…". PROFILE is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_PROFILE_NAME: 'Теперь «{PROFILE}» доступен для {APPLICATION}.'
+# "“My awesome profile” is now available for Overwatch.". PROFILE and APPLICATION are replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_EFFECT_NAME: 'Теперь «{EFFECT}» есть в списке анимационных эффектов клавиатуры, созданных Вами.'
+# "“My awesome lighting” is now available in your custom keyboard lighting animations.". EFFECT is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_EFFECT_INCOMPATIBLE: '«{EFFECT}» не поддерживается этими устройствами.'
+# "“My awesome lighting” is not compatible with your current devices.". EFFECT is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_AUDIO_VOICE_NAME: 'Теперь “{PRESET}” есть в вашем списке пользовательских предустановок Blue Voice.'
+# "“Broadcaster” is now available in your custom Blue Voice Presets.". PRESET is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_AUDIO_EQ_NAME: 'Теперь “{PRESET}” есть в вашем списке пользовательских предустановок эквалайзера Pro.'
+# "“Broadcaster” is now available in your custom Pro Equalizer Presets.". PRESET is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_AUDIO_VOICE_2_NAME: 'Теперь “{PRESET}” есть в вашем списке пользовательских предустановок Blue Voice.'
+# "“Broadcaster” is now available in your custom Blue Voice Presets.". PRESET is replaced dynamically.
+COMMUNITY_DOWNLOAD_COMPLETE_VOICE_FX_NAME: 'Теперь «{PRESET}» есть в вашем списке пользовательских предустановок голосовых эффектов.'
+# "“Broadcaster” is now available in your custom Voice Effects Presets.". PRESET is replaced dynamically.
+COMMUNITY_GO_TO_APPLICATIONS_BUTTON: ПЕРЕЙТИ К ПРИЛОЖЕНИЮ
+COMMUNITY_NOT_NOW_BUTTON: ПОЗЖЕ
+COMMUNITY_APPLY_NOW_BUTTON: ПРИМЕНИТЬ СЕЙЧАС
+COMMUNITY_DOWNLOAD_FAILED: Загрузка не удалась.
+COMMUNITY_DOWNLOAD_COMPLETE: Загрузка выполнена.
+COMMUNITY_PUBLISH_FAILED: Передача не удалась.
+COMMUNITY_PUBLISH_COMPLETE: "Спасибо! Мы проверяем переданные Вами данные и сообщим о своем решении по электронной почте."
+COMMUNITY_PRIVATE_UPLOAD_COMPLETE: "Передача завершена! Переданные материалы можно просмотреть в Вашем профиле."
+ASSIGNMENT_NAME_PRIMARY_CLICK: Щелчок основной кнопкой
+ASSIGNMENT_NAME_SECONDARY_CLICK: Щелчок другой кнопкой
+ASSIGNMENT_NAME_MIDDLE_CLICK: Щелчок средней кнопкой
+ASSIGNMENT_NAME_BACK: Назад
+ASSIGNMENT_NAME_FORWARD: Вперед
+ASSIGNMENT_NAME_MOUSE_BUTTON_4: Кнопка мыши 4
+ASSIGNMENT_NAME_MOUSE_BUTTON_5: Кнопка мыши 5
+ASSIGNMENT_NAME_BUTTON_DOUBLE_CLICK: Двойной щелчок
+ASSIGNMENT_NAME_WHEEL_RIGHT: Прокрутить вправо
+ASSIGNMENT_NAME_WHEEL_LEFT: Прокрутить влево
+ASSIGNMENT_NAME_WHEEL_UP: Прокрутка вверх
+ASSIGNMENT_NAME_WHEEL_DOWN: Прокрутка вниз
+ASSIGNMENT_NAME_G_SHIFT: G-Shift
+ASSIGNMENT_NAME_DPI_UP: Увеличить DPI
+ASSIGNMENT_NAME_DPI_DOWN: Уменьшить DPI
+ASSIGNMENT_NAME_DPI_SHIFT: Переключатель DPI
+ASSIGNMENT_NAME_DPI_DEFAULT: DPI ПО УМОЛЧАНИЮ
+ASSIGNMENT_NAME_DPI_CYCLE: Циклическая смена DPI
+ASSIGNMENT_NAME_DPI_GO_TO_SHIFT: Перейти к Переключатель DPI
+ASSIGNMENT_NAME_PROFILE_CYCLE: Циклическая смена встроенных профилей
+ASSIGNMENT_NAME_MEDIA_PLAY_PAUSE: Играть/пауза
+ASSIGNMENT_NAME_MEDIA_STOP: Стоп
+ASSIGNMENT_NAME_PREVIOUS_TRACK: Предыдущая дорожка
+ASSIGNMENT_NAME_NEXT_TRACK: Следующая дорожка
+ASSIGNMENT_NAME_VOLUME_UP: Громче
+ASSIGNMENT_NAME_VOLUME_DOWN: Тише
+ASSIGNMENT_NAME_VOLUME_MUTE: Выключение звука
+ASSIGNMENT_NAME_MUTE_SPEAKERS: Отключить звук на аудиовыходе
+ASSIGNMENT_NAME_MUTE_MICROPHONE: Отключить звук на аудиовходе
+ASSIGNMENT_NAME_MICROPHONE_GAIN_INCREASE: Усилить на входе
+ASSIGNMENT_NAME_MICROPHONE_GAIN_DECREASE: Ослабить на входе
+ASSIGNMENT_NAME_SIDETONE_INCREASE: Слышать свой голос громче
+ASSIGNMENT_NAME_SIDETONE_DECREASE: Слышать свой голос тише
+ASSIGNMENT_NAME_BASS_INCREASE: Добавить низкие частоты
+ASSIGNMENT_NAME_BASS_DECREASE: Убавить низкие частоты
+ASSIGNMENT_NAME_TREBLE_INCREASE: Добавить высокие частоты
+ASSIGNMENT_NAME_TREBLE_DECREASE: Убавить высокие частоты
+ASSIGNMENT_NAME_ADVANCED_EQUALIZER_TOGGLE: Включить/отключить расширенный эквалайзер
+ASSIGNMENT_NAME_SURROUND_TOGGLE: Включить/отключить объемное звучание
+ASSIGNMENT_NAME_EQUALIZER_CYCLE: Переключение эквалайзера
+ASSIGNMENT_NAME_AUDIO_OUTPUT_CYCLE: Переключение аудиовыходов
+ASSIGNMENT_NAME_AUDIO_INPUT_CYCLE: Переключение аудиовходов
+ASSIGNMENT_NAME_MAKE_DEFAULT_AUDIO_DEVICE: Переключиться на это аудиоустройство
+ASSIGNMENT_NAME_SYSTEM_OSX_COPY: Копировать (⌘C)
+ASSIGNMENT_NAME_SYSTEM_WINDOWS_COPY: Копировать
+ASSIGNMENT_NAME_SYSTEM_OSX_CUT: Вырезать (cmd+X)
+ASSIGNMENT_NAME_SYSTEM_WINDOWS_CUT: Вырезать
+ASSIGNMENT_NAME_SYSTEM_OSX_PASTE: Вставить (cmd+V)
+ASSIGNMENT_NAME_SYSTEM_WINDOWS_PASTE: Вставить
+ASSIGNMENT_NAME_SYSTEM_OSX_UNDO: Отменить (cmd+Z)
+ASSIGNMENT_NAME_SYSTEM_WINDOWS_UNDO: Отменить
+ASSIGNMENT_NAME_SYSTEM_OSX_REDO: Вернуть (⇧⌘C)
+ASSIGNMENT_NAME_SYSTEM_WINDOWS_REDO: Вернуть
+ASSIGNMENT_NAME_LIGHTING_CYCLE_FIRMWARE_BRIGHTNESS: Выбор максимальной яркости
+ASSIGNMENT_NAME_LIGHTING_CYCLE_SOFTWARE_BRIGHTNESS: Выбор максимальной яркости
+ASSIGNMENT_NAME_SYSTEM_LOCK_SCREEN: Экран блокировки
+ASSIGNMENT_NAME_GHUB_CYCLE_GHUB_PROFILE: Циклическая смена профилей
+ASSIGNMENT_NAME_GHUB_DISABLE_GHUB_SLOT: Отключено
+ASSIGNMENT_NAME_GHUB_DEFAULT_GHUB_SLOT: Устройство по умолчанию
+ASSIGNMENT_NAME_BATTERY_LIFE: Уровень заряда батареи
+CYCLE_GHUB_PROFILE_NOTIFICATION_MESSAGE: "Действие будет применено ко всем профилям {APP}"
+# "This will apply to all your "Overwatch" profiles. APP is replaced dynamically.
+POLAR_PATTERN_STEREO: Стерео
+POLAR_PATTERN_OMNI: Всенаправленный
+POLAR_PATTERN_CARDIOID: Кардиоидный
+POLAR_PATTERN_BIDIRECTIONAL: Двунаправленный
+EQUALIZER_DEFAULT: По умолчанию
+EQUALIZER_FLAT: Нейтральный
+EQUALIZER_FPS: Шутер от первого лица
+EQUALIZER_MOBA: MOBA-игры
+EQUALIZER_BASS_BOOST: Усиление низких частот
+EQUALIZER_CINEMATIC: Кинофильм
+EQUALIZER_COMMUNICATIONS: Общение
+EQUALIZER_SIMPLE_DEFAULT_HIDDEN: Основные настройки эквалайзера
+PRO_EQUALIZER_DEFAULT: По умолчанию
+PRO_EQUALIZER_COMMUNICATIONS: Общение
+WEBCAM_PANEL_HEADER: Веб-камера
+WEBCAM_AUTO_BUTTON: АВТО
+WEBCAM_CAMERA: КАМЕРА
+WEBCAM_VIDEO: ВИДЕО
+WEBCAM_COLOR: ЦВЕТ
+WEBCAM_CAMERA_MENU_TITLE: РЕЖИМ КАМЕРЫ
+WEBCAM_CAMERA_DEFAULT: ПО УМОЛЧАНИЮ
+WEBCAM_VIDEO_MENU_TITLE: ВИДЕОФИЛЬТР
+WEBCAM_CAMERA_ZOOM: МАСШТАБ
+WEBCAM_CAMERA_FOCUS: ФОКУСИРОВКА
+WEBCAM_CAMERA_FOV: УГОЛ ОБЗОРА
+WEBCAM_CAMERA_PRIORITY: ПРИОРИТЕТ
+WEBCAM_CAMERA_AUDIO: ЗВУК
+WEBCAM_RESTORE_CAMERA_DEFAULTS: ВЕРНУТЬСЯ К НАСТРОЙКАМ КАМЕРЫ ПО УМОЛЧАНИЮ
+WEBCAM_RESTORE_VIDEO_DEFAULTS: ВЕРНУТЬСЯ К НАСТРОЙКАМ ВИДЕО ПО УМОЛЧАНИЮ
+WEBCAM_VIDEO_BRIGHTNESS: ЯРКОСТЬ
+WEBCAM_VIDEO_CONTRAST: КОНТРАСТ
+WEBCAM_VIDEO_SHARPNESS: РЕЗКОСТЬ
+WEBCAM_VIDEO_ANTI_FLICKER: УСТРАНЕНИЕ МЕРЦАНИЯ
+WEBCAM_VIDEO_STABILIZATION: УЛУЧШЕННАЯ СТАБИЛИЗАЦИЯ ВИДЕО
+WEBCAM_COLOR_WHITE_BALANCE: БАЛАНС БЕЛОГО
+WEBCAM_COLOR_EXPOSURE: ВЫДЕРЖКА
+WEBCAM_COLOR_SATURATION: НАСЫЩЕННОСТЬ
+WEBCAM_PANEL_HDR_CHECKBOX: HDR
+WEBCAM_BROADCAST_MODE_CONFIG: НАСТРОЙКА
+WEBCAM_BROADCAST_MODE_CONFIG_TEXT: "Отключите это устройство в G HUB, чтобы передать управление другой программе"
+WEBCAM_BROADCAST_MODE_NOTIFICATION: "Возможность настройки камеры {DEVICE} в приложении G HUB отключена"
+# "Configuration for BRIO is disabled in G HUB". DEVICE is replaced dynamically.
+WEBCAM_BROADCAST_MODE_NOTIFICATION_OPTION: ПЕРЕЙТИ К НАСТРОЙКАМ
+WEBCAM_DROPDOWN_ADD_NEW_CAMERA: + ДОБАВИТЬ НОВЫЙ РЕЖИМ КАМЕРЫ
+WEBCAM_DROPDOWN_ADD_NEW_FILTER: + ДОБАВИТЬ НОВЫЙ ФИЛЬТР
+WEBCAM_NEW_CAMERA_CARD_DEFAULT: НОВЫЙ РЕЖИМ КАМЕРЫ
+WEBCAM_NEW_VIDEO_CARD_DEFAULT: НОВЫЙ РЕЖИМ ВИДЕО
+WEBCAM_ORIENTATION_TEXT: "Примечание. Не все приложения поддерживают вертикальную ориентацию или вращение камеры в реальном масштабе времени."
+WHEEL_PANEL_HEADER: Руль
+WHEEL_SENSITIVITY: ЧУВСТВИТЕЛЬНОСТЬ
+WHEEL_OPERATING_RANGE: УГОЛ ПОВОРОТА
+WHEEL_CENTERING_SPRING_OPTION: ЦЕНТРИРУЮЩАЯ ПРУЖИНА В ИГРАХ БЕЗ ОБРАТНОЙ СВЯЗИ ПО УСИЛИЮ
+WHEEL_CENTERING_SPRING_STRENGTH: СОПРОТИВЛЕНИЕ ЦЕНТРИРУЮЩЕЙ ПРУЖИНЫ
+WHEEL_TRUEFORCE_LOGO_FALLBACK: TRUEFORCE
+WHEEL_TRUEFORCE_INFO_TEXT: Технология TRUEFORCE использует физический движок поддерживаемых игр
+WHEEL_TRUEFORCE_ALLOW_GAME_CONTROL_CHECKBOX: ПРИМЕНИТЬ НАСТРОЙКИ ИЗ ИГРЫ
+WHEEL_TRUEFORCE_TORQUE: КРУТЯЩИЙ МОМЕНТ
+WHEEL_TRUEFORCE_AUDIO_EFFECTS: АУДИОЭФФЕКТЫ
+WHEEL_SETTINGS_RESTORE_DEFAULTS: ВОССТАНОВИТЬ НАСТРОЙКИ ПО УМОЛЧАНИЮ
+PEDALS_PANEL_HEADER: Чувствительность педалей
+PEDALS_CLUTCH: СЦЕПЛЕНИЕ
+PEDALS_BRAKE: ТОРМОЗ
+PEDALS_ACCELERATOR: УСКОРИТЕЛЬ
+PEDALS_COMBINED_OPTION: КОМБИНИРОВАННЫЕ ПЕДАЛИ
+FRAME_RATE: Частота кадров
+EXPOSURE: Выдержка
+MONO: "Моно, с формированием направленного сигнала"
+STEREO: Стерео
+STREAMING: Потоковая передача
+VIDEO_CALL: Видеозвонок
+WEBCAM_FILTER_TITLE: ФИЛЬТРЫ
+FILTER_ZOMBIE: ЗОМБИ
+FILTER_CUSTOM: ДРУГОЕ
+FILTER_BLACK_WHITE: ЧЕРНО-БЕЛОЕ ИЗОБР.
+FILTER_CARTOON: МУЛЬТФИЛЬМ
+FILTER_SICKNESS: БОЛЕЗНЬ
+FILTER_NONE: НЕТ
+LIGHTING_EFFECT_COLOR_CYCLE: Циклическая смена цветов
+LIGHTING_EFFECT_STARLIGHT: Звездное сияние
+LIGHTING_EFFECT_ECHO_PRESS: Эхо
+LIGHTING_EFFECT_RIPPLE: Волна при нажатии клавиш
+LIGHTING_EFFECT_OFF: Выкл
+NONE: Нет
+INVALID: Неправильно
+OFF: Выкл
+ON: Вкл
+SNIPE_PULSE_CP: Пульсирующая точка
+NEURAL_WAVE_CP: Нулевой нейтрон
+FIXED: Постоянный
+COLOR_WAVE: Цветовая волна
+KITT: KITT
+DECOMPOSITION: Цветовой переход
+BREATHING: Дыхание
+CYCLE: Цикл
+REVERSE_CYCLE: Обратный цикл
+BOUNCE: Колебание
+HORIZONTAL: По горизонтали
+VERTICAL: По вертикали
+CENTER_OUT: От центра к краям
+CENTER_IN: От краев к центру
+FREESTYLE: Свободный стиль
+ANIMATION: Анимация
+REVERSE_HORIZONTAL: Обратно по горизонтали
+REVERSE_VERTICAL: Обратно по вертикали
+RANDOM: Случайный выбор
+DTS_STANDARD: Стандарт DTS
+FPS: Шутер от первого лица
+SIGNATURE_STUDIO: Signature Studio
+SS_FRONT: Фронтальное
+SS_WIDE: Широкое
+HX2E_ENTERTAINMENT: Развлечения
+HX2E_GAMING: Игры
+HX2E_SPORTS: Спорт
+HX2E_OFF: Выкл
+HX2E_FRONT: Фронтальное
+HX2E_WIDE: Широкое
+HX2E_TRADITIONAL: Обычное
+ZONE_ONE: Зона 1
+ZONE_TWO: Зона 2
+ZONE_THREE: Зона 3
+ZONE_FOUR: Зона 4
+ZONE_FIVE: Зона 5
+MICROPHONE_ZONE_PRIMARY: Активный
+MICROPHONE_ZONE_BRANDING: Выкл. звук
+MICROPHONE_ZONE_LEFT_SIDE: Усиление входного уровня
+MICROPHONE_ZONE_RIGHT_SIDE: Громкость в наушниках
+MICROPHONE_ZONE_COMBINED: Прямое отслеживание
+MICROPHONE_ZONE_ONE: Стерео
+MICROPHONE_ZONE_TWO: Всенаправленный
+MICROPHONE_ZONE_THREE: Кардиоидный
+MICROPHONE_ZONE_FOUR: Двунаправленный
+MICROPHONE_ZONE_FIVE: Измерение — обычный уровень
+MICROPHONE_ZONE_SIX: Измерение — высокий уровень
+MICROPHONE_ZONE_SEVEN: Измерение — пиковый уровень
+UPDATE_NOTIFICATION_NEW_UPDATE: "Появилось новое обновление! Чтобы установить его, нажмите кнопку «Перезапуск»."
+UPDATE_NOTIFICATION_UPDATE_AVAILABLE: Последнее обновление доступно для загрузки!
+UPDATE_NOTIFICATION_UPDATE_DOWNLOADING: Выполняется загрузка обновления
+UPDATE_NOTIFICATION_UPDATE_UNPACKING: Извлечение файлов
+UPDATE_NOTIFICATION_UPDATE_PROCESSING: "Производится обновление…"
+UPDATE_NOTIFICATION_RESTART_BUTTON: ПЕРЕЗАПУСК
+UPDATE_NOTIFICATION_UPDATE_DOWNLOAD_NOW: ЗАГРУЗИТЬ
+UPDATE_NOTIFICATION_UPDATE_DOWNLOAD_NOT_NOW: ПОЗЖЕ
+UPDATE_NOTIFICATION_FINALIZING: "Установка обновления завершается… Пожалуйста, подождите."
+INSTALLER_APPLICATION_NAME: LOGITECH G HUB
+INSTALLER_GENERIC_TRY_AGAIN: ПОВТОРИТЬ ПОПЫТКУ
+INSTALLER_GENERIC_CONTINUE: ПРОДОЛЖИТЬ
+INSTALLER_GENERIC_CANCEL: ОТМЕНА
+INSTALLER_GENERIC_BACK: НАЗАД
+INSTALLER_GENERIC_REINSTALL: ПЕРЕУСТАНОВИТЬ
+INSTALLER_GENERIC_LAUNCH_GHUB: ЗАПУСТИТЬ
+INSTALLER_GENERIC_UNINSTALL: УДАЛИТЬ
+INSTALLER_GENERIC_LETS_PARTY: НАЧНЕМ ВЕЧЕРИНКУ
+INSTALLER_GENERIC_QUIT: ВЫХОД
+INSTALLER_GENERIC_REBOOT_NOW: ПЕРЕЗАГРУЗИТЬ СЕЙЧАС
+INSTALLER_GENERIC_REBOOT_LATER: ПЕРЕЗАГРУЗИТЬ ПОЗЖЕ
+INSTALLER_ONLINE_HELP: ОНЛАЙН-СПРАВКА
+INSTALLER_DISK_INDICATOR_NORMAL: "{0} ГБ свободно на диске {1}"
+# {0} is the amount of GB available, {1} is the letter of the drive (i.e: "C")
+INSTALLER_DISK_INDICATOR_WARNING: "На диске {0} свободно менее 1 ГБ"
+# {0} is the letter of the drive (i.e: "C")
+INSTALLER_DISK_INDICATOR_ERROR: "На диске {0} свободно менее 500 МБ"
+# {0} is the letter of the drive (i.e: "C")
+INSTALLER_ERROR_DOWNLOAD_INIT: Инициализация загрузки не удалась из-за проблем с сетью. Повторите попытку.
+INSTALLER_ERROR_NETWORK_ISSUE: Загрузка не удалась из-за проблем с сетью. Повторите попытку.
+INSTALLER_ERROR_UPDATE_SUMMARY: Не удалось получить актуальную сводку по обновлению. Повторите попытку.
+INSTALLER_ERROR_DISK_FULL: Недостаточно свободного места на диске.
+INSTALLER_ERROR_UNCAUGHT_ERROR: Во время установки произошла ошибка. Повторите попытку.
+INSTALLER_ERROR_UNPACKING: Не удалось распаковать ресурсы установщика. Перезапуск установщика может решить эту проблему.
+INSTALLER_ERROR_DLL_LOADING: "Не удалось загрузить основные компоненты установщика."
+INSTALLER_ERROR_START_INSTALL: "Не удалось начать установку. Для устранения проблемы попробуйте закрыть установщик и снова запустить его."
+INSTALLER_ERROR_REDOWNLOAD: "Выполните загрузку повторно с "
+INSTALLER_ERROR_OS_VERSION: "ПО G HUB не поддерживается текущей операционной системой. Для получения более подробной информации прочтите о совместимости G HUB с разными операционными системами."
+# This is completed with "OFFICIAL WEBSITE."
+INSTALLER_OFFICIAL_WEBSITE: ОФИЦИАЛЬНОГО САЙТА.
+INSTALLER_INFO_VERSION: "ВЕРСИЯ {0}"
+#{0} will take the form of "major.minor" (i.e: "2020.10")
+INSTALLER_INFO_DESTINATION: "Установка в {0}"
+# {0} is the installation path of G HUB
+INSTALLER_INFO_DOWNLOAD_PROGRESS: "{0} МБ из {1} МБ ({2} МБ/с)"
+# {0} is the currently downloaded MBs, {1} is the total MBs to download, {2} is the speed in MB/s
+INSTALLER_LOADING_MESSAGE_0: "Обнаружена низкая скорость скачивания"
+INSTALLER_LOADING_MESSAGE_1: "Может, в другой раз? Выполняем калибровку"
+INSTALLER_LOADING_MESSAGE_2: "Проверяем подключение принтера к вашей истории режима инкогнито"
+INSTALLER_LOADING_MESSAGE_3: "Перенаправляем мощность реактора"
+INSTALLER_LOADING_MESSAGE_4: "Призываем котика из Nyan cat"
+# "Nyan" should not be translated. The rest of the sentence can be translated.
+INSTALLER_LOADING_MESSAGE_5: "Нужно больше веспена"
+# "vespene" comes from Starcraft and usually is not translated.
+INSTALLER_LOADING_MESSAGE_6: "Ничем подозрительным я тут не занимаюсь. Честно-честно!"
+INSTALLER_LOADING_MESSAGE_7: "Тесселяция матрицы бесконечности"
+INSTALLER_LOADING_MESSAGE_8: "Нужно больше пилонов"
+# "pylons" comes from Starcraft and usually is not translated.
+INSTALLER_LOADING_MESSAGE_9: "Витамин D необходим для человеческого организма"
+INSTALLER_LOADING_MESSAGE_10: "Гипердвигатель, на старт!"
+INSTALLER_LOADING_MESSAGE_11: "Лучше мышка в руке, чем единорог в небе"
+INSTALLER_LOADING_MESSAGE_12: "Когда весело, время летит незаметно"
+INSTALLER_LOADING_MESSAGE_13: "Удаляем кое-что из вашей системы"
+INSTALLER_LOADING_MESSAGE_14: "И это пройдет"
+INSTALLER_LOADING_MESSAGE_15: "Надеваем штаны"
+INSTALLER_LOADING_MESSAGE_16: "Отправляем сильнейшего из воинов"
+INSTALLER_LOADING_MESSAGE_17: "Что-то не нравится мне этот голуб..."
+# "sus..." is the cut version of "suspicious". Reference to the game "Among us"
+INSTALLER_LOADING_MESSAGE_18: "Ретикуляция сплайнов"
+INSTALLER_LOADING_MESSAGE_19: "Претворяем в жизнь план мирового господства"
+INSTALLER_LOADING_MESSAGE_20: "Интересно, а для чего эта кнопка?"
+INSTALLER_LOADING_MESSAGE_21: "Эй, вы там! Проснулись, наконец-то"
+INSTALLER_MODAL_REBOOT: "Для завершения установки необходимых компонентов требуется перезапуск. Когда компьютер перезапустится, установщик откроется повторно."
+INSTALLER_MODAL_TITLE_FAILED: Сбой установки.
+INSTALLER_MODAL_TITLE_INIT_FAILED: Сбой инициализации.
+INSTALLER_MODAL_TITLE_EXITING_SW: Уже установлено.
+INSTALLER_MODAL_TITLE_CONFIRM: Переустановить G HUB?
+INSTALLER_MODAL_TITLE_UNINSTALL: Удаление.
+INSTALLER_MODAL_TITLE_UNINSTALL_SUCCESS: Успешно удалено.
+INSTALLER_MODAL_TITLE_UNINSTALL_FAILURE: Сбой удаления.
+INSTALLER_MODAL_TITLE_EXIT: Прервать установку.
+INSTALLER_MODAL_TITLE_REBOOT: Требуется перезапуск.
+INSTALLER_MODAL_CONFIRM_EXIT: Вы действительно хотите выйти?
+INSTALLER_OFFICIAL_WEBSITE_LINK: "https://www.logitechg.com/ghub"
+INSTALLER_STEP_INITIALIZE: Инициализация
+INSTALLER_STEP_UNPACK: Извлечение файлов
+INSTALLER_STEP_INSTALLING: Установка
+INSTALLER_STEP_FINALIZING: Завершение
+INSTALLER_TERMS_OF_SERVICE_AGREEMENT_TEXT: "Нажимая кнопку «Установить», вы принимаете условия "
+INSTALLER_TERMS_OF_SERVICE_AGREEMENT_LINK_TEXT: ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ.
+INSTALLER_TERMS_OF_SERVICE_AGREEMENT_LINK: "https://www.logitech.com/legal/eula.html"
+INSTALLER_TOOLTIP_INSTALL: "Подождите, пока завершится установка G HUB."
+UNINSTALLER_ALREADY_INSTALLED: Программа G HUB установлена и работает нормально.
+UNINSTALLER_ALREADY_INSTALLED_OPTION_LAUNCH: "Запустите G HUB для проверки наличия обновлений"
+UNINSTALLER_ALREADY_INSTALLED_OPTION_REINSTALL: "Переустановка G HUB"
+UNINSTALLER_ALREADY_INSTALLED_BAD: "Программа уже установлена в системе, но, вероятно, повреждена. Переустановка может решить эту проблему."
+UNINSTALLER_MODAL_DESCRIPTION: В процессе переустановки программа G HUB сначала будет удалена. Эту операцию нельзя будет отменить.
+UNINSTALLER_MODEL_DESCRIPTION_BYE: "G HUB успешно удалена из системы."
+UNINSTALLER_MODAL_UNINSTALLING: "Подождите, пока завершится удаление G HUB. На это может потребоваться некоторое время."
+UNINSTALLER_MODAL_SUCCESS: Предыдущая установленная версия G HUB удалена. Можно перейти к новой установке.
+UNINSTALLER_MODAL_SETTINGS: Перенести мои текущие настройки
+UNINSTALLER_MESSAGEBOX_REDIST_TITLE: Программа удаления G HUB
+UNINSTALLER_MESSAGEBOX_REDIST_MESSAGE: "Отсутствуют критически важные компоненты: пожалуйста, переустановите Microsoft Visual C++ Redistributable 2019 либо загрузите установщик G HUB с сайта службы поддержки и используйте его."
+UNINSTALLER_STATE_TOOLTIP: "Подождите, пока завершится удаление G HUB."
+UNINSTALLER_STEP_UNINSTALLING: Удаление компонентов программного обеспечения
+UNINSTALLER_STEP_RM_FILES: Удаление оставшихся файлов
+UNINSTALLER_STEP_RM_EXTRA_FILES: Очистка
+UNINSTALLER_ERROR_DESCRIPTION_P1: "При удалении G HUB произошла ошибка: "
+UNINSTALLER_ERROR_DESCRIPTION_P2: " Попробуйте перезагрузить компьютер и снова запустить программу удаления."
+UNINSTALLER_ERROR_PRODUCT_REMOVAL: "Не удалось удалить ключи реестра."
+UNINSTALLER_ERROR_FOLDER_DELETION: "Не удалось удалить некоторые папки."
+UNINSTALLER_ERROR_FILE_DELETION: "Не удалось удалить некоторые файлы."
+UNINSTALLER_ERROR_SERVICE_REMOVAL: "Не удалось удалить службу G HUB."
+UNINSTALLER_ERROR_PROCESS_KILL: "Не удалось остановить процесс G HUB."
+UNINSTALLER_ERROR_UNKNOWN: "Неизвестная ошибка (код {0})."
+# {0} will dynamically add the code in
+UNINSTALLER_TITLE: Удалить
+UNINSTALLER_DESCRIPTION: "Программа G HUB будет удалена из системы. Вы действительно хотите продолжить? Эту операцию нельзя будет отменить."
+INSTALLER_APPLICATION_TITLE: Установщик Logitech G HUB
+INSTALLER_APPLICATION_DESCRIPTION: Программа установки Logitech G HUB
+INSTALLER_INSTALL_BUTTON: УСТАНОВИТЬ
+INSTALLER_EXIT_BUTTON: ВЫХОД
+INSTALLER_DESCRIPTION_ALREADY_INSTALLED: Это программное обеспечение уже установлено в системе. Запустите G HUB для проверки наличия обновлений.
+INSTALLER_DESCRIPTION_LEGACY_INSTALLED: "В системе выявлена устаревшая и не поддерживаемая версия ПО Logitech Gaming Software. Удалите ее или обновите до более поздней версии, чтобы установить приложение G HUB."
+INSTALLER_HEADER_DOWNLOADING: ЗАГРУЖАЕМ LOGITECH G HUB
+INSTALLER_DESCRIPTION_DOWNLOADING: Новое ПО Logitech G HUB сделает Вашу игру интереснее и предоставит Вам новые возможности настройки устройства…
+INSTALLER_DESCRIPTION_DOWNLOADING_1: "…строительство и защита…"
+INSTALLER_DESCRIPTION_DOWNLOADING_2: "…стрельба и пополнение боеприпасов…"
+INSTALLER_DESCRIPTION_DOWNLOADING_3: "…свободный полет и приземление…"
+INSTALLER_HEADER_DOWNLOADED: ЗАГРУЗКА ПРОШЛА УСПЕШНО
+INSTALLER_DESCRIPTION_DOWNLOADED: Все готово к бою!
+INSTALLER_INSTALL_AND_LAUNCH_BUTTON: УСТАНОВИТЬ И ЗАПУСТИТЬ
+INSTALLER_MENU_ABOUT: О программе
+INSTALLER_MENU_QUIT: Выход
+INSTALLER_MENU_CLOSE: Закрыть окно
+INSTALLER_TRANSFER_REMAINING: осталось
+INSTALLER_ERROR_GENERIC: Во время установки произошла ошибка
+INSTALLER_FAILURE_PREFIX: "Не удается выполнить загрузку:"
+INSTALLER_ERROR_SUMMARY: "Не удалось получить актуальную сводку по обновлению."
+INSTALLER_ERROR_INITIALIZE: "Не удается выполнить загрузку: ошибка инициализации. Проверьте состояние подключения к Интернету и повторите попытку."
+INSTALLER_ERROR_TIMEOUT: "Проверьте состояние подключения к Интернету."
+INSTALLER_ERROR_WRITE: "Похоже, на диске нет места."
+INSTALLER_ERROR_DLL: "Не удалось загрузить основные компоненты установщика. Выполните загрузку установщика повторно с официального сайта."
+INSTALLER_RETRY_COUNTDOWN: "Выполняется повторная попытка через %d."
+INSTALLER_UNCOMPRESSING: Извлечение файлов
+FRONTEND_APPLICATION_NAME: Logitech G HUB
+FRONTEND_APPLICATION_TITLE: Logitech G HUB
+FRONTEND_APPLICATION_DESCRIPTION: Приложение Logitech G HUB
+BACKEND_MENU_LAUNCH: Запуск G HUB
+BACKEND_MENU_QUIT: Выход
+ENGLISH: English
+# Do not translate
+ENGLISH_UK: English (UK)
+# Do not translate
+ENGLISH_WIDE: English (Test)
+# Do not translate
+CZECH: čeština
+# Do not translate
+DANISH: dansk
+# Do not translate
+GERMAN: Deutsch
+# Do not translate
+SPANISH: español
+# Do not translate
+FINNISH: suomi
+# Do not translate
+FRENCH: français
+# Do not translate
+HUNGARIAN: magyar
+# Do not translate
+ITALIAN: italiano
+# Do not translate
+JAPANESE: 日本語
+# Do not translate
+KOREAN: 한국어
+# Do not translate
+NORWEGIAN: norsk
+# Do not translate
+DUTCH: Nederlands
+# Do not translate
+POLISH: polski
+# Do not translate
+PORTUGUESE: português
+# Do not translate
+RUSSIAN: Русский
+# Do not translate
+SWEDISH: svenska
+# Do not translate
+TURKISH: Türkçe
+# Do not translate
+CHINESE_SIMPLIFIED: 简体中文
+# Do not translate
+CHINESE_TRADITIONAL: 繁體中文
+# Do not translate
+DEVICE_KEYBOARD_DISABLEDKEYS_HEADER: Игровой режим
+DEVICE_KEYBOARD_DISABLEDKEYS_DESCRIPTION: "Выберите клавиши, которые Вы бы не хотели случайно нажать во время игры. При включении игрового режима на клавиатуре эти клавиши будут отключены."
+DEVICE_KEYBOARD_DISABLEDKEYS_DEFAULT_KEYS: "Клавиши, отключенные по умолчанию"
+DEVICE_KEYBOARD_DISABLEDKEYS_USER_SELECTED_KEYS: "Клавиши, отключенные пользователем"
+COACH_MARKS_DISMISS_BUTTON_TEXT: ЯСНО
+COACH_MARKS_APPLICATION_BAR_PROFILE: "Щелкните активный профиль для просмотра всех игр, приложений и профилей."
+COACH_MARKS_PANEL_PERSISTENT_LOCK: "Щелкните значок блокировки, чтобы сделать данную настройку функции одинаковой для всех профилей."
+COACH_MARKS_MY_DEVICES: "Выберите устройство, чтобы задать нужную конфигурацию и изменить текущие настройки."
+COACH_MARKS_APPLICATION: "Каждый раз при переключении на новую игру будет автоматически активироваться профиль, который использовался для нее последним."
+COACH_MARKS_ADD_PROFILE: Вы можете создать любое количество профилей для каждой игры. Можно даже сделать отдельный профиль для каждого персонажа.
+COACH_MARKS_MACRO_RECORD: "Нажмите кнопку «ЗАПИСЬ», чтобы начать запись макроса. Для завершения записи нажмите кнопку «СТОП»."
+COACH_MARKS_MACRO_ADD_TEXT: Добавьте к макросу текст и эмодзи!
+COACH_MARKS_DPI_ASSIGN: "Чтобы назначить мыши функцию «ПЕРЕКЛЮЧАТЕЛЬ DPI» или другие элементы управления чувствительностью, нажмите «НАЗНАЧИТЬ ДЛЯ МЫШИ»."
+COACH_MARKS_DPI_CHANGE: "Перемещайте ползунок влево или вправо для изменения значений чувствительности либо удалите параметр сдвига DPI, перетащив его в сторону."
+COACH_MARKS_COLOR_PICKER: "Это выбранный Вами цвет. Добавьте его в пользовательскую палитру (ниже) или перетащите, чтобы заменить им заданный ранее цвет."
+COACH_MARKS_LIGHTING_EFFECT_DROPDOWN: "В раскрывающемся меню создайте новую анимацию или вставьте копию имеющейся, переименовав ее и оптимизировав ее настройки на свое усмотрение."
+COACH_MARKS_LIGHTING_EFFECT_EDIT: "Выберите «ИЗМЕНИТЬ», чтобы внести изменения в пользовательскую анимацию. По завершении редактирования нажмите кнопку «СОХРАНИТЬ»."
+COACH_MARKS_LIGHTING_EFFECT_EDITOR_TIMELINE: "Отредактируйте выбранный кадр, нажимая клавиши, для которых нужно изменить цвет. Потяните угол или сторону кадра, чтобы изменить его размер."
+COACH_MARKS_LIGHTING_EFFECT_EDITOR_FRAME_SELECTION: "Щелкните переход, чтобы изменить выбранный кадр, либо перетащите нужный переход на любой кадр."
+COACH_MARKS_NUMBER_N_OF_N: "{NUMBER} ИЗ {COUNT}"
+# "1 OF 3" Number will be replaced by the current coach mark number, and COUNT will be replaced by the number of coach marks in total in this screen.
+COACH_MARKS_NEXT_BUTTON_TEXT: ДАЛЕЕ
+COACH_MARKS_MICROPHONE_1_INPUT_GAIN: "Настройте параметр \"Уровень микрофона\" (Повышение входного сигнала) таким образом, чтобы вас было хорошо слышно, когда вы говорите как обычно, и при этом звук не искажался, если вы начнете говорить громче."
+COACH_MARKS_MICROPHONE_1_INPUT_GAIN_YETI: "Установите для микрофона Yeti X режим усиления, чтобы речь звучала отчетливо при нормальной громкости и не искажалась при повышении тона."
+COACH_MARKS_MICROPHONE_2_RECORDING: "Запишите образец голоса, затем воспроизведите запись и послушайте, как звучит ваш голос с включенной функцией Blue VO!CE и без нее."
+COACH_MARKS_MICROPHONE_3_ENABLE_BLUE_VOICE: "Включите функцию Blue VO!CE, чтобы улучшить звучание голоса с помощью фильтров. При воспроизведении записи все настройки применяются к ней в режиме реального времени."
+COACH_MARKS_MICROPHONE_BLUE_VOICE_1_SELECT_PRESET: "Выберите предустановку, с которой ваш голос звучит лучше всего, и отрегулируйте ее настройки на свое усмотрение."
+COACH_MARKS_MICROPHONE_BLUE_VOICE_2_ADVANCED_SETTINGS: "Активируйте дополнительные функции Blue VO!CE, чтобы расширить варианты настройки."
+COACH_MARKS_MICROPHONE_BLUE_VOICE_ADVANCED_LIMITER: "Когда завершите настройки, отрегулируйте лимитер, чтобы голос звучал ровно и четко."
+COACH_MARKS_MICROPHONE_BLUE_VOICE_RECORDING_EXTRA_HELP: "Совет. При изменении настроек не нужно каждый раз записывать голос заново. Образец голоса записывается без применения фильтров, а затем проигрывается уже с выбранными настройками."
+
+COACH_MARKS_MICROPHONE_1_INPUT_GAIN_YETI_BV2: "Установите для микрофона Yeti X режим усиления, чтобы речь звучала отчетливо при нормальной громкости и не искажалась при повышении тона."
+COACH_MARKS_MICROPHONE_2_RECORDING_BV2: "Запишите образец голоса, затем воспроизведите запись и послушайте, как звучит ваш голос с включенной функцией Blue VO!CE и без нее."
+COACH_MARKS_MICROPHONE_3_ENABLE_BLUE_VOICE_BV2: "Включите функцию Blue VO!CE, чтобы улучшить звучание голоса с помощью фильтров. При воспроизведении записи все настройки применяются к ней в режиме реального времени."
+COACH_MARKS_MICROPHONE_BLUE_VOICE_1_SELECT_PRESET_BV2: "Выберите предустановку, с которой ваш голос звучит лучше всего, и отрегулируйте ее настройки на свое усмотрение."
+COACH_MARKS_ASSIGNMEMNTS_OPTION_MENU: Выбранная опция применяется ко всем случаям использования этой предустановки или эффекта.
+ONBOARDING_SCREEN_1_HEADER: "Добро пожаловать в приложение {APP_NAME}! Начнем?"
+# "Welcome to Logitech G HUB, let’s get started.". APP_NAME will be replaced by another string.
+ONBOARDING_SCREEN_1_HEADER_APP_NAME: "{BRAND} G HUB"
+# "Logitech G HUB". BRAND will be replaced by another string.
+ONBOARDING_SCREEN_1_TEXT: "Выберите нужное устройство, чтобы начать его настройку.{PARAGRAPH_BREAK}Создайте один или даже несколько профилей для каждой игры, а если хватит азарта — назначьте по профилю каждому персонажу в каждой игре."
+# PARAGRAPH_BREAK will be a visible break in the paragraphs.
+ONBOARDING_SCREEN_2_HEADER: Раскройте свой потенциал
+ONBOARDING_SCREEN_2_TEXT: "Назначайте команды и макросы G-клавишам на всех устройствах.{PARAGRAPH_BREAK}Оперативно создавайте макросы и назначайте их путем перетаскивания."
+ONBOARDING_SCREEN_3_HEADER: Познакомьтесь с нашим сообществом
+ONBOARDING_SCREEN_3_TEXT: "Загружайте эффекты подсветки и анимационные эффекты, созданные другими геймерами.{PARAGRAPH_BREAK}Просматривайте настройки профессиональных игроков. Знакомьтесь с их снаряжением и загружайте их настройки."
+ONBOARDING_SCREEN_3_BUTTON_TITLE: ЗАПУСТИТЬ G HUB
+IMPORT_LGS_PROFILES_HEADER: "Добавляйте профили из {BRAND} Gaming Software"
+# "Add your profiles from Logitech Gaming Software". BRAND will be replaced by another string.
+IMPORT_LGS_PROFILES_TEXT: "На Вашем компьютере обнаружено ПО {BRAND} Gaming Software.{PARAGRAPH_BREAK}Мы можем перенести все Ваши профили в приложение G HUB. Сделать это сейчас?"
+# "We found the Logitech Gaming Software on your computer.{PARAGRAPH_BREAK}We can migrate all of your profiles to G HUB. Would you like to do that now?". BRAND will be replaced by another string.
+IMPORT_LGS_PROFILES_BUTTON_1_TITLE: ДА
+IMPORT_LGS_PROFILES_BUTTON_2_TITLE: Я сделаю это позже
+MIGRATION_PROGRESS: "Выполняется перенос профилей из {BRAND} Gaming Software в приложение G HUB"
+# "Migrating profiles from Logitech Gaming Software to G HUB". BRAND will be replaced by another string.
+MIGRATION_COMPLETE: "Все Ваши профили были перенесены из {BRAND} Gaming Software"
+# "All your Logitech Gaming Software profiles have been migrated". BRAND will be replaced by another string.
+MIGRATION_COMPLETE_BUTTON_TITLE: ПЕРЕЙТИ К ПРИЛОЖЕНИЮ
+UPDATE_FIRMWARE_TEXT: ОБНОВИТЬ
+APPLET_AUTHOR_LOGITECH: '{BRAND} G'
+APPLET_OBS_NAME: OBS
+APPLET_OBS_DESCRIPTION: "Подключаемый модуль {BRAND} G для Open Broadcaster Software, позволяющий выполнять дополнительные действия в G HUB."
+APPLET_OBS_START_STREAM: Начать трансляцию
+APPLET_OBS_STOP_STREAM: Остановить трансляцию
+APPLET_OBS_TOGGLE_STREAM: Начать/остановить трансляцию
+APPLET_OBS_START_RECORDING: Начать запись
+APPLET_OBS_STOP_RECORDING: Остановить запись
+APPLET_OBS_TOGGLE_RECORDING: Начать/остановить запись
+APPLET_OBS_START_BUFFER: Начать буферизацию
+APPLET_OBS_STOP_BUFFER: Остановить буферизацию
+APPLET_OBS_TOGGLE_BUFFER: Начать/остановить буферизацию
+APPLET_OBS_SAVE_BUFFER: Сохранить результаты буферизации
+APPLET_OBS_DESKTOP_MUTE: Отключить системные звуки
+APPLET_OBS_DESKTOP_UNMUTE: Включить системные звуки
+APPLET_OBS_DESKTOP_MUTE_TOGGLE: Отключить/включить системные звуки
+APPLET_OBS_MIC_MUTE: Отключить звук микрофона
+APPLET_OBS_MIC_UNMUTE: Включить звук микрофона
+APPLET_OBS_MIC_MUTE_TOGGLE: Отключить/включить звук микрофона
+APPLET_OBS_SCENE_ACTIVATE: Активировать сцену
+APPLET_OBS_SCENE_SELECTION: ВЫБРАТЬ СЦЕНУ
+APPLET_OBS_SCENE_INVALID: Эта сцена больше не доступна.
+APPLET_OBS_COLLECTION_ACTIVATE: Активировать коллекцию
+APPLET_OBS_COLLECTION_SELECTION: ВЫБРАТЬ КОЛЛЕКЦИЮ
+APPLET_OBS_COLLECTION_INVALID: Данная коллекция больше не доступна.
+APPLET_OBS_SOURCE_ACTIVATE: Активировать источник
+APPLET_OBS_SOURCE_DEACTIVATE: Деактивировать источник
+APPLET_OBS_SOURCE_TOGGLE: Активировать/деактивировать источник
+APPLET_OBS_SOURCE_SELECTION: ВЫБРАТЬ ИСТОЧНИК
+APPLET_OBS_SOURCE_INVALID: Этот источник больше не доступен.
+APPLET_OBS_MIXER_MUTE: Отключить звук микшера
+APPLET_OBS_MIXER_UNMUTE: Включить звук микшера
+APPLET_OBS_MIXER_MUTE_TOGGLE: Отключить/включить звук микшера
+APPLET_OBS_MIXER_SELECTION: ВЫБРАТЬ МИКШЕР
+APPLET_OBS_MIXER_INVALID: Этот микшер больше не доступен.
+APPLET_OBS_DOWNLOAD_MESSAGE: Загрузите и установите OBS
+APPLET_OBS_INSTALLATION_MESSAGE: "Если автоматическая установка не работает, выполните установку вручную и выберите каталог приложения OBS."
+APPLET_OBS_INSTALLATION_MESSAGE_OSX: "Если автоматическая установка не работает, выполните установку вручную и выберите приложение OBS."
+# OSD Notifications are displayed when certain events in the backend are triggered
+OSD_BATTERY_LOW: "Низкий уровень заряда батареи {DEVICE}!"
+# "G900 battery level is low!". DEVICE will be replaced by another string.
+OSD_BATTERY_CRITICAL: "Критически низкий уровень заряда батареи {DEVICE}!"
+# "G900 battery level is critical!". DEVICE will be replaced by another string.
+OSD_AUDIO_INPUT: "{DEVICE} задано в качестве устройства аудиовхода"
+# "Audio input set to G560". DEVICE will be replaced by another string.
+OSD_AUDIO_OUTPUT: "{DEVICE} задано в качестве устройства аудиовыхода"
+# "Audio output set to G560". DEVICE will be replaced by another string.
+OSD_CHARGE_PAD_BATTERY_LOW: "Низкий уровень заряда батареи {DEVICE}! ЩЕЛКНИТЕ ЗДЕСЬ, чтобы активировать функцию зарядки POWERPLAY."
+# "G903 battery level is low! CLICK HERE, to enable POWERPLAY charging.". DEVICE will be replaced by another string. DEVICE will always be a mouse
+OSD_CHARGE_PAD_BATTERY_CRITICAL: "Критически низкий уровень заряда батареи {DEVICE}! ЩЕЛКНИТЕ ЗДЕСЬ, чтобы активировать функцию зарядки POWERPLAY."
+# "G903 battery level is critical! CLICK HERE, to enable POWERPLAY charging.". DEVICE will be replaced by another string. DEVICE will always be a mouse
+OSD_DPI_CHANGED: "Задано значение чувствительности устройства {DPI}"
+# "Device DPI set to 1600". DPI will be replaced by another string.
+OSD_DFU_REQUIRED: "Для работы устройства {DEVICE} требуется обновление прошивки. Откройте ПО G HUB, чтобы выполнить обновление и обеспечить максимальную эффективность работы устройства."
+# "There is a firmware update required for G604. Open G HUB to update and enable full functionality.". Device will be replaced by the name of a device.
+OSD_DFU_AVAILABLE: "Для устройства {DEVICE} появилось обновление прошивки. Откройте ПО G HUB, чтобы выполнить обновление."
+# "There is a firmware update available for G604. Open G HUB to update.". Device will be replaced by the name of a device.
+OSD_EQUALIZER_CYCLE: "Эквалайзер {DEVICE} переключен в режим {EQUALIZER}."
+# "Equalizer for G733 switched to Bass Boost." DEVICE and EQUALIZER will be replaced by the device and equalizer names, device will be an audio device (headset, speakers, microphone).
+OSD_SURROUND_SOUND_TOGGLE_ON: "Для {DEVICE} включен режим объемного звучания."
+# "Surround sound enabled for G733" DEVICE will be replaced by then device name, device will be an audio device (headset, speakers, microphone).
+OSD_SURROUND_SOUND_TOGGLE_OFF: "Для {DEVICE} выключен режим объемного звучания."
+# "Surround sound disabled for G733" DEVICE will be replaced by then device name, device will be an audio device (headset, speakers, microphone).
+APPLET_OW_NAME: Overwolf
+APPLET_OW_DESCRIPTION: "Управляйте приложениями Overwolf с помощью G HUB. Overwolf — это магазин приложений для геймеров, предлагающий ПО для более интеллектуального управления игровым процессом."
+APPLET_OW_EXTENSION_GAME_CAPTURE: Запись игры
+APPLET_OW_EXTENSION_TWITCH: Twitch
+APPLET_OW_EXTENSION_REPLAY_HUD: Replay HUD
+APPLET_OW_PERFORM_COMMAND: Выполнить команду
+APPLET_OW_TAKE_SCREENSHOT: Создать снимок экрана
+APPLET_OW_CAPTURE_VIDEO: Записать видео
+APPLET_OW_STREAM_START: Начать трансляцию
+APPLET_OW_STREAM_STOP: Остановить трансляцию
+APPLET_OW_STREAM_TOGGLE: Начать/остановить трансляцию
+APPLET_OW_REPLAY_CAPTURE: Записать повтор
+APPLET_OW_REPLAY_START: Начать запись повтора
+APPLET_OW_REPLAY_STOP: Остановить запись повтора
+APPLET_OW_REPLAY_SHOW_LAST: Показать последний повтор
+APPLET_OW_APP_SELECTION: Выберите приложение
+APPLET_OW_APP_SELECTION_INVALID: Приложение недоступно
+APPLET_OW_APP_SELECTION_INVALID_WITH_APP_NAME: "{APP} недоступно"
+APPLET_OW_COMMAND_SELECTION: Выберите команду
+APPLET_OW_COMMAND_SELECTION_INVALID: Команда недоступна
+APPLET_OW_DOWNLOAD_MESSAGE: Загрузите и установите Overwolf
+APPLET_DOTA2_NAME: Официальная интеграция
+APPLET_DOTA2_DESCRIPTION: "Официальная интеграция {BRAND} G с игрой Dota 2: отображение динамической подсветки на периферийных устройствах {BRAND} G в соответствии с игровыми событиями."
+APPLET_DOTA2_INSTALLATION_MESSAGE: 'Если автоматическую установку выполнить невозможно, выполните установку вручную и выберите каталог для установки Dota 2. Например, «Steam\steamapps\common\dota 2 beta».'
+APPLET_CS_GO_NAME: Официальная интеграция
+APPLET_CS_GO_DESCRIPTION: "Официальная интеграция {BRAND} G с игрой Counter-Strike: Global Offensive: отображение динамической подсветки на периферийных устройствах {BRAND} G в соответствии с игровыми событиями."
+APPLET_CS_GO_INSTALLATION_MESSAGE: 'Если программа автоматической установки не работает, выполните установку вручную и выберите каталог для установки Counter-Strike: Global Offensive. Обычно это Steam\steamapps\common\Counter-Strike Global Offensive.'
+APPLET_ASSETTO_CORSA_NAME: Официальная интеграция
+APPLET_ASSETTO_CORSA_DESCRIPTION: "Официальная интеграция {BRAND} G с игрой Assetto Corsa: отображение динамической подсветки на периферийных устройствах {BRAND} G в соответствии с игровыми событиями."
+APPLICATION_NAME_DESKTOP: Рабочий стол
+PROFILE_NAME_DEFAULT: По умолчанию
+APPLET_DISCORD_NAME: Discord
+APPLET_DISCORD_DESCRIPTION: "Интеграция с приложением Discord, предоставляющим дополнительные действия для G HUB."
+APPLET_DISCORD_VOICE_MUTE: Отключить звук Вашего голоса
+APPLET_DISCORD_VOICE_DEAFEN: Отключить звуки других голосов для Вас
+APPLET_DISCORD_VOICE_JOIN: Подключиться к каналу связи
+APPLET_DISCORD_VOICE_LEAVE: Отключиться от канала связи
+APPLET_DISCORD_SERVER_SELECTION: Выбрать сервер
+APPLET_DISCORD_SERVER_INVALID: Сервер недоступен
+APPLET_DISCORD_CHANNEL_SELECTION: Выбрать канал
+APPLET_DISCORD_CHANNEL_INVALID: Канал недоступен
+APPLET_DISCORD_DOWNLOAD_MESSAGE: Загрузите и установите приложение Discord
+APPLET_LUA_NAME: Подсветка с использованием Lua
+APPLET_LUA_DESCRIPTION: Управление подсветкой устройства с помощью сценариев Lua.
+SPLASH_TAGLINE_INSTALLING: УСТАНОВКА ОБНОВЛЕНИЙ…
+NOTIFICATION_INSTALLING: "{BRAND} ПО G HUB устанавливает обновление. Приложение перезапустится после того, как обновление будет завершено."
+NOTIFICATION_REBOOT: "Для завершения установки драйвера необходимо перезагрузить компьютер"
+NOTIFICATION_DRIVER_REBOOT: "Для завершения установки драйвера необходимо перезагрузить компьютер"
+SCRIPTING_NEW_SCRIPT_NAME: Новый сценарий
+SCRIPTING_ACTIVE_LUA_SCRIPT: АКТИВНЫЙ СЦЕНАРИЙ LUA
+SCRIPTING_SCRIPT_NONE: НЕТ
+SCRIPTING_SCRIPT_CREATE_NEW: СОЗДАТЬ НОВЫЙ СЦЕНАРИЙ LUA
+SCRIPTING_SCRIPT_CREATE_NEW_DROPDOWN: + СОЗДАТЬ НОВЫЙ СЦЕНАРИЙ LUA
+SCRIPTING_SCRIPT_EDIT: РЕДАКТИРОВАТЬ СЦЕНАРИЙ
+SCRIPTING_SCRIPT_EDITOR_OPEN: "Закройте окно LUA, чтобы сохранить сценарий"
+BACKEND_SCRIPTING_LUA_EDITOR_PERCENT_1_SCRIPT: '%1 - Сценарий'
+BACKEND_SCRIPTING_LUA_EDITOR_SCRIPT: Сценарий
+BACKEND_SCRIPTING_LUA_EDITOR_SAVE: Сохранить
+BACKEND_SCRIPTING_LUA_EDITOR_DISCARD: Отменить
+BACKEND_SCRIPTING_LUA_EDITOR_IMPORT_ELLIPSIS: Импорт…
+BACKEND_SCRIPTING_LUA_EDITOR_EXPORT_ELLIPSIS: Экспорт…
+BACKEND_SCRIPTING_LUA_EDITOR_EXPORT_ALL_ELLIPSIS: Экспортировать все…
+BACKEND_SCRIPTING_LUA_EDITOR_CLOSE: Закрыть
+BACKEND_SCRIPTING_LUA_EDITOR_LUA_MENU_EDIT: Изменить
+BACKEND_SCRIPTING_LUA_EDITOR_UNDO: Отменить
+BACKEND_SCRIPTING_LUA_EDITOR_REDO: Вернуть
+BACKEND_SCRIPTING_LUA_EDITOR_CUT: Вырезать
+BACKEND_SCRIPTING_LUA_EDITOR_COPY: Копировать
+BACKEND_SCRIPTING_LUA_EDITOR_PASTE: Вставить
+BACKEND_SCRIPTING_LUA_EDITOR_DELETE: Удалить
+BACKEND_SCRIPTING_LUA_EDITOR_FIND_TEXT: Поиск текста
+BACKEND_SCRIPTING_LUA_EDITOR_SELECT_ALL: Выделить все
+BACKEND_SCRIPTING_LUA_EDITOR_CLEAR_OUTPUT: Очистить выход
+BACKEND_SCRIPTING_LUA_EDITOR_VIEW: Просмотреть
+BACKEND_SCRIPTING_LUA_EDITOR_LINE_NUMBERS: Номера строк
+BACKEND_SCRIPTING_LUA_EDITOR_OUTPUT: Выход
+BACKEND_SCRIPTING_LUA_EDITOR_TEXT_HIGHLIGHTING: Выделение текста
+BACKEND_SCRIPTING_LUA_EDITOR_HELP: Помощь
+BACKEND_SCRIPTING_LUA_EDITOR_SHARE_ELLIPSIS: Поделиться…
+BACKEND_SCRIPTING_LUA_EDITOR_FIND_US_ON_FACEBOOK: Найдите нас на Facebook
+BACKEND_SCRIPTING_LUA_EDITOR_FOLLOW_US_ON_TWITTER: Следите за нами в Twitter
+BACKEND_SCRIPTING_LUA_EDITOR_FACEBOOK_SHARE: Поделиться
+BACKEND_SCRIPTING_LUA_EDITOR_TWITTER_SHARE: Опубликовать твит
+BACKEND_SCRIPTING_LUA_EDITOR_SCRIPT_EDITOR: Редактор сценариев
+BACKEND_SCRIPTING_LUA_EDITOR_SCRIPTING_API: Интерфейс API сценариев
+BACKEND_SCRIPTING_LUA_EDITOR_LUA_ONLINE_REFERENCE: Lua – сведения в сети
+BACKEND_SCRIPTING_LUA_EDITOR_LUA_FILE_LUA: 'Файлы Lua (*.lua)'
+BACKEND_SCRIPTING_LUA_EDITOR_LUA_FILE_ANY: 'Все файлы (*.*)'
+BACKEND_SCRIPTING_LUA_EDITOR_IMPORT_LUA_FILE: Импорт файла Lua
+BACKEND_SCRIPTING_LUA_EDITOR_EXPORT_LUA_FILE: Экспорт файла Lua
+BACKEND_SCRIPTING_LUA_EDITOR_WARNING_IMPORTING_WILL_REPLACE: Внимание! При импорте текущий сценарий будет перезаписан. Продолжить?
+BACKEND_SCRIPTING_LUA_EDITOR_ERROR_OPENING_SCRIPT: Ошибка открытия файла сценария.
+BACKEND_SCRIPTING_LUA_EDITOR_ERROR_READING_SCRIPT: Ошибка чтения содержимого файла сценария.
+HOME_SCREEN_ONBOARD_MODE: РЕЖИМ ВСТРОЕННОЙ ПАМЯТИ
+HOME_SCREEN_DEVICE_BLUETOOTH_CONNECTED: BLUETOOTH
+PROGRESS_EFFECT_PACKING: "Выполняется архивирование эффекта «{EFFECT}» для загрузки на устройство…"
+# "Packing "Ocean Wave" effect to store to your device…". EFFECT will be replaced with the name of a lighting effect as a string.
+PROGRESS_EFFECT_DOWNLOADING: "Выполняется загрузка эффекта «{EFFECT}» в память устройства…"
+# "Downloading "Ocean Wave" effect into your device storage…". EFFECT will be replaced with the name of a lighting effect as a string.
+PROGRESS_EFFECT_COMPLETE: "Загрузка завершена! Теперь «{EFFECT}» сохранен на вашем устройстве."
+# "Downloading Complete! "Ocean Wave" is now stored on your device.". EFFECT will be replaced with the name of a lighting effect as a string.
+PROGRESS_EFFECT_ERROR: 'Эффект «{ERROR}» нельзя сохранить на этом устройстве, поскольку для этого требуется слишком много памяти.'
+# "Ocean Wave" effect is too large to store on this device.". EFFECT will be replaced with the name of a lighting effect as a string.
+TIME_DURATION_FORMAT: "{HOURS}:{MINUTES}:{SECONDS}"
+TIME_DURATION_FORMAT_SHORT: "{MINUTES}:{SECONDS}"
+BLUE_VOICE_PRESET_BROADCASTER: Предустановка станции вещания
+BLUE_VOICE_PRESET_BROADCASTER_1: Станция вещания 1
+BLUE_VOICE_PRESET_BROADCASTER_2: Станция вещания 2
+BLUE_VOICE_PRESET_HIGH_PITCH: Высокий тон
+BLUE_VOICE_PRESET_HIGH_TONE_QUIET: Высокий голос — тихо
+BLUE_VOICE_PRESET_HIGH_TONE_LOUD: Высокий голос — громко
+BLUE_VOICE_PRESET_LOW_TONE_QUIET: Низкий голос — тихо
+BLUE_VOICE_PRESET_LOW_TONE_LOUD: Низкий голос — громко
+BLUE_VOICE_PRESET_AM_RADIO: Радио AM
+BLUE_VOICE_PRESET_FM_STATION: Станция FM
+BLUE_VOICE_PRESET_PRO_G2_SHOX: G2 shox
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_LONDON_SPITFIRE_PROFIT: London Spitfire Profit
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_DAEQUAN: TSM Daequan
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_MYTH: TSM Myth
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_HAMLINZ: TSM Hamlinz
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_TACTICAL: TSM Tactical
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_ABLAZEOLIVE: TSM Ablazeolive
+# No need to translate the name, this is a preset for a pro player
+BLUE_VOICE_PRESET_PRO_TSM_SPICA: TSM Spica
+# No need to translate the name, this is a preset for a pro player
+DEVICE_ONBOARDING_SLIDE_SHOW_REPLAY_BUTTON_TEXT: "ПРЕДЛАГАЕМ ВАШЕМУ ВНИМАНИЮ {DEVICE}"
+# DEVICE is replaced by the device model name.
+DEVICE_ONBOARDING_SLIDE_SHOW_SKIP_BUTTON_TEXT: ПРОПУСТИТЬ ВСТУПЛЕНИЕ
+DEVICE_ONBOARDING_SLIDE_SHOW_COMPONENT_DPI_TITLE: ТЕКУЩАЯ СКОРОСТЬ DPI
+DEVICE_ONBOARDING_SLIDE_SHOW_COMPONENT_LIGHTING_TITLE: ЭФФЕКТ ПОДСВЕТКИ
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_INTRO_TITLE: "{DEVICE}"
+# G915. DEVICE is replaced by the device model name.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_INTRO_BODY: ПРЕДЛАГАЕМ ВАШЕМУ ВНИМАНИЮ
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_1_TITLE: "ПРЕДЛАГАЕМ ВАШЕМУ ВНИМАНИЮ {DEVICE}"
+# MEET G915. DEVICE is replaced by the device model name. G915 is a keyboard.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_1_BODY: "Оцените новые возможности игровой клавиатуры {DEVICE} с беспроводным подключением по технологии LIGHTSPEED"
+# Discover the new features of the G915 LIGHTSPEED Wireless Gaming Keyboard. DEVICE is replaced by the device model name. G915 is a keyboard.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_2_TITLE: ВЫСОКОЕ КАЧЕСТВО И ПРОИЗВОДИТЕЛЬНОСТЬ БЕСПРОВОДНОГО ПОДКЛЮЧЕНИЯ ПО ТЕХНОЛОГИИ LIGHTSPEED
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_2_BODY: Благодаря поддержке двух способов беспроводного подключения можно с легкостью выбирать вариант подключения — по технологии LIGHTSPEED либо Bluetooth®.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_3_TITLE: НОВЫЕ ВОЗМОЖНОСТИ ВСТРОЕННОЙ ПАМЯТИ УСТРОЙСТВА
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_3_BODY_1: "Настройки встроенной памяти можно изменить на {DEVICE} странице параметров устройства."
+# Change to on-board mode in {DEVICE} settings. DEVICE is replaced by the device model name. G915 is a keyboard.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_3_BODY_2: Сохраняйте во встроенной памяти до 3 полноценных профилей G HUB.
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_3_BODY_3: "Выберите понравившийся эффект подсветки LIGHTSYNC из множества предлагаемых вариантов или создайте собственную комбинацию RGB-подсветки на вкладке LIGHTSYNC. Кроме того, пользовательские эффекты подсветки LIGHTSYNC можно загружать во встроенную память."
+# Do not translate LIGHTSYNC
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_4_TITLE: ПРОДЛЕНИЕ СРОКА СЛУЖБЫ БАТАРЕИ
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_4_BODY_1: "Чтобы задать параметры подсветки и ее яркости при простое устройства, перейдите в меню настроек"
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_4_BODY_2: Выберите предустановки для эффектов подсветки
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_4_BODY_3: Просмотрите уведомление о низком уровне заряда батареи
+DEVICE_ONBOARDING_SLIDE_SHOW_G915_SLIDE_4_BUTTON_TEXT: НАЧАЛО РАБОТЫ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_INTRO_TITLE: G604
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_INTRO_BODY: ПРЕДЛАГАЕМ ВАШЕМУ ВНИМАНИЮ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_1_TITLE: ИГРА ПО ВАШИМ ПРАВИЛАМ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_1_BODY: "Благодаря {DEVICE} весь арсенал игровых средств и возможностей всегда будет под рукой."
+# G604 puts your arsenal at your fingertips. DEVICE is replaced by the device model name. G604 is a mouse.
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_2_TITLE: БЫСТРЫЙ ДОСТУП КО ВСЕМ ФУНКЦИЯМ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_2_BODY: "ПО G HUB позволяет раскрыть все возможности {DEVICE} за счет использования 15 настраиваемых элементов управления. С помощью функции G-Shift можно активировать вспомогательный настраиваемый набор элементов управления."
+# G HUB will unlock G604’s full potential through the configuration of its 15 customizable controls. Use the G-Shift option to enable a secondary configurable control set. DEVICE is replaced by the device model name. G604 is a mouse.
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_3_TITLE: БЫСТРОЕ И УДОБНОЕ ПЕРЕКЛЮЧЕНИЕ МЕЖДУ УСТРОЙСТВАМИ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_3_BODY: "Вы можете без труда переключаться между подключением по Bluetooth® и по инновационной технологии беспроводной связи LIGHTSPEED™, обеспечивающей невероятно высокую скорость опроса — 1 мс. Переключение между двумя устройствами осуществляется с помощью кнопки Dual Connectivity."
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_4_TITLE: АВТОМАТИЧЕСКОЕ ПЕРЕКЛЮЧЕНИЕ МЕЖДУ ПРОФИЛЯМИ ДЛЯ РАЗНЫХ ИГР И ПРИЛОЖЕНИЙ
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_4_BODY: "Функции элементов управления в любимых играх и приложениях можно настраивать с помощью уникальных профилей в ПО G HUB. ПО G HUB определит, какие программы используются чаще всего, и будет автоматически переключаться на нужный профиль."
+DEVICE_ONBOARDING_SLIDE_SHOW_G604_SLIDE_4_BUTTON_TEXT: НАЧАЛО РАБОТЫ
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_INTRO_TITLE: G733
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_INTRO_BODY: ПРЕДЛАГАЕМ ВАШЕМУ ВНИМАНИЮ
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_1_TITLE: ЛУЧШИЙ СПОСОБ ПОГРУЗИТЬСЯ В МИР ИГРЫ
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_1_BODY: Превосходная беспроводная гарнитура. Наденьте ее и отрешитесь от реальности — добро пожаловать в новый мир!
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_2_TITLE: ОТЛИЧНАЯ СЛЫШИМОСТЬ
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_2_BODY: "На вкладке «Наушники» можно отрегулировать звучание при помощи настраиваемых профилей эквалайзера, а также получить насыщенный виртуальный звук по инновационной технологии DTS® Headphone:X 2.0."
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_3_TITLE: ПРОФЕССИОНАЛЬНОЕ ВОСПРОИЗВЕДЕНИЕ ГОЛОСА
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_3_BODY: "Технология BLUE VO!CE представляет собой набор разнообразных инструментов и эффектов, активируемых на вкладке «Микрофон». Благодаря им ваш голос будет звучать максимально громко и четко во время потоковой передачи видео, игровых соревнований и других мероприятий."
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_4_TITLE: СВОБОДА САМОВЫРАЖЕНИЯ
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_4_BODY: "Сделайте свой стиль игры запоминающимся для друзей и подписчиков при помощи фронтальной RGB-подсветки LIGHTSYNC, реагирующей на динамику контента."
+DEVICE_ONBOARDING_SLIDE_SHOW_G733_SLIDE_4_BUTTON_TEXT: НАЧНЕМ ВЕЧЕРИНКУ
+DISCARD_CHANGES_CLOSE_BUTTON: ЗАКРЫТЬ
+DISCARD_CHANGES_GO_BACK_BUTTON: НАЗАД
+DISCARD_CHANGES_TITLE: Удалить неподтвержденные изменения?
+DISCARD_CHANGES_MESSAGE: "Если закрыть это окно, все изменения будут утеряны."
+ASSIGNMENT_LIMITATION_FOR_SCROLL_TOOLTIP: Для некоторых макросов и команд нельзя назначать прокрутку вверх или вниз.
+FEATURE_COMING_SOON: Ожидается в ближайшее время
+ERROR_LOGGING_ANALYTICS_TITLE: Регистрация ошибок и аналитические данные по G HUB
+ERROR_LOGGING_ANALYTICS_TITLE_MESSAGE: Разрешить G HUB собирать анонимные данные об использовании и отчеты об ошибках?
+ERROR_LOGGING_ANALYTICS_BETTER_EXPERIENCE: Хочу повысить качество работы
+ERROR_LOGGING_ANALYTICS_SHARE_USAGE_LOGS: Предоставлять данные об использовании
+ERROR_LOGGING_ANALYTICS_SEND_ERROR_LOGS: "Автоматически отправлять файл регистрации ошибок, когда с G HUB возникают проблемы"
+ERROR_LOGGING_ANALYTICS_DECIDE_LATER: Решу позже (можно задать в общих настройках)
+ERROR_LOGGING_REPORT_SENT: Отчет отправлен.
+ERROR_LOGGING_REPORT_SENT_MESSAGE_TEXT: "Спасибо! Мы постоянно улучшаем G HUB, чтобы вам было удобнее работать, и вы помогли нам приблизиться к совершеству."
+ERROR_LOGGING_REPORT_CATEGORY: ФАЙЛ ОТЧЕТА ОБ ОШИБКАХ
+ERROR_LOGGING_DISCARD_LOG_TITLE: Удалить неполный файл регистрации?
+ERROR_LOGGING_DISCARD_LOG_MESSAGE: "Если закрыть это окно, все изменения будут утеряны."
+ERROR_LOGGING_IMPROVE_GHUB_TITLE: Благодарим за помощь в улучшении G HUB!
+ERROR_LOGGING_IMPROVE_GHUB_MESSAGE: "Добавьте описание ситуации или информацию из заявки в службу поддержки, которую вы хотите отправить вместе с файлами регистрации ошибок ниже."
+ERROR_LOGGING_IMPROVE_LAUNCH_AUTOMATICALLY: ЗАПУСКАТЬ АВТОМАТИЧЕСКИ
+ERROR_LOGGING_IMPROVE_SEND_DETAILED_REPORT: ОТПРАВЛЯТЬ ПОДРОБНЫЙ ОТЧЕТ ПРИ КАЖДОМ ВОЗНИКНОВЕНИИ ПРОБЛЕМЫ
+ERROR_LOGGING_IMPROVE_GHUB_BUTTON: ПОМОЧЬ УЛУЧШИТЬ G HUB
+ERROR_LOGGING_DECIDE_LATER_BUTTON: РЕШУ ПОЗЖЕ
+ERROR_LOGGING_PRIVACY_POLICY_LEARN_MORE: Узнайте больше о нашей
+ERROR_LOGGING_PRIVACY_POLICY_ANCHOR: политике конфиденциальности
+ERROR_LOGGING_CANCEL_BUTTON: ОТМЕНА
+ERROR_LOGGING_SEND_REPORT_BUTTON: ОТПРАВИТЬ ОТЧЕТ
+ERROR_LOGGING_SEND_REPORT_LINK: Отправить отчет об ошибке
+ERROR_LOGGING_REPORT_SENT_BUTTON: ГОТОВО
+ERROR_LOGGING_IMPROVE_GHUB_PLACE_HOLDER: "Какие действия вы совершали, когда возникла проблема? Могло ли ее вызвать другое приложение или игра?"
+ERROR_LOGGING_ATTACHMENT_TABLE_HEADER_FILENAME: Имя файла журнала
+ERROR_LOGGING_ATTACHMENT_TABLE_HEADER_LOCATION: Расположение (папка)
+ERROR_LOGGING_VIEW_FULL_REPORT: Открыть
+CONTEXTUAL_HELP_DEFAULT_TITLE: Панель справки
+CONTEXTUAL_HELP_DEFAULT_TEXT: "На данной панели будет отображаться информация о самых сложных функциях ПО G HUB. Чтобы узнать больше, начните взаимодействовать с элементами на экране."
+CONTEXTUAL_HELP_WHEEL_OPERATING_RANGE_TITLE: Угол поворота
+CONTEXTUAL_HELP_WHEEL_OPERATING_RANGE_TEXT: "При уменьшении значения этого параметра изменится положение точки, дальше которой будет нельзя повернуть руль. Если вы используете для этого параметра внутриигровое значение, оставьте данный показатель на уровне 900 градусов."
+CONTEXTUAL_HELP_WHEEL_OPERATING_RANGE_ACTION_TITLE_ROAD_CAR: ДОРОЖНЫЙ АВТОМОБИЛЬ
+CONTEXTUAL_HELP_WHEEL_OPERATING_RANGE_ACTION_TITLE_GT: АВТОМОБИЛЬ GT 1/3
+CONTEXTUAL_HELP_WHEEL_OPERATING_RANGE_ACTION_TITLE_F1: БОЛИД «ФОРМУЛЫ-1»
+CONTEXTUAL_HELP_WHEEL_SENSITIVITY_TITLE: Чувствительность
+CONTEXTUAL_HELP_WHEEL_SENSITIVITY_TEXT: "Если оставить этот ползунок на уровне 50 %, отклик будет линейным (1:1). {LINE_BREAK} Между 51 % и 100 % — чувствительность будет выше {LINE_BREAK} Между 0 % и 49 % — чувствительность будет ниже"
+# {LINE_BREAK} will be replaced by a line break
+CONTEXTUAL_HELP_WHEEL_SENSITIVITY_ACTION_TITLE_LINEAR: ЛИНЕЙНАЯ
+CONTEXTUAL_HELP_WHEEL_SENSITIVITY_ACTION_TITLE_CRUISE: АВТОПИЛОТ
+CONTEXTUAL_HELP_WHEEL_SENSITIVITY_ACTION_TITLE_SPORT: СПОРТ
+CONTEXTUAL_HELP_WHEEL_CENTERING_SPRING_STRENGTH_TITLE: Центрирующая пружина (для игр без обратной связи по усилию)
+CONTEXTUAL_HELP_WHEEL_CENTERING_SPRING_STRENGTH_TEXT: "Рекомендуется отключать параметр центрирующей пружины для большинства игр: в них данный эффект по умолчанию моделируется корректно. Включайте его, только если хотите переопределить этот параметр (или игра не поддерживает связь по усилию)"
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_TORQUE_TITLE: КРУТЯЩИЙ МОМЕНТ
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_TORQUE_TEXT: "Доступно только для игр, поддерживающих технологию TRUEFORCE. {LINE_BREAK} Управляет общей интенсивностью отклика по усилию {DEVICE}. Для более старых игр, которые не поддерживают технологию TRUEFORCE, настроить обратную связь по усилию для {DEVICE} можно в меню настроек игры."
+# Only available for TRUEFORCE supported games. Controls the overall force feedback strength for your G923. If you... DEVICE is replaced by the device model name, where the device type is always a racing wheel
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_ACTION_TITLE_STRONG: ИНТЕНСИВНЫЙ
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_ACTION_TITLE_MEDIUM: УМЕРЕННЫЙ
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_ACTION_TITLE_LIGHT: СЛАБЫЙ
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_AUDIO_EFFECTS_TITLE: АУДИОЭФФЕКТЫ
+CONTEXTUAL_HELP_WHEEL_TRUEFORCE_AUDIO_EFFECTS_TEXT: "Доступно только для игр, поддерживающих технологию TRUEFORCE. {LINE_BREAK} Позволяет управлять интенсивностью эффектов, связанных со звуком (работа двигателя, проезд по предохранительным полосам и т. д.), в играх, поддерживающих технологию TRUEFORCE."
+# {LINE_BREAK} will be replaced by a line break
+CONTEXTUAL_HELP_WHEEL_PEDAL_SENSITIVITY_TITLE: ЧУВСТВИТЕЛЬНОСТЬ
+CONTEXTUAL_HELP_WHEEL_PEDAL_SENSITIVITY_TEXT: "Если оставить этот ползунок на уровне 50 %, отклик будет линейным (1:1). {LINE_BREAK} Между 51 % и 100 % — чувствительность будет выше {LINE_BREAK} Между 0 % и 49 % — чувствительность будет ниже"
+# {LINE_BREAK} will be replaced by a line break
+CONTEXTUAL_HELP_WHEEL_PEDAL_COMBINED_PEDALS_TITLE: КОМБИНИРОВАННЫЕ ПЕДАЛИ
+CONTEXTUAL_HELP_WHEEL_PEDAL_COMBINED_PEDALS_TEXT: "Если выбран этот параметр, педали газа и тормоза действуют как две части единой оси. Благодаря этому педали будут корректно работать в более старых играх, где отсутствует поддержка отдельных осей для педалей."
+CONTEXTUAL_HELP_WHEEL_ACTION_TITLE: "ВЫБРАНО:"
+# Blue VO!CE 2 and Audio Effects presets
+BV2_PRESET_BROADCASTER_1: Станция вещания 1
+BV2_PRESET_Broadcaster 2: Станция вещания 2
+BV2_PRESET_High Voice - Loud: Высокий голос — громко
+BV2_PRESET_High Voice - Soft: Высокий голос — тихо
+BV2_PRESET_Low Voice - Loud: Низкий голос — громко
+BV2_PRESET_Low Voice - Soft: Низкий голос — тихо
+BV2_PRESET_Bass Boost: Усиление низких частот
+BV2_PRESET_Crisp and Warm: Четкий теплый звук
+BV2_PRESET_Warm and Vintage: Теплый винтажный звук
+BV2_PRESET_Classic Radio: Классическое радио
+BV2_PRESET_FM: ЧМ
+BV2_PRESET_AM: АМ
+EFFECT_PRESET_FX_OFF: ЭФФЕКТЫ Выкл
+EFFECT_PRESET_Burning Crusade - Ethereal: Burning Crusade — Эфириальный продавец душ
+EFFECT_PRESET_Burning Crusade - Fel Orc: Burning Crusade — Орк скверны
+EFFECT_PRESET_Burning Crusade - Forest Troll: Burning Crusade — Лесной тролль
+EFFECT_PRESET_Burning Crusade - Fungal Giant: Burning Crusade — Грибной великан
+EFFECT_PRESET_Warcraft - Blingatron: Warcraft — Блескотрон
+EFFECT_PRESET_Warcraft - Cathedral of Light: Warcraft — Церковь Света
+EFFECT_PRESET_Warcraft - Demon: Warcraft — демон
+EFFECT_PRESET_Warcraft - Gnome: Warcraft — гном
+EFFECT_PRESET_Warcraft - Gnome Extreme: Warcraft — гном (экстрем.)
+EFFECT_PRESET_Warcraft - Hellfire Demon: Warcraft — демон Цитадели Адского Пламени
+EFFECT_PRESET_Warcraft - Imp: Warcraft — бес
+EFFECT_PRESET_Warcraft - King's Chamber: Warcraft — гробница королей
+EFFECT_PRESET_Warcraft - Mecagon Pipe: Warcraft — труба в Мехагоне
+EFFECT_PRESET_Warcraft - Mechagnome Vocalizer: Warcraft — речь Механогнома
+EFFECT_PRESET_Warcraft - Murloc: Warcraft — Мурлок
+EFFECT_PRESET_Warcraft - Orc: Warcraft — орк
+EFFECT_PRESET_Warcraft - Pig and Whistle, Stage: Warcraft — таверна «Свинья и свисток»
+EFFECT_PRESET_Warcraft - Shivarra: Warcraft — Шиварра
+EFFECT_PRESET_Warcraft - The Lich King: Warcraft — Король-лич
+EFFECT_PRESET_Warcraft - Undead: Warcraft — нежить
+EFFECT_PRESET_Warcraft - Void Echos: Warcraft — Эхо бездны
+EFFECT_PRESET_Warcraft - Worgen Growler: Warcraft — призыв воргена
+EFFECT_PRESET_Robot: Робот
+EFFECT_PRESET_Split Personality: Раздвоение личности
+EFFECT_PRESET_Helium Chipmunk: Эффект гелия
+EFFECT_PRESET_Fishbowl: Аквариум
+EFFECT_PRESET_Whisper: Шепот
+EFFECT_PRESET_Witness Protection: Защита свидетелей
+EFFECT_PRESET_Gender Shift - Female: Смена пола — женщина
+EFFECT_PRESET_Gender Shift - Male: Смена пола — мужчина
+# World of Warcraft audio samples - do NOT localize
+SAMPLER_PRESET_VO_901_Bolvar_01_M: Here to help
+SAMPLER_PRESET_VO_901_Bolvar_05_M: Pressing threat
+SAMPLER_PRESET_VO_901_Bolvar_06_M: Banshee shattered the helm
+SAMPLER_PRESET_VO_901_Bolvar_15_M: Considerable dangers
+SAMPLER_PRESET_VO_901_Bolvar_18_M: Must defend Azeroth
+SAMPLER_PRESET_VO_901_Bolvar_20_M: The path opens
+SAMPLER_PRESET_VO_901_Bolvar_26_M: Fight for Azeroth
+SAMPLER_PRESET_VO_901_Bolvar_27_M: More will be required
+SAMPLER_PRESET_VO_901_Bolvar_28_M: We all have our burdens
+SAMPLER_PRESET_VO_901_Bolvar_29_M: Darker days are to come
+SAMPLER_PRESET_VO_901_Bolvar_30_M: The chains of the past
+SAMPLER_PRESET_VO_901_Bolvar_31_M: We will face
+SAMPLER_PRESET_VO_901_Bolvar_33_M: I will aide you
+SAMPLER_PRESET_VO_901_Bolvar_34_M: We stand together
+SAMPLER_PRESET_ThrallAggro01: Lok-Narash
+SAMPLER_PRESET_ThrallAggro02: For Doomhammer
+SAMPLER_PRESET_VO_60_FFR_FINALE_STAGE2_THRALL_01: Dabu
+SAMPLER_PRESET_VO_60_FFR_FINALE_STAGE8_THRALL_01: "Lok'tar Ogar!"
+SAMPLER_PRESET_VO_60_NGD_WARSONG_HORDE_THRALL_03: "Challenge to Mak'gora"
+SAMPLER_PRESET_VO_60_THRALL_FAREWELL_02: For the Horde
+SAMPLER_PRESET_VO_70_Thrall_24: "Spirits of earth, aide me!"
+SAMPLER_PRESET_VO_703_Thrall_02: We must not lose hope
+SAMPLER_PRESET_VO_82_Thrall_09_M: For Azeroth
+SAMPLER_PRESET_VO_82_Thrall_11_M: Let honor guide your pass
+SAMPLER_PRESET_VO_82_Thrall_13_M: Throm-Ka
+SAMPLER_PRESET_VO_82_Thrall_14_M: Well met
+SAMPLER_PRESET_VO_901_Thrall_28_M: "Proper warrior's weapon"
+SAMPLER_PRESET_VO_901_Thrall_29_M: "Jailer, taste my steel"
+SAMPLER_PRESET_VO_901_Thrall_33_M: We will never yield
+SAMPLER_PRESET_VO_901_Thrall_47_M: My friends
+SAMPLER_PRESET_VO_901_Thrall_52_M: Ancestors be safe
+SAMPLER_PRESET_VO_QUEST_42_THRALL_INTRO_04: I do not fear death
+SAMPLER_PRESET_WG_Thrall_HOR01: Your Warchief calls
+SAMPLER_PRESET_WG_Thrall_HOR05: Horde blessing
+SAMPLER_PRESET_WG_Thrall_HOR08: Onward
+SAMPLER_PRESET_VO_5.1_Peaceful_Jaina_Greeting_05: Trying to think
+SAMPLER_PRESET_VO_52_Jaina_Alliance_Landing_06: Alliance Spirit
+SAMPLER_PRESET_VO_52_Jaina_Alliance_Mines_01: Hail friend
+SAMPLER_PRESET_VO_70_Lady_Jaina_Proudmoore_04: Putting on ice
+SAMPLER_PRESET_VO_70_Lady_Jaina_Proudmoore_05: Tear you apart
+SAMPLER_PRESET_VO_70_Lady_Jaina_Proudmoore_25: Shields up
+SAMPLER_PRESET_VO_801_Lady_Jaina_Proudmoore_36_F: Not today
+SAMPLER_PRESET_VO_81_Lady_Jaina_Proudmoore_32_F: For the Alliance
+SAMPLER_PRESET_VO_815_Lady_Jaina_Proudmoore_26_F: Your message
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_19_F: No quarrel
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_31_F: Good luck
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_58_F: Plan is sound
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_67_F: Tides carry them home
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_75_F: Be wary
+SAMPLER_PRESET_VO_82_Lady_Jaina_Proudmoore_98_F: Some kind of trick
+SAMPLER_PRESET_VO_825_Lady_Jaina_Proudmoore_02_F: Kul Tiran secret
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_10_F: Our luck
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_28_F: Wont end well
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_48_F: "What's this madness"
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_57_F: Hold your ground
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_67_F: Keep moving
+SAMPLER_PRESET_VO_901_Lady_Jaina_Proudmoore_68_F: Hold here
+SAMPLER_PRESET_VO_Theramore_Jaina_Annoyed_01: Wasting time
+SAMPLER_PRESET_VO_Theramore_Jaina_Annoyed_02: Life as a sheep
+SAMPLER_PRESET_VO_Theramore_Jaina_Annoyed_03: About to get cold
+SAMPLER_PRESET_VO_Theramore_Jaina_Farewell_01: Remember Theramore
+SAMPLER_PRESET_VO_Theramore_Jaina_Farewell_04: Protect you
+SAMPLER_PRESET_PS_Sylvanas_Krick01: Why spare your life
+SAMPLER_PRESET_PS_Sylvanas_PS02: Pathetic weaklings
+SAMPLER_PRESET_SylvanasWindrunnerGreeting02: Slaves to this torment
+SAMPLER_PRESET_SylvanasWindrunnerGreeting03: What joy
+SAMPLER_PRESET_SylvanasWindrunnerGreeting04: "I don't have time to play"
+SAMPLER_PRESET_VO_735_Lady_Sylvanas_Windrunner_04_F: For the Horde
+SAMPLER_PRESET_VO_735_Lady_Sylvanas_Windrunner_25_F: Serve
+SAMPLER_PRESET_VO_735_Lady_Sylvanas_Windrunner_29_F: We will claim
+SAMPLER_PRESET_VO_735_Lady_Sylvanas_Windrunner_32_F: Not waste my time
+SAMPLER_PRESET_VO_735_Lady_Sylvanas_Windrunner_38_F: Favorite Windrunner
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_126_F: I never doubted you
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_148_F: Regret nothing
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_41_F: Cut the rose
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_49_F: That was a lesson
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_51_F: "Let's save some"
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_59_F: Destroy them
+SAMPLER_PRESET_VO_801_Lady_Sylvanas_Windrunner_79_F: Require trust
+SAMPLER_PRESET_VO_815_Lady_Sylvanas_Windrunner_01_F: I am Sylvanas
+SAMPLER_PRESET_VO_815_Lady_Sylvanas_Windrunner_20_F: Thanks for honesty
+SAMPLER_PRESET_VO_815_Lady_Sylvanas_Windrunner_23_F: No place for weakness
+SAMPLER_PRESET_VO_815_Lady_Sylvanas_Windrunner_24_F: Your loyalties
+SAMPLER_PRESET_VO_82_Lady_Sylvanas_Windrunner_11_F: Trust me
+SAMPLER_PRESET_VO_825_Lady_Sylvanas_Windrunner_06_F: Fed to darkness
+SAMPLER_PRESET_VO_825_Lady_Sylvanas_Windrunner_12_F: Nothing lasts
+SAMPLER_PRESET_VO_825_Lady_Sylvanas_Windrunner_19_F: Cruelty of fate
+SAMPLER_PRESET_VO_901_Lady_Sylvanas_Windrunner_02_F: Highly recommended
+SAMPLER_PRESET_VO_901_Lady_Sylvanas_Windrunner_08_F: Disappointment
+SAMPLER_PRESET_WG_Sylvanas_HOR13: Plans for you
+SAMPLER_PRESET_Ambience_CthunStomach_Loop: "C'thun stomach"
+SAMPLER_PRESET_Ambience_BrokenShore_Loop: Broken shore
+SAMPLER_PRESET_Ambience_Firelands_Loop: Firelands
+SAMPLER_PRESET_Ambience_Nazjatar_Loop: Nazjatar
+SAMPLER_PRESET_Ambience_StormsongValley_Loop: Stormsong Valley
+SAMPLER_PRESET_Ambience_TanaanJungle_Loop: Tanaan Jungle
+SAMPLER_PRESET_Ambience_ValeofEternalBlossoms_Loop: Vale of Eternal Blossoms
+SAMPLER_PRESET_Ambience_Zandalar_Loop: Zandalar
+SAMPLER_PRESET_Ambience_Beach_Loop: Beach
+SAMPLER_PRESET_Ambience_Dalaran_Loop: Dalaran
+SAMPLER_PRESET_Burning_Crusade_DarkPortal_Loop: Dark Portal
+SAMPLER_PRESET_Burning_Crusade_Exodar_Loop: Exodar
+SAMPLER_PRESET_Ambience_DarkPortal_Loop: Dark Portal
+SAMPLER_PRESET_Ambience_Exodar_Loop: Exodar
+SAMPLER_PRESET_Ambience_Forest_Loop: Forest
+SAMPLER_PRESET_Ambience_ForestScary_Loop: Scary forest
+SAMPLER_PRESET_Ambience_GrizzlyHills_Loop: Grizzly Hills
+SAMPLER_PRESET_Ambience_IcecrownRaid_Frostmourne_Loop: Icecrown Frostmourne
+SAMPLER_PRESET_Ambience_IcecrownRaid_Loop: Icecrown raid
+SAMPLER_PRESET_Ambience_Ironforge_Loop: Ironforge
+SAMPLER_PRESET_Ambience_Netherstorm_Loop: Netherstorm
+SAMPLER_PRESET_Burning_Crusade_Netherstorm_Loop: Netherstorm
+SAMPLER_PRESET_Ambience_Orgrimmar_Loop: Orgrimmar
+SAMPLER_PRESET_Ambience_Plaguelands_Loop: Plaguelands
+SAMPLER_PRESET_Ambience_ShipExterior_Loop: Ship exterior
+SAMPLER_PRESET_Ambience_ShipInterior_Loop: Ship interior
+SAMPLER_PRESET_Ambience_Stormwind_Loop: Stormwind
+SAMPLER_PRESET_Ambience_Undercity_Loop: Undercity
+SAMPLER_PRESET_Ambience_Volcanic_Loop: Volcano
+SAMPLER_PRESET_Burning_Crusade_FelReaver: Fel Reaver
+SAMPLER_PRESET_Creature_FelReaver: Fel Reaver
+SAMPLER_PRESET_Creature_Gyrocopter_Loop: Gyrocopter
+SAMPLER_PRESET_Creature_Imp: Imp
+SAMPLER_PRESET_Creature_DragonWhelp: Dragon Whelp
+SAMPLER_PRESET_Creature_Gnoll: Gnoll
+SAMPLER_PRESET_Creature_Kobold: Kobold
+SAMPLER_PRESET_Creature_Murloc: Murloc
+SAMPLER_PRESET_Creature_Wolf_Growl: Wolf
+SAMPLER_PRESET_Creature_LargeDragon_Roar: Dragon
+SAMPLER_PRESET_Creature_Firehawk: Firehawk
+SAMPLER_PRESET_Creature_Spider: Spider
+SAMPLER_PRESET_Creature_StormDragon_Roar: Storm Dragon
+SAMPLER_PRESET_Creature_Triceratops: Triceratops
+SAMPLER_PRESET_Creature_Hippo: Hippo
+SAMPLER_PRESET_Creature_Ghoul: Ghoul
+SAMPLER_PRESET_Creature_Quilboar: Quilboar
+SAMPLER_PRESET_Object_Construction_Sawing: Sawing
+SAMPLER_PRESET_Object_Construction_Hammering: Hammering
+SAMPLER_PRESET_Object_MetalDoor_Close: Door closing
+SAMPLER_PRESET_Object_MetalDoor_Open: Door opening
+SAMPLER_PRESET_Object_Mechanical_Movement_Large_01: Mech movement lg 1
+SAMPLER_PRESET_Object_Mechanical_Movement_Large_02: Mech movement lg 2
+SAMPLER_PRESET_Object_Mechanical_Movement_Small_01: Mech movement sm 1
+SAMPLER_PRESET_Object_Mechanical_Large_Loop: Mechanical lg
+SAMPLER_PRESET_Object_Mechanical_Small_Loop: Mechanical sm
+SAMPLER_PRESET_Object_Mechanical_Movement_Small_02: Mech movement sm 2
+SAMPLER_PRESET_Object_Mechanical_Close: Mechanical close
+SAMPLER_PRESET_Object_Mechanical_Pops_Clicks: Mech pops clicks
+SAMPLER_PRESET_Object_Mechanical_PowerDown: Mech powerdown
+SAMPLER_PRESET_Object_Mechanical_Movement_Small_03: Mech movement sm 3
+SAMPLER_PRESET_Object_TitanDevice_Close: Titan device close
+SAMPLER_PRESET_Object_TitanDevice_Open: Titan device open
+SAMPLER_PRESET_Object_Portal_Large_Loop: Large portal
+SAMPLER_PRESET_Object_MetalGate_Close: Metal gate close
+SAMPLER_PRESET_Object_MetalGate_Open: Metal gate open
+SAMPLER_PRESET_Object_WoodenDoor_Close: Wood door close
+SAMPLER_PRESET_Object_WoodenDoor_Open: Wood door open
+SAMPLER_PRESET_UI_AlarmClock_Warning_01: Alarm clock 1
+SAMPLER_PRESET_UI_AlarmClock_Warning_02: Alarm clock 2
+SAMPLER_PRESET_UI_AlarmClock_Warning_03: Alarm clock 3
+SAMPLER_PRESET_UI_AuctionWindow: Auction house
+SAMPLER_PRESET_UI_BellToll_Alliance: Bell toll - Alliance
+SAMPLER_PRESET_UI_BellToll_Horde: Bell toll - Horde
+SAMPLER_PRESET_UI_BellToll_NightElf: Bell toll - Night Elf
+SAMPLER_PRESET_UI_BellToll_Tribal: Bell toll - Tribal
+SAMPLER_PRESET_UI_BellToll_ShipDock: Bell toll - ship dock
+SAMPLER_PRESET_UI_Horn_01: Horn 1
+SAMPLER_PRESET_UI_Alarm_Large_01: Alarm large 1
+SAMPLER_PRESET_UI_Alarm_Large_02: Alarm large 2
+SAMPLER_PRESET_UI_Alarm_Small_01: Alarm small 1
+SAMPLER_PRESET_UI_Alarm_Small_02: Alarm small 2
+SAMPLER_PRESET_UI_Alarm_Small_03: Alarm small 3
+SAMPLER_PRESET_UI_CallToArms_Alliance: Call to Arms Alliance
+SAMPLER_PRESET_UI_CallToArms_Horde: Call to Arms Horde
+SAMPLER_PRESET_UI_Horn_02: Horn 2
+SAMPLER_PRESET_UI_Pepe_Call: Call Pepe
+SAMPLER_PRESET_UI_Horn_03: Horn 3
+SAMPLER_PRESET_UI_Exploration: Exploration
+SAMPLER_PRESET_UI_Window_Abilities: Ability window
+SAMPLER_PRESET_UI_EnterWorld: Enter world
+SAMPLER_PRESET_UI_MapPing: Map ping
+SAMPLER_PRESET_UI_Window_Character: Character windows
+SAMPLER_PRESET_UI_CaptureMineCart: Mine cart
+SAMPLER_PRESET_UI_Countdown_End: Countdown end
+SAMPLER_PRESET_UI_Countdown_Timer: Countdown timer
+SAMPLER_PRESET_UI_Toast_EpicLoot: Epic loot
+SAMPLER_PRESET_UI_Mission_100PercentSuccess: Mission success
+SAMPLER_PRESET_UI_Mission_Start: Mission start
+SAMPLER_PRESET_UI_Mission_Follower_Assign: Follower assign
+SAMPLER_PRESET_UI_Mission_Follower_Remove: Follower remove
+SAMPLER_PRESET_UI_Mission_WorkOrder: Mission workorder
+SAMPLER_PRESET_UI_PVP_WarMode_Disabled: War Mode off
+SAMPLER_PRESET_UI_PVP_WarMode_Enabled: War Mode on
+SAMPLER_PRESET_UI_Toast_RaidLoot: Raid loot
+SAMPLER_PRESET_UI_WorldQuest_Complete: World quest complete
+SAMPLER_PRESET_UI_Horn_04: Horn 4
+SAMPLER_PRESET_Spell_Frostmourne_Shatters: Frostmourne shatters
+SAMPLER_PRESET_Spell_DeathWhistle: Death whistle
+SAMPLER_PRESET_Spell_Cannon_Fire: Cannon fire
+SAMPLER_PRESET_Spell_Grenade_Launcher: Grenade launcher
+SAMPLER_PRESET_Spell_LegionShip_WarpIn: Legion ship warp in
+SAMPLER_PRESET_Spell_Madness_Cast_Large: Madness cast
+SAMPLER_PRESET_Spell_Madness_Impact_SanityDamage: Madness sanity damage
+SAMPLER_PRESET_Spell_Madness_Impact: Madness impact
+SAMPLER_PRESET_Spell_Madness_TonalHorn: Madness horn sound
+SAMPLER_PRESET_Spell_Maldraxxus_Crystal_Close: Cyrstal open
+SAMPLER_PRESET_Spell_Maldraxxus_Crystal_Open: Crytal close
+SAMPLER_PRESET_Spell_Maldraxxus_Crystal_Shatter: Crystal shatter
+SAMPLER_PRESET_Spell_Mechagon_Doomsday_Cast: Doomsday cast
+SAMPLER_PRESET_Spell_Titan_Beam_Loop: Titan Beam cast
+SAMPLER_PRESET_Spell_Titan_Beam_Start: Titan Beam start
+SAMPLER_PRESET_Spell_Titan_Beam_Stop: Titan Beam stop
+SAMPLER_PRESET_Spell_Coin_Drop: Coin drop
+SAMPLER_PRESET_Spell_Frost_Wind_Impact_Large: Frost wind impact
+SAMPLER_PRESET_Spell_Frost_FrozenOrb_Large: Frozen orb
+SAMPLER_PRESET_Spell_LightningStorm: Lightning storm
+SAMPLER_PRESET_Spell_Mechagnome_EmergencyFailsafe: Emergency failsafe
+SAMPLER_PRESET_Spell_ReverseTime: Reverse Time
+SAMPLER_PRESET_Spell_Anima_Ardenweald_Cast: Ardenweald cast
+SAMPLER_PRESET_Spell_Anima_Maw_Cast: Maw cast
+SAMPLER_PRESET_Spell_Anima_Maw_Impact: Maw impact
+SAMPLER_PRESET_Spell_Anima_Revendreth_Controlled_Cast: Revendreth cast
+SAMPLER_PRESET_Spell_Anima_Revendreth_Controlled_Loop: Revendreth cast loop
+SAMPLER_PRESET_Spell_Anima_Revendreth_Rage_Cast: Revendreth rage cast
+SAMPLER_PRESET_Spell_Anima_Revendreth_Rage_Impact: Revendreth rage impact
+SAMPLER_PRESET_Spell_Anima_Ardenweald_Impact: Ardenweald impact
+SAMPLER_PRESET_Spell_Anima_Ardenweald_Loop: Ardenweald loop
+SAMPLER_PRESET_Spell_Anima_Bastion_Dissapate: Bastiion dissapate
+SAMPLER_PRESET_Spell_Anima_Bastion_Forsworn_Cast: Bastion forsworn
+SAMPLER_PRESET_Spell_Anima_Bastion_Forsworn_Impact: Bastion forsworn impact
+SAMPLER_PRESET_Spell_Anima_Bastion_Impact: Bastion impact
+SAMPLER_PRESET_Spell_Anima_Maldraxxus_Cast: Maldraxxus missile
+SAMPLER_PRESET_Spell_Anima_Maldraxxus_Loop: Masldraxxus loop
+SAMPLER_PRESET_Spell_Anima_Maldraxxus_Missile_Loop: Maldraxxus missile
+SAMPLER_PRESET_Spell_Broker_Cast: Broker cast
+SAMPLER_PRESET_Spell_Broker_Impact: Broker impact
+SAMPLER_PRESET_Spell_Broker_Loop: Broker loop
+SAMPLER_PRESET_Spell_ArcaneExplosion: Arcane Explosion
+SAMPLER_PRESET_Spell_BattleShout: Battle Shout
+SAMPLER_PRESET_Spell_Bloodlust: Bloodlust
+SAMPLER_PRESET_Spell_Clearcasting: Clearcasting
+SAMPLER_PRESET_Spell_CurseofTongues: Curse of Tongues
+SAMPLER_PRESET_Spell_DeathCoil: Death Coil
+SAMPLER_PRESET_Spell_DevotionAura: Devotion Aura
+SAMPLER_PRESET_Spell_Dispel: Dispel
+SAMPLER_PRESET_Spell_DivineShield: Divine Shield
+SAMPLER_PRESET_Spell_EntanglingRoots: Entangling Roots
+SAMPLER_PRESET_Spell_Fear: Fear
+SAMPLER_PRESET_Spell_Flare: Flare
+SAMPLER_PRESET_Spell_HammeroftheRighteous: Hammer of the Righteous
+SAMPLER_PRESET_Spell_Hearthstone: Hearthstone
+SAMPLER_PRESET_Spell_Heroism: Heroism
+SAMPLER_PRESET_Spell_LightningBolt: Lightning Bolt
+SAMPLER_PRESET_Spell_LightningShield: Lightning Shield
+SAMPLER_PRESET_Spell_Moonfire: Moonfire
+SAMPLER_PRESET_Spell_Fire_Loop: Fire Spell Cast
+SAMPLER_PRESET_Spell_Frost_Loop: Frost Spell Cast
+SAMPLER_PRESET_Spell_Holy_Loop: Holy Spell Cast
+SAMPLER_PRESET_Spell_Nature_Loop: Nature Spell Cast
+SAMPLER_PRESET_Spell_Shadow_Loop: Shadow Spell Cast
+SAMPLER_PRESET_Spell_Rejuvenation: Rejuvenation
+SAMPLER_PRESET_Spell_Resurrection: Resurrection
+SAMPLER_PRESET_Spell_ShieldWall: Shield Wall
+SAMPLER_PRESET_Spell_Sleep: Sleep
+SAMPLER_PRESET_Spell_SpiritWolf: Spirit Wolf
+SAMPLER_PRESET_Spell_Sprint: Sprint
+SAMPLER_PRESET_Spell_Stealth: Stealth
+SAMPLER_PRESET_Spell_Taunt: Taunt
+SAMPLER_PRESET_Spell_Teleport: Teleport
+SAMPLER_PRESET_Spell_Tranquility: Tranquility
+SAMPLER_PRESET_Ambience_Maldraxxus_Loop: Maldraxxus
+SAMPLER_PRESET_Ambience_TheMaw_Loop: The Maw
+SAMPLER_PRESET_Ambience_Torghast_Loop: Torghast
+SAMPLER_PRESET_Ambience_Ardenweald_WithAnima_Loop: Ardenweald anima
+SAMPLER_PRESET_Ambience_Ardenweald_NoAnima_Loop: Ardenweald no anima
+SAMPLER_PRESET_Ambience_Bastion_Dark_Loop: Bastion dark
+SAMPLER_PRESET_Ambience_Bastion_Light_Loop: Bastion light
+SAMPLER_PRESET_Ambience_Oribos_Loop: Orbios
+SAMPLER_PRESET_Ambience_Revendreth_Interior: Revendreth interior
+SAMPLER_PRESET_Ambience_Torghast_Wind_Loop: Torghast wind
+SAMPLER_PRESET_Ambience_Ardenweald_AnimaRain_Loop: Anima rain
+SAMPLER_PRESET_Ambience_Maldraxxus_GhostStorm_Loop: Ghost strorm
+SAMPLER_PRESET_Ambience_Revendreth_TonalWind: Revendreth wind
+SAMPLER_PRESET_Creature_Bastion_Colossus_Horn: Colossus Horn
+SAMPLER_PRESET_Creature_Bastion_PhalynxLion: Phalynx Lion
+SAMPLER_PRESET_Creature_Maldraxxus_DeathElemental: Death Elemental
+SAMPLER_PRESET_Creature_Devourer_Gorger: Gorger
+SAMPLER_PRESET_Creature_Ardenweald_Gorm: Gorm
+SAMPLER_PRESET_Creature_Ardenweald_GormWasp: Gorm Wasp
+SAMPLER_PRESET_Creature_Bastion_Larion: Larion
+SAMPLER_PRESET_Creature_Maldraxxus_Chimaera: Chimaera
+SAMPLER_PRESET_Creature_Maw_Tarragrue: Tarragrue
+SAMPLER_PRESET_Creature_Maw_Mawrat: Mawrat
+SAMPLER_PRESET_Creature_Ardenweald_Runestag: Runestag
+SAMPLER_PRESET_Creature_Maw_Shadehound: Shadehound
+SAMPLER_PRESET_Creature_Maw_SoulEater: Soul Eater
+SAMPLER_PRESET_Creature_Maldraxxus_Tauralus: Tauralus
+SAMPLER_PRESET_Envir_Maldraxxus_SwampBubbles: Swamp bubbles
+SAMPLER_PRESET_Envir_AnimaCable_Loop: Anima cable
+SAMPLER_PRESET_Envir_AnimaCable_Ardenweald_loop: Ardenweald anima cable
+SAMPLER_PRESET_Envir_AnimaCable_Bastion_Loop: Bastion anima cable
+SAMPLER_PRESET_Envir_AnimaCable_Maldraxxus_Loop: Maldraxxus anima cable
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_01: Bell Dark 1
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_02: Bell Dark 2
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_03: Bell Dark 3
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_04: Bell Dark 4
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_05: Bell Dark 5
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_01: Bell Light 1
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_02: Bell Light 2
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_03: Bell Light 3
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_04: Bell Light 4
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_05: Bell Light 5
+SAMPLER_PRESET_Envir_Bastion_Bell_Neutral_01: Bell Neutral 1
+SAMPLER_PRESET_Envir_Bastion_Bell_Neutral_02: Bell Neutral 2
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_Large_01: Bell dark large
+SAMPLER_PRESET_Envir_Bastion_Bell_Dark_Small_01: Bell dark sm
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_Large_01: Bell light large
+SAMPLER_PRESET_Envir_Bastion_Bell_Light_Small_01: Bell light sm
+SAMPLER_PRESET_Envir_Ardenweald_Wind_Whoosh: Wind woosh
+SAMPLER_PRESET_Envir_Ardenweald_Wind_Gust: Wind gust
+SAMPLER_PRESET_Envir_Ardenweald_Wind_Leaves: Wind leaves
+SAMPLER_PRESET_Envir_Maldraxxus_Fire_Loop: Maldraxxus fire
+SAMPLER_PRESET_Envir_Maldraxxus_Ooze_Loop: Maldraxxus ooze
+SAMPLER_PRESET_Envir_Maldraxxus_PoisonGas_Swell: Maldraxxus poison gas
+SAMPLER_PRESET_Envir_Maw_Wind_Metal_Souls: Maw wind metal souls
+SAMPLER_PRESET_Envir_Maw_Wind_Tonal_Souls: Maw wind souls
+SAMPLER_PRESET_Envir_Oribos_Wind: Oribos wind
+SAMPLER_PRESET_Object_Broker_Portal_Open: Broker portal open
+SAMPLER_PRESET_Object_Broker_Portal_Loop: Broker portal loop
+SAMPLER_PRESET_Object_Broker_Rune_Open: Broker rune open
+SAMPLER_PRESET_Object_Oribos_Soulbind_Buildup: Souldbind build up
+SAMPLER_PRESET_Envir_Oribos_SoulRiver_Voice: Sould river voice
+SAMPLER_PRESET_UI_Adventures_SlowDown: Slow down
+SAMPLER_PRESET_UI_Adventures_SpeedUp: Speed up
+SAMPLER_PRESET_UI_Runecarving_Create_End: Runecarving end
+SAMPLER_PRESET_UI_Runecarving_Create_Start: Runecarving start
+SAMPLER_PRESET_UI_Runecarving_Selection_Open: Runecarving open
+SAMPLER_PRESET_UI_Runecarving_Select_Item: Runecarving select
+# end of World of Warcraft audio samples
